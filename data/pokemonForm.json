@@ -1,0 +1,1779 @@
+[
+    {
+        "alola-form":
+        [
+            {
+                "id":25,
+                "name":"Partner Pikachu",
+                "Abilities":[
+                    {
+                     "name":"",
+                     "derciption-Abilities":""
+                     
+                    }],
+                "type":[
+                    "Electric"
+                ],
+                "weak":[
+                    "ground"
+                ],
+                "strong":[
+                    "water",
+                    "flying"
+                ],
+                "Species":"Mouse Pokémon",
+                "Height": "0.4 m (1′04″)",
+                "weight":"6.0 kg (13.2 lbs)",
+                "stats":[
+                    {
+                        "hp":45,
+                        "Attack":80,
+                        "Def":50,
+                        "Sp. Atk":75,
+                        "Sp. Def":60,
+                        "Speed":120,
+                        "total":430
+                    }
+                ],
+                "Breeding":[
+                    {"Egg Groups":""},
+                    {"gender":[
+                        {"male":"50%"},
+                        {"female":"50%"}
+                    ]},
+                    {
+                        "EggCycles":"10 (2,314–2,570 steps)"
+                    }
+                ],
+                "evolotion-method":"",
+                "imge-pokemon":"https://img.pokemondb.net/artwork/pikachu-lets-go.jpg"
+
+            },
+            {
+                "id":26,
+                "name":"Alola Raichu",
+                "Abilities":[
+                    {
+                     "name":"Surge Surfer (hidden ability)",
+                     "derciption-Abilities":"Doubles the Pokémon’s Speed stat on Electric Terrain."
+                     
+                    }],
+                "type":[
+                    "Electric",
+                    "Psychic"
+                ],
+                "weak":[
+                    "ground",
+                    "Bug",
+                    "Dark",
+                    "Ghost"
+                ],
+                "strong":[
+                    "water",
+                    "flying",
+                    "Ghost",
+                    "Fighting"
+                ],
+                "Species":"Mouse Pokémon",
+                "Height": "0.7 m (2′04″)",
+                "weight":"21.0 kg (46.3 lbs)",
+                "stats":[
+                    {
+                        "hp":60,
+                        "Attack":85,
+                        "Def":50,
+                        "Sp. Atk":95,
+                        "Sp. Def":85,
+                        "Speed":110,
+                        "total":485
+                    }
+                ],
+                "Breeding":[
+                    {"Egg Groups":[
+                        "Fairy", "Field"
+                    ]},
+                    {"gender":[
+                        {"male":"50%"},
+                        {"female":"50%"}
+                    ]},
+                    {
+                        "EggCycles":"10 (2,314–2,570 steps)"
+                    }
+                ],
+                "evolotion-method":"(use Thunder Stone, in Alola)",
+                "imge-pokemon":"https://img.pokemondb.net/artwork/raichu-alolan.jpg"
+
+            },
+            {
+                "id":88,
+                "name":"Alola Grimer",
+                "Abilities":[
+                    {
+                     "name":"Poison Touch",
+                     "derciption-Abilities":"May poison targets when a Pokémon makes contact"
+                     
+                    },
+                    {
+                        "name":"Gluttony Power of Alchemy (hidden ability)",
+                        "derciption-Abilities":"The Pokémon copies the Ability of a defeated ally"
+                        
+                    }
+
+                ],
+                "type":[
+                    "Poison",
+                    "Dark"
+                ],
+                "weak":[
+                    "ground"
+                   
+                ],
+                "strong":[
+                    "Grass",
+                    "Psychic (no damge)"
+                ],
+                "Species":"Sludge Pokémon",
+                "Height": "0.7 m (2′04″)",
+                "weight":"42.0 kg (92.6 lbs)",
+                "stats":[
+                    {
+                        "hp":80,
+                        "Attack":80,
+                        "Def":50,
+                        "Sp. Atk":40,
+                        "Sp. Def":50,
+                        "Speed":25,
+                        "total":325
+                    }
+                ],
+                "Breeding":[
+                    {"Egg Groups":[
+                        "Amorphous"
+                    ]},
+                    {"gender":[
+                        {"male":"50%"},
+                        {"female":"50%"}
+                    ]},
+                    {
+                        "EggCycles":"20 (4,884–5,140 steps)"
+                    }
+                ],
+                "evolotion-method":"",
+                "imge-pokemon":"https://img.pokemondb.net/artwork/grimer-alolan.jpg"
+
+            },
+            {
+                "id":89,
+                "name":"Alola Muk",
+                "Abilities":[
+                    {
+                     "name":"Poison Touch",
+                     "derciption-Abilities":"May poison targets when a Pokémon makes contact"
+                     
+                    },
+                    {
+                        "name":"Gluttony Power of Alchemy (hidden ability)",
+                        "derciption-Abilities":"The Pokémon copies the Ability of a defeated ally"
+                        
+                    }
+
+                ],
+                "type":[
+                    "Poison",
+                    "Dark"
+                ],
+                "weak":[
+                    "ground"
+                   
+                ],
+                "strong":[
+                    "Grass",
+                    "Psychic (no damge)"
+                ],
+                "Species":"Sludge Pokémon",
+                "Height": "1.0 m (3′03″)",
+                "weight":"52.0 kg (114.6 lbs)",
+                "stats":[
+                    {
+                        "hp":105,
+                        "Attack":105,
+                        "Def":75,
+                        "Sp. Atk":65,
+                        "Sp. Def":100,
+                        "Speed":50,
+                        "total":500
+                    }
+                ],
+                "Breeding":[
+                    {"Egg Groups":[
+                        "Amorphous"
+                    ]},
+                    {"gender":[
+                        {"male":"50%"},
+                        {"female":"50%"}
+                    ]},
+                    {
+                        "EggCycles":"20 (4,884–5,140 steps)"
+                    }
+                ],
+                "evolotion-method":"(Level 38) in alola",
+                "imge-pokemon":"https://img.pokemondb.net/artwork/muk-alolan.jpg"
+
+            },
+            {
+                "id":50,
+                "name":"Alola Diglett",
+                "Abilities":[
+                    {
+                     "name":"Sand Veil(can use outside battle)",
+                     "derciption-Abilities":"Boosts the Pokémon’s evasion in a sandstorm."
+                     
+                    },
+                    {
+                        "name":"Tangling Hair Sand Force (hidden ability)",
+                        "derciption-Abilities":"Contact with the Pokémon lowers the attacker’s Speed stat."
+                    }
+
+                ],
+                "type":[
+                    "Ground",
+                    "Steel"
+                ],
+                "weak":[
+                    "ground",
+                    "Fighting",
+                    "Water",
+                    "Fire"
+                   
+                ],
+                "strong":[
+                   "Electric (no damge)",
+                   "Poision (no damge)"
+                ],
+                "Species":"Mole Pokémon",
+                "Height": "0.2 m (0′08″)",
+                "weight":"1.0 kg (2.2 lbs)",
+                "stats":[
+                    {
+                        "hp":10,
+                        "Attack":55,
+                        "Def":30,
+                        "Sp. Atk":35,
+                        "Sp. Def":45,
+                        "Speed":90,
+                        "total":265
+                    }
+                ],
+                "Breeding":[
+                    {"Egg Groups":[
+                        "Field"
+                    ]},
+                    {"gender":[
+                        {"male":"50%"},
+                        {"female":"50%"}
+                    ]},
+                    {
+                        "EggCycles":"20 (4,884–5,140 steps)"
+                    }
+                ],
+                "evolotion-method":"",
+                "imge-pokemon":"https://img.pokemondb.net/artwork/diglett-alolan.jpg"
+
+            },
+            {
+                "id":51,
+                "name":"Alola Dugtrio",
+                "Abilities":[
+                    {
+                     "name":"Sand Veil(can use outside battle)",
+                     "derciption-Abilities":"Boosts the Pokémon’s evasion in a sandstorm."
+                     
+                    },
+                    {
+                        "name":"Tangling Hair Sand Force (hidden ability)",
+                        "derciption-Abilities":"Contact with the Pokémon lowers the attacker’s Speed stat."
+                    }
+
+                ],
+                "type":[
+                    "Ground",
+                    "Steel"
+                ],
+                "weak":[
+                    "ground",
+                    "Fighting",
+                    "Water",
+                    "Fire"
+                   
+                ],
+                "strong":[
+                   "Electric (no damge)",
+                   "Poision (no damge)"
+                ],
+                "Species":"Mole Pokémon",
+                "Height": "0.2 m (0′08″)",
+                "weight":"1.0 kg (2.2 lbs)",
+                "stats":[
+                    {
+                        "hp":35,
+                        "Attack":100,
+                        "Def":60,
+                        "Sp. Atk":50,
+                        "Sp. Def":70,
+                        "Speed":110,
+                        "total":425
+                    }
+                ],
+                "Breeding":[
+                    {"Egg Groups":[
+                        "Field"
+                    ]},
+                    {"gender":[
+                        {"male":"50%"},
+                        {"female":"50%"}
+                    ]},
+                    {
+                        "EggCycles":"20 (4,884–5,140 steps)"
+                    }
+                ],
+                "evolotion-method":"(Level 26) in alola",
+                "imge-pokemon":"https://img.pokemondb.net/artwork/diglett-alolan.jpg"
+
+            },
+            {
+                "id":105,
+                "name":"Alola Marowak",
+                "Abilities":[
+                    {
+                     "name":"Cursed Body",
+                     "derciption-Abilities":"May disable a move used on the Pokémon. "
+                     
+                    },
+                    {
+                        "name":"Lightning Rod Rock Head (hidden ability)",
+                        "derciption-Abilities":"Lightning Rod forces all single-target Electric-type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. This includes the status move Thunder Wave. "
+                    }
+
+                ],
+                "type":[
+                    "Fire",
+                    "Ghost"
+                ],
+                "weak":[
+                    "ground",
+                    "Rock",
+                    "Water",
+                    "Ghost",
+                    "Dark"
+                   
+                ],
+                "strong":[
+                   "Normal (no damge)",
+                   "Fighting (no damge)"
+                ],
+                "Species":"Bone Keeper Pokémon",
+                "Height": "1.0 m (3′03″)",
+                "weight":"1.0 m (3′03″)",
+                "stats":[
+                    {
+                        "hp":60,
+                        "Attack":80,
+                        "Def":110,
+                        "Sp. Atk":50,
+                        "Sp. Def":80,
+                        "Speed":45,
+                        "total":425
+                    }
+                ],
+                "Breeding":[
+                    {"Egg Groups":[
+                        "Monster"
+                    ]},
+                    {"gender":[
+                        {"male":"50%"},
+                        {"female":"50%"}
+                    ]},
+                    {
+                        "EggCycles":"20 (4,884–5,140 steps)"
+                    }
+                ],
+                "evolotion-method":"Level 28, Nighttime, in Alola)",
+                "imge-pokemon":"https://img.pokemondb.net/artwork/marowak-alolan.jpg"
+
+            },
+            {
+                "id":74,
+                "name":"Alola Geodude",
+                "Abilities":[
+                    {
+                     "name":"Magnet Pull",
+                     "derciption-Abilities":"Magnet Pull prevents Steel type Pokémon from switching out of battle or fleeing."
+                     
+                    },
+                    {
+                        "name":"Sturdy Galvanize (hidden ability)",
+                        "derciption-Abilities":"Sturdy allows the Pokémon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves (Fissure, Horn Drill, Guillotine or Sheer Cold)."
+                    }
+
+                ],
+                "type":[
+                    "Rock",
+                    "Electric"
+                ],
+                "weak":[
+                    "ground",
+                    "Rock",
+                    "Water",
+                    "Fighting"
+                ],
+                "strong":[
+                   "water",
+                   "Flying"
+                ],
+                "Species":"Rock Pokémon",
+                "Height": "0.4 m (1′04″)",
+                "weight":"20.3 kg (44.8 lbs)",
+                "stats":[
+                    {
+                        "hp":40,
+                        "Attack":80,
+                        "Def":100,
+                        "Sp. Atk":30,
+                        "Sp. Def":30,
+                        "Speed":20,
+                        "total":300
+                    }
+                ],
+                "Breeding":[
+                    {"Egg Groups":[
+                        "Mineral"
+                    ]},
+                    {"gender":[
+                        {"male":"50%"},
+                        {"female":"50%"}
+                    ]},
+                    {
+                        "EggCycles":"15 (3,599–3,855 steps)"
+                    }
+                ],
+                "evolotion-method":"",
+                "imge-pokemon":"https://img.pokemondb.net/artwork/geodude-alolan.jpg"
+
+            }
+            ,
+            {
+                "id":75,
+                "name":"Alola Graveler",
+                "Abilities":[
+                    {
+                     "name":"Magnet Pull",
+                     "derciption-Abilities":"Magnet Pull prevents Steel type Pokémon from switching out of battle or fleeing."
+                     
+                    },
+                    {
+                        "name":"Sturdy Galvanize (hidden ability)",
+                        "derciption-Abilities":"Sturdy allows the Pokémon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves (Fissure, Horn Drill, Guillotine or Sheer Cold)."
+                    }
+
+                ],
+                "type":[
+                    "Rock",
+                    "Electric"
+                ],
+                "weak":[
+                    "ground",
+                    "Rock",
+                    "Water",
+                    "Fighting"
+                ],
+                "strong":[
+                   "water",
+                   "Flying"
+                ],
+                "Species":"Rock Pokémon",
+                "Height": "1.0 m (3′03″)",
+                "weight":"110.0 kg (242.5 lbs)",
+                "stats":[
+                    {
+                        "hp":55,
+                        "Attack":95,
+                        "Def":115,
+                        "Sp. Atk":45,
+                        "Sp. Def":45,
+                        "Speed":35,
+                        "total":390
+                    }
+                ],
+                "Breeding":[
+                    {"Egg Groups":[
+                        "Mineral"
+                    ]},
+                    {"gender":[
+                        {"male":"50%"},
+                        {"female":"50%"}
+                    ]},
+                    {
+                        "EggCycles":"15 (3,599–3,855 steps)"
+                    }
+                ],
+                "evolotion-method":"(Level 25) in alola",
+                "imge-pokemon":"https://img.pokemondb.net/artwork/graveler-alolan.jpg"
+
+            },
+            {
+                "id":76,
+                "name":"Alola Golem",
+                "Abilities":[
+                    {
+                     "name":"Magnet Pull",
+                     "derciption-Abilities":"Magnet Pull prevents Steel type Pokémon from switching out of battle or fleeing."
+                     
+                    },
+                    {
+                        "name":"Sturdy Galvanize (hidden ability)",
+                        "derciption-Abilities":"Sturdy allows the Pokémon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves (Fissure, Horn Drill, Guillotine or Sheer Cold)."
+                    }
+
+                ],
+                "type":[
+                    "Rock",
+                    "Electric"
+                ],
+                "weak":[
+                    "ground",
+                    "Rock",
+                    "Water",
+                    "Fighting"
+                ],
+                "strong":[
+                   "water",
+                   "Flying"
+                ],
+                "Species":"Rock Pokémon",
+                "Height": "1.7 m (5′07″)",
+                "weight":"316.0 kg (696.7 lbs)",
+                "stats":[
+                    {
+                        "hp":80,
+                        "Attack":120,
+                        "Def":130,
+                        "Sp. Atk":55,
+                        "Sp. Def":65,
+                        "Speed":45,
+                        "total":495
+                    }
+                ],
+                "Breeding":[
+                    {"Egg Groups":[
+                        "Mineral"
+                    ]},
+                    {"gender":[
+                        {"male":"50%"},
+                        {"female":"50%"}
+                    ]},
+                    {
+                        "EggCycles":"15 (3,599–3,855 steps)"
+                    }
+                ],
+                "evolotion-method":"(trade) in alola",
+                "imge-pokemon":"https://img.pokemondb.net/artwork/golem-alolan.jpg"
+
+            },
+            {
+                "id":19,
+                "name":"Alola Ratata",
+               "Abilities":[
+                   {
+                    "name":"Gluttony",
+                    "derciption-Abilities":"Makes the Pokémon use a held Berry earlier than usual."
+                    
+                   },
+                   {
+                    "name":"Hustle (can use outside battle)",
+                    "derciption-Abilities":"Hustle increases the ability-bearer's Attack by 50%, however, it also reduces the Accuracy of all Physical moves by 20%."
+                    
+                   },
+                   {
+                    "name":"Thick Fat  (hidden ability)",
+                    "derciption-Abilities":"Thick Fat reduces the damage taken from Fire-type and Ice-type moves by 50%."
+                    
+                   }
+               ],
+                "type":[
+                    "Dark",
+                    "Normal"
+                ],
+                "weak":[
+                    "Fairy",
+                    "Bug",
+                    "Fighting x4"
+                ],
+                "strong":[
+                   "Ghost (no damge)",
+                   "Psychic (no damge)"
+                ],
+                "Species":"Mouse Pokémon",
+                "Height":"0.3 m (1′00″)",
+                "weight":"3.8 kg (8.4 lbs)",
+                "stats":[
+                    {
+                        "hp":30,
+                        "Attack":56,
+                        "Def":35,
+                        "Sp. Atk":25,
+                        "Sp. Def":35,
+                        "Speed":72,
+                        "total":253
+                    }
+                ],
+                "Breeding":[
+                    {"Egg Groups":[
+                        "Field"
+                    ]},
+                    {"gender":[
+                        {"male":"50%"},
+                        {"female":"50%"}
+                    ]},
+                    {
+                        "EggCycles":"15 (3,599–3,855 steps)"
+                    }
+                ],
+                "evolotion-method":"",
+                "imge-pokemon":"https://img.pokemondb.net/artwork/rattata-alolan.jpg"
+
+            },
+            {
+                "id":20,
+                "name":"Alola Raticate",
+               "Abilities":[
+                   {
+                    "name":"Gluttony",
+                    "derciption-Abilities":"Makes the Pokémon use a held Berry earlier than usual."
+                    
+                   },
+                   {
+                    "name":"Hustle (can use outside battle)",
+                    "derciption-Abilities":"Hustle increases the ability-bearer's Attack by 50%, however, it also reduces the Accuracy of all Physical moves by 20%."
+                    
+                   },
+                   {
+                    "name":"Thick Fat  (hidden ability)",
+                    "derciption-Abilities":"Thick Fat reduces the damage taken from Fire-type and Ice-type moves by 50%."
+                    
+                   }
+               ],
+                "type":[
+                    "Dark",
+                    "Normal"
+                ],
+                "weak":[
+                    "Fairy",
+                    "Bug",
+                    "Fighting x4"
+                ],
+                "strong":[
+                   "Ghost (no damge)",
+                   "Psychic (no damge)"
+                ],
+                "Species":"Mouse Pokémon",
+                "Height":"0.3 m (1′00″)",
+                "weight":"3.8 kg (8.4 lbs)",
+                "stats":[
+                    {
+                        "hp":75,
+                        "Attack":71,
+                        "Def":70,
+                        "Sp. Atk":40,
+                        "Sp. Def":80,
+                        "Speed":77,
+                        "total":413
+                    }
+                ],
+                "Breeding":[
+                    {"Egg Groups":[
+                        "Field"
+                    ]},
+                    {"gender":[
+                        {"male":"50%"},
+                        {"female":"50%"}
+                    ]},
+                    {
+                        "EggCycles":"15 (3,599–3,855 steps)"
+                    }
+                ],
+                "evolotion-method":"(Level 20, Nighttime) in alola",
+                "imge-pokemon":"https://img.pokemondb.net/artwork/raticate-alolan.jpg"
+
+            },
+            {
+            "id":52,
+            "name":"Alola Meowth",
+           "Abilities":[
+               {
+                "name":"Pickup (can use outside battle)",
+                "derciption-Abilities":"When another Pokémon on the field uses a single-use held item, a Pokémon with Pickup will obtain the used item (if they are not already holding anything) and it can be used again."
+                
+               },
+               {
+                "name":" Technician ",
+                "derciption-Abilities":"Technician increases the power of moves - that are usually base power 60 or below - by 50%."
+                
+               },
+               {
+                "name":"Rattled (hidden ability)",
+                "derciption-Abilities":"When a Pokémon with Rattled is hit by a Bug, Ghost or Dark type move, its Speed is raised one stage (up to the usual maximum of +6 stages)."
+                
+               }
+           ],
+          
+            "type":[
+                "Dark"
+               
+            ],
+            "weak":[
+                "Fairy",
+                "Fighting"
+            ],
+            "strong":[
+             
+               "Psychic (no damge)"
+            ],
+            "Species":"Scratch Cat Pokémon",
+            "Height":"0.4 m (1′04″)",
+            "weight":"4.2 kg (9.3 lbs)",
+            "stats":[
+                {
+                    "hp":40,
+                    "Attack":35,
+                    "Def":35,
+                    "Sp. Atk":50,
+                    "Sp. Def":40,
+                    "Speed":90,
+                    "total":290
+                }
+            ],
+            "Breeding":[
+                {"Egg Groups":[
+                    "Field"
+                ]},
+                {"gender":[
+                    {"male":"50%"},
+                    {"female":"50%"}
+                ]},
+                {
+                    "EggCycles":"20 (4,884–5,140 steps)"
+                }
+            ],
+            "evolotion-method":"",
+            "imge-pokemon":"https://img.pokemondb.net/artwork/meowth-alolan.jpg"
+
+        },
+        {
+            "id":53,
+            "name":"Alola Persian",
+           "Abilities":[
+               {
+                "name":" Fur Coat",
+                "derciption-Abilities":"Fur Coat reduces damage taken from physical attacks by 50%."
+                
+               },
+               {
+                "name":" Technician ",
+                "derciption-Abilities":"Technician increases the power of moves - that are usually base power 60 or below - by 50%."
+                
+               },
+               {
+                "name":"Rattled (hidden ability)",
+                "derciption-Abilities":"When a Pokémon with Rattled is hit by a Bug, Ghost or Dark type move, its Speed is raised one stage (up to the usual maximum of +6 stages)."
+                
+               }
+           ],
+          
+            "type":[
+                "Dark"
+               
+            ],
+            "weak":[
+                "Fairy",
+                "Fighting"
+            ],
+            "strong":[
+               "Psychic (no damge)"
+            ],
+            "Species":"Classy Cat Pokémon",
+            "Height":"0.4 m (1′04″)",
+            "weight":"4.2 kg (9.3 lbs)",
+            "stats":[
+                {
+                    "hp":65,
+                    "Attack":60,
+                    "Def":60,
+                    "Sp. Atk":75,
+                    "Sp. Def":65,
+                    "Speed":115,
+                    "total":440
+                }
+            ],
+            "Breeding":[
+                {"Egg Groups":[
+                    "Field"
+                ]},
+                {"gender":[
+                    {"male":"50%"},
+                    {"female":"50%"}
+                ]},
+                {
+                    "EggCycles":"20 (4,884–5,140 steps)"
+                }
+            ],
+            "evolotion-method":"(high Friendship) in alola",
+            "imge-pokemon":"https://img.pokemondb.net/artwork/meowth-alolan.jpg"
+
+        },
+        {
+            "id":27,
+            "name":"Alola Sandshrew",
+           "Abilities":[
+               {
+                "name":"Snow Cloak",
+                "derciption-Abilities":"Snow Cloak raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being Ice type)."
+                
+               },
+               {
+                "name":"Slush Rush (hidden ability)",
+                "derciption-Abilities":"Boosts the Pokémon's Speed stat in a hailstorm. "
+                
+               }
+             
+           ],
+          
+            "type":[
+                "Ice",
+                "Steel"
+               
+            ],
+            "weak":[
+                "Fire x4" ,
+                "Fighting x4",
+                "ground"
+            ],
+            "strong":[
+               "Poisioin (no damge)"
+            ],
+            "Species":"Mouse Pokémon",
+            "Height":"0.7 m (2′04″)",
+            "weight":"40.0 kg (88.2 lbs)",
+            "stats":[
+                {
+                    "hp":50,
+                    "Attack":75,
+                    "Def":90,
+                    "Sp. Atk":10,
+                    "Sp. Def":35,
+                    "Speed":40,
+                    "total":300
+                }
+            ],
+            "Breeding":[
+                {"Egg Groups":[
+                    "Field"
+                ]},
+                {"gender":[
+                    {"male":"50%"},
+                    {"female":"50%"}
+                ]},
+                {
+                    "EggCycles":"20 (4,884–5,140 steps)"
+                }
+            ],
+            "evolotion-method":"",
+            "imge-pokemon":"https://img.pokemondb.net/artwork/sandshrew-alolan.jpg"
+
+        },
+        {
+            "id":28,
+            "name":"Alola SandSlash",
+           "Abilities":[
+               {
+                "name":"Snow Cloak",
+                "derciption-Abilities":"Snow Cloak raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being Ice type)."
+                
+               },
+               {
+                "name":"Slush Rush (hidden ability)",
+                "derciption-Abilities":"Boosts the Pokémon's Speed stat in a hailstorm. "
+                
+               }
+             
+           ],
+          
+            "type":[
+                "Ice",
+                "Steel"
+               
+            ],
+            "weak":[
+                "Fire x4",
+                "Fighting x4",
+                "ground"
+            ],
+            "strong":[
+               "Poisioin (no damge)"
+            ],
+            "Species":"Mouse Pokémon",
+            "Height":"1.2 m (3′11″)",
+            "weight":"55.0 kg (121.3 lbs)",
+            "stats":[
+                {
+                    "hp":75,
+                    "Attack":100,
+                    "Def":120,
+                    "Sp. Atk":25,
+                    "Sp. Def":65,
+                    "Speed":65,
+                    "total":450
+                }
+            ],
+            "Breeding":[
+                {"Egg Groups":[
+                    "Field"
+                ]},
+                {"gender":[
+                    {"male":"50%"},
+                    {"female":"50%"}
+                ]},
+                {
+                    "EggCycles":"20 (4,884–5,140 steps)"
+                }
+            ],
+            "evolotion-method":"(use Ice Stone)",
+            "imge-pokemon":"https://img.pokemondb.net/artwork/sandslash-alolan.jpg"
+
+        },
+        {
+            "id":37,
+            "name":"Alola Vulpix",
+           "Abilities":[
+               {
+                "name":"Snow Cloak",
+                "derciption-Abilities":"Snow Cloak raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being Ice type)."
+                
+               },
+               {
+                "name":"Snow Warning (hidden ability)",
+                "derciption-Abilities":"Snow Warning creates a hailstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
+                
+               }
+             
+           ],
+          
+            "type":[
+                "Ice"
+               
+            ],
+            "weak":[
+                "Fire",
+                "Fighting",
+                "Rock",
+                "Steel"
+            ],
+            "strong":[
+               "Dragon",
+               "Grass"
+            ],
+            "Species":"Fox Pokémon",
+            "Height":"0.6 m (2′00″)",
+            "weight":"9.9 kg (21.8 lbs)",
+            "stats":[
+                {
+                    "hp":38,
+                    "Attack":41,
+                    "Def":40,
+                    "Sp. Atk":50,
+                    "Sp. Def":65,
+                    "Speed":65,
+                    "total":299
+                }
+            ],
+            "Breeding":[
+                {"Egg Groups":[
+                    "Field"
+                ]},
+                {"gender":[
+                    {"male":"25%"},
+                    {"female":"75%"}
+                ]},
+                {
+                    "EggCycles":"20 (4,884–5,140 steps)"
+                }
+            ],
+            "evolotion-method":"(use Leaf Stone, in Alola)",
+            "imge-pokemon":"https://img.pokemondb.net/artwork/exeggutor-alolan.jpg"
+
+        },
+        {
+            "id":37,
+            "name":"Alola Ninetales",
+           "Abilities":[
+               {
+                "name":"Snow Cloak",
+                "derciption-Abilities":"Snow Cloak raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being Ice type)."
+                
+               },
+               {
+                "name":"Snow Warning (hidden ability)",
+                "derciption-Abilities":"Snow Warning creates a hailstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
+                
+               }
+             
+           ],
+          
+            "type":[
+                "Ice"
+               
+            ],
+            "weak":[
+                "Fire",
+                "Fighting",
+                "Rock",
+                "Steel"
+            ],
+            "strong":[
+               "Dragon",
+               "Grass"
+            ],
+            "Species":"Fox Pokémon",
+            "Height":"1.1 m (3′07″)",
+            "weight":"19.9 kg (43.9 lbs)",
+            "stats":[
+                {
+                    "hp":73,
+                    "Attack":67,
+                    "Def":75,
+                    "Sp. Atk":81,
+                    "Sp. Def":100,
+                    "Speed":109,
+                    "total":505
+                }
+            ],
+            "Breeding":[
+                {"Egg Groups":[
+                    "Field"
+                ]},
+                {"gender":[
+                    {"male":"25%"},
+                    {"female":"75%"}
+                ]},
+                {
+                    "EggCycles":"20 (4,884–5,140 steps)"
+                }
+            ],
+            "evolotion-method":"(use Ice Stone)",
+            "imge-pokemon":"https://img.pokemondb.net/artwork/ninetales-alolan.jpg"
+
+        },
+        {
+            "id":103,
+            "name":"Alola Exeggutor",
+           "Abilities":[
+               {
+                "name":"Frisk",
+                "derciption-Abilities":"The Pokémon can check a foe's held item. "
+                
+               },
+               {
+                "name":"Harvest (hidden ability)",
+                "derciption-Abilities":"May create another Berry after one is used. "
+                
+               }
+             
+           ],
+          
+            "type":[
+                "Grass",
+                "Dragon"
+               
+            ],
+            "weak":[
+                "Ice x4",
+                "Poison",
+                "Fairy",
+                "Flying",
+                "Bug",
+                "Dragon"
+            ],
+            "strong":[
+               "Dragon",
+               "water"
+               
+            ],
+            "Species":"Coconut Pokémon",
+            "Height":"10.9 m (35′09″)",
+            "weight":"415.6 kg (916.2 lbs)",
+            "stats":[
+                {
+                    "hp":95,
+                    "Attack":105,
+                    "Def":85,
+                    "Sp. Atk":125,
+                    "Sp. Def":75,
+                    "Speed":75,
+                    "total":530
+                }
+            ],
+            "Breeding":[
+                {"Egg Groups":[
+                    "Grass"
+                ]},
+                {"gender":[
+                    {"male":"50%"},
+                    {"female":"50%"}
+                ]},
+                {
+                    "EggCycles":"20 (4,884–5,140 steps)"
+                }
+            ],
+            "evolotion-method":"(use Ice Stone)",
+            "imge-pokemon":"https://img.pokemondb.net/artwork/ninetales-alolan.jpg"
+
+        }
+
+
+        ]
+    },
+    {
+        "mega-form":[
+            {
+                "name":"Venusaur",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/7/73/003Venusaur-Mega.png/600px-003Venusaur-Mega.png",
+                "type":[
+                    "grass",
+                    "poison"
+                ],
+                "Ability ":"Thick Fat",
+                "height":"7'10 (2.4 m)",
+                "Weight":"342.8 lbs (155.5 kg)",
+                "MegaStone":"Venusaurite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/6/61/Dream_Venusaurite_Sprite.png"
+                
+            },
+            {
+                "name":"Charizard Mega X",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/3/36/006Charizard-Mega_X.png",
+                "type":[
+                    " Fire",
+                    "Dragon"
+                ],
+                "Ability ":"Tough Claws",
+                "height":"5'07 (1.7 m)",
+                "Weight":"243.6 lbs. (110.5 kg)",
+                "MegaStone":"Charizardite X",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/5/5f/Dream_Charizardite_X_Sprite.png"
+                
+            },
+            {
+                "name":"Charizard Mega Y",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/f/fd/006Charizard-Mega_Y.png/150px-006Charizard-Mega_Y.png",
+                "type":[
+                    " Fire",
+                    "Flying "
+                ],
+                "Ability ":"Drought",
+                "height":"5'07 (1.7 m)",
+                "Weight":"221.6 lbs. (100.5 kg)",
+                "MegaStone":"Charizardite Y",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/7/7c/Dream_Charizardite_Y_Sprite.png"
+                
+            },
+            {
+                "name":"Blastoise",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/8/85/009Blastoise-Mega.png/150px-009Blastoise-Mega.png",
+                "type":["Water"],
+                "Ability ":"Mega Launcher",
+                "height":"5'03 (1.6 m) ",
+                "Weight":"222.9 lbs. (101.1 kg)",
+                "MegaStone":"Blastoisinite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/a/ad/Dream_Blastoisinite_Sprite.png"
+                
+            },
+            {
+                "name":"Alakazam",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/3/34/065Alakazam-Mega.png/150px-065Alakazam-Mega.png",
+                "type":["Psychic"],
+                "Ability ":"Trace",
+                "height":"3'11 (1.2 m)",
+                "Weight":"105.8 lbs. (48.0 kg) ",
+                "MegaStone":"Alakazite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/6/6d/Dream_Alakazite_Sprite.png"
+                
+            },
+            {
+                "name":"Gengar",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/8/80/094Gengar-Mega.png/150px-094Gengar-Mega.png",
+                "type":[
+                    "Ghost",
+                     "Poison"
+                ],
+                "Ability ":"Shadow Tag",
+                "height":"4'07 (1.4 m)",
+                "Weight":"89.3 lbs. (40.5 kg)",
+                "MegaStone":"Gengarite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/a/ab/Dream_Gengarite_Sprite.png"
+                
+            },
+            {
+                "name":"Kangaskhan",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/e/e3/115Kangaskhan-Mega.png/150px-115Kangaskhan-Mega.png",
+                "type":[
+                    "normal"
+                    
+                ],
+                "Ability ":"Parental Bond",
+                "height":"7'03 (2.2 m)",
+                "Weight":"220.5 lbs. (100.0 kg) ",
+                "MegaStone":"Kangaskhanite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/5/50/Dream_Kangaskhanite_Sprite.png"
+                
+            },
+            {
+                "name":"Pinsir",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/7/74/127Pinsir-Mega.png/150px-127Pinsir-Mega.png",
+                "type":[
+                    " Bug ","Flying "
+                    
+                ],
+                "Ability ":"Aerilate",
+                "height":"5'07 (1.7 m)",
+                "Weight":"130.1 lbs. (59.0 kg)",
+                "MegaStone":"Pinsirite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/b/bd/Dream_Pinsirite_Sprite.png"
+                
+            },
+            {
+                "name":"Gyarados",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/3/30/130Gyarados-Mega.png/150px-130Gyarados-Mega.png",
+                "type":[
+                    "Water","Dark"
+                    
+                ],
+                "Ability ":"Mold Breaker",
+                "height":"21'04 (6.5 m) ",
+                "Weight":"672.4 lbs. (305.0 kg) ",
+                "MegaStone":"Gyaradosite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/d/d7/Dream_Gyaradosite_Sprite.png"
+                
+            },
+            {
+                "name":"Aerodactyl",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/a/a5/142Aerodactyl-Mega.png/150px-142Aerodactyl-Mega.png",
+                "type":[
+                    "Rock","Flying"
+                ],
+                "Ability ":"Tough Claws",
+                "height":"6'11 (2.1 m) ",
+                "Weight":"174.2 lbs. (79.0 kg) ",
+                "MegaStone":"Aerodactylite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/8/89/Dream_Aerodactylite_Sprite.png"
+                
+            },
+            {
+                "name":"Mewtwo Mega X",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/7/7f/150Mewtwo-Mega_X.png/150px-150Mewtwo-Mega_X.png",
+                "type":[
+                    "Psychic","Fighting"
+                ],
+                "Ability ":"Steadfast",
+                "height":"7'07 (2.3 m)",
+                "Weight":"280.0 lbs. (127.0 kg)",
+                "MegaStone":"Mewtwonite X",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/b/b1/Dream_Mewtwonite_X_Sprite.png"
+                
+            },
+            {
+                "name":"Mewtwo Mega Y",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/5/5f/150Mewtwo-Mega_Y.png/150px-150Mewtwo-Mega_Y.png",
+                "type":[
+                    "Psychic",""
+                ],
+                "Ability ":"Insomnia",
+                "height":"4'11 (1.5 m) ",
+                "Weight":"72.8 lbs. (33.0 kg) ",
+                "MegaStone":"Mewtwonite Y ",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/b/b7/Dream_Mewtwonite_Y_Sprite.png"
+                
+            },
+            {
+                "name":"Ampharos",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/a/a2/181Ampharos-Mega.png/150px-181Ampharos-Mega.png",
+                "type":[
+                    " Electric","Dragon"
+                ],
+                "Ability ":"Mold Breaker",
+                "height":"4'07 (1.4 m) ",
+                "Weight":"135.6 lbs. (61.5 kg)",
+                "MegaStone":"Ampharosite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/d/d2/Dream_Ampharosite_Sprite.png"
+                
+            },
+            {
+                "name":"Scizor",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/8/80/212Scizor-Mega.png/150px-212Scizor-Mega.png",
+                "type":[
+                    " Bug","Steel"
+                ],
+                "Ability ":"Technician",
+                "height":"6'07 (2.0 m)",
+                "Weight":"275.6 lbs. (125.0 kg) ",
+                "MegaStone":"Scizorite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/1/13/Dream_Scizorite_Sprite.png"
+                
+            },
+            {
+                "name":"Heracross",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/d/da/214Heracross-Mega.png/150px-214Heracross-Mega.png",
+                "type":[
+                    " Bug","Fighting "
+                ],
+                "Ability ":"Skill Link",
+                "height":"5'07 (1.7 m) ",
+                "Weight":"137.8 lbs. (62.5 m) ",
+                "MegaStone":"Heracronite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/c/ce/Dream_Heracronite_Sprite.png"
+                
+            },
+            {
+                "name":"Houndoom",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/3/39/229Houndoom-Mega.png/150px-229Houndoom-Mega.png",
+                "type":[
+                    "Dark","Fire "
+                ],
+                "Ability ":"Solar Power",
+                "height":"6'03 (1.9 m)",
+                "Weight":"109.1 lbs. (49.5 kg) ",
+                "MegaStone":"Houndoominite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/4/42/Dream_Houndoominite_Sprite.png"
+                
+            },
+            {
+                "name":"Tyranitar",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/0/0d/248Tyranitar-Mega.png/150px-248Tyranitar-Mega.png",
+                "type":[
+                    "Rock","Dark"
+                ],
+                "Ability ":"Sand Stream",
+                "height":"8'02 (2.5 m)",
+                "Weight":"562.2 lbs. (255.0 kg) ",
+                "MegaStone":"Tyranitarite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/0/0e/Dream_Tyranitarite_Sprite.png"
+                
+            },
+            {
+                "name":"Blaziken",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/f/fa/257Blaziken-Mega.png/150px-257Blaziken-Mega.png",
+                "type":[
+                    "Fire","Fighting"
+                ],
+                "Ability ":"Speed Boost",
+                "height":"6'03 (1.9 m) ",
+                "Weight":"114.6 lbs. (52.0 kg)",
+                "MegaStone":"Blazikenite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/b/b3/Dream_Blazikenite_Sprite.png"
+                
+            },
+            {
+                    	 		
+                "name":"Gardevoir",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/2/20/282Gardevoir-Mega.png/150px-282Gardevoir-Mega.png",
+                "type":[
+                    "Psychic","Fairy"
+                ],
+                "Ability ":"Speed Boost",
+                "height":"5'03 (1.6 m) ",
+                "Weight":"106.7 lbs. (48.4 kg)",
+                "MegaStone":"Gardevoirite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/d/d9/Dream_Gardevoirite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Mawile",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/8/86/303Mawile-Mega.png/150px-303Mawile-Mega.png",
+                "type":[
+                    "Steel","Fairy"
+                ],
+                "Ability ":"Huge Power",
+                "height":"3'03 (1.0 m)",
+                "Weight":"51.8 lbs. (23.5 kg) ",
+                "MegaStone":"Mawilite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/f/fe/Dream_Mawilite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Aggron",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/1/10/306Aggron-Mega.png/150px-306Aggron-Mega.png",
+                "type":[
+                    "Steel",""
+                ],
+                "Ability ":"Filter",
+                "height":"7'03 (2.2 m)",
+                "Weight":"870.8 lbs. (395.0 kg)",
+                "MegaStone":"Aggronite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/3/30/Dream_Aggronite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Medicham",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/1/10/306Aggron-Mega.png/150px-306Aggron-Mega.png",
+                "type":[
+                    "Fighting","Psychic"
+                ],
+                "Ability ":"Pure Power",
+                "height":"4'03 (1.3 m)",
+                "Weight":"69.4 lbs. (31.5 kg) ",
+                "MegaStone":"Medichamite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/3/32/Dream_Medichamite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Manectric",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/b/bc/310Manectric-Mega.png/150px-310Manectric-Mega.png",
+                "type":[
+                    "Electric",""
+                ],
+                "Ability ":"Intimidate",
+                "height":"5'11 (1.8 m) ",
+                "Weight":"97.0 lbs. (44.0 kg)",
+                "MegaStone":"Manectite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/6/61/Dream_Manectite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Banette",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/a/a3/354Banette-Mega.png/150px-354Banette-Mega.png",
+                "type":[
+                    "Ghost",""
+                ],
+                "Ability ":"Prankster",
+                "height":"3'11 (1.2 m) ",
+                "Weight":"28.7 lbs. (13.0 kg)",
+                "MegaStone":"Banettite",
+                "image-megaStone":"https://cdn.bulbagarden.net/upload/8/80/Dream_Banettite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Absol",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/f/f4/359Absol-Mega.png/150px-359Absol-Mega.png",
+                "type":[
+                    "Dark",""
+                ],
+                "Ability ":"Magic Bounce",
+                "height":"3'11 (1.2 m) ",
+                "Weight":"108.0 lbs. (49.0 kg)",
+                "MegaStone":"Absolite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/4/4b/Dream_Absolite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Garchomp",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/b/b2/445Garchomp-Mega.png/150px-445Garchomp-Mega.png",
+                "type":[
+                    "Dragon","Ground"
+                ],
+                "Ability ":"Sand Force",
+                "height":"6'03 (1.9 m)",
+                "Weight":"209.4 lbs. (95.0 kg) ",
+                "MegaStone":"Garchompite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/e/ea/Dream_Garchompite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Lucario",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/b/b9/448Lucario-Mega.png/150px-448Lucario-Mega.png",
+                "type":[
+                    "Fighting","Steel"
+                ],
+                "Ability ":"Adaptability",
+                "height":"4'03 (1.3 m) ",
+                "Weight":"126.8 lbs. (57.5 kg)",
+                "MegaStone":"Lucarionite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/5/53/Dream_Lucarionite_Sprite.png"
+                
+            }
+            , {	 		
+                "name":"Abomasnow",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/d/dc/460Abomasnow-Mega.png/150px-460Abomasnow-Mega.png",
+                "type":[
+                    "Grass","Ice"
+                ],
+                "Ability ":"Snow Warning",
+                "height":"8'10 (2.7 m)",
+                "Weight":"407.9 lbs. (185.0 kg)",
+                "MegaStone":"Abomasite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/a/ac/Dream_Abomasite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Beedrill",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/7/76/015Beedrill-Mega.png/150px-015Beedrill-Mega.png",
+                "type":[
+                    "Bug","Poison"
+                ],
+                "Ability ":"Adaptability",
+                "height":"4'07 (1.4 m)",
+                "Weight":"89.3 lbs. (40.5 kg) ",
+                "MegaStone":"Beedrill",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/c/cc/Dream_Beedrillite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Pidgeot",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/7/71/018Pidgeot-Mega.png/150px-018Pidgeot-Mega.png",
+                "type":[
+                    "Normal","Flying"
+                ],
+                "Ability ":"No Guard",
+                "height":"7'03 (2.2 m)",
+                "Weight":"111.3 lbs. (50.5 kg)",
+                "MegaStone":"Pidgeotite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/e/e3/Dream_Pidgeotite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Slowbro",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/6/69/080Slowbro-Mega.png/150px-080Slowbro-Mega.png",
+                "type":[
+                    "Water","Psychic"
+                ],
+                "Ability ":"Shell Armor",
+                "height":"6'07 (2.0 m)",
+                "Weight":"264.6 lbs. (120.0 kg)",
+                "MegaStone":"Slowbronite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/6/68/Dream_Slowbronite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Steelix",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/1/1b/208Steelix-Mega.png/150px-208Steelix-Mega.png",
+                "type":[
+                    "Steel","Ground"
+                ],
+                "Ability ":"Sand Force",
+                "height":"34'05 (10.5 m)",
+                "Weight":"1631.4 lbs. (740.0 kg) ",
+                "MegaStone":"Steelixite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/2/22/Dream_Steelixite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Sceptile",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/6/67/254Sceptile-Mega.png/150px-254Sceptile-Mega.png",
+                "type":[
+                    "Grass","Dragon"
+                ],
+                "Ability ":"Lightning Rod",
+                "height":"6'03 (1.9 m)",
+                "Weight":"121.7 lbs. (55.2 kg)",
+                "MegaStone":"Sceptilite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/5/55/Dream_Sceptilite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Swampert",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/9/98/260Swampert-Mega.png/150px-260Swampert-Mega.png",
+                "type":[
+                    "Water","Ground"
+                ],
+                "Ability ":"Swift Swim",
+                "height":"6'03 (1.9 m) ",
+                "Weight":"224.9 lbs. (102.0 kg) ",
+                "MegaStone":"Swampertite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/3/3a/Dream_Swampertite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Sableye",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/e/e9/302Sableye-Mega.png/150px-302Sableye-Mega.png",
+                "type":[
+                    "Dark","Ghost"
+                ],
+                "Ability ":"Magic Bounce",
+                "height":"1'08 (0.5 m)",
+                "Weight":"354.9 lbs. (161.0 kg)",
+                "MegaStone":"Sablenite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/0/0c/Dream_Sablenite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Sharpedo",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/3/35/319Sharpedo-Mega.png/150px-319Sharpedo-Mega.png",
+                "type":[
+                    "Water","Dark"
+                ],
+                "Ability ":"Strong Jaw",
+                "height":"8'02 (2.5 m) ",
+                "Weight":"287.3 lbs. (130.3 kg) ",
+                "MegaStone":"Sharpedonite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/6/67/Dream_Sharpedonite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Camerupt",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/9/96/323Camerupt-Mega.png/150px-323Camerupt-Mega.png",
+                "type":[
+                    "Fire","Ground"
+                ],
+                "Ability ":"Sheer Force",
+                "height":"8'02 (2.5 m) ",
+                "Weight":"706.6 lbs. (320.5 kg)",
+                "MegaStone":"Cameruptite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/3/3a/Dream_Cameruptite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Altaria",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/0/08/334Altaria-Mega.png/150px-334Altaria-Mega.png",
+                "type":[
+                    "Dragon","Fairy"
+                ],
+                "Ability ":"Pixilate",
+                "height":"4'11 (1.5 m)",
+                "Weight":"45.4 lbs. (20.6 kg)",
+                "MegaStone":"Altarianite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/4/4c/Dream_Altarianite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Glalie",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/0/0d/362Glalie-Mega.png/150px-362Glalie-Mega.png",
+                "type":[
+                    " Ice ",""
+                ],
+                "Ability ":"Refrigerate",
+                "height":"6'11 (2.1 m)",
+                "Weight":"772.1 lbs. (350.2 kg) ",
+                "MegaStone":"Glalitite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/a/a6/Dream_Glalitite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Salamence",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/f/f3/373Salamence-Mega.png/150px-373Salamence-Mega.png",
+                "type":[
+                    "Dragon","Flying"
+                ],
+                "Ability ":"Aerilate",
+                "height":"5'11 (1.8 m)",
+                "Weight":"248.2 lbs. (112.6 kg)",
+                "MegaStone":"Salamencite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/2/2c/Dream_Salamencite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Metagross",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/f/f3/373Salamence-Mega.png/150px-373Salamence-Mega.png",
+                "type":[
+                    "Steel","Psychic"
+                ],
+                "Ability ":"Tough Claws",
+                "height":"8'02 (2.5 m) ",
+                "Weight":"2078.7 lbs. (942.9 kg)",
+                "MegaStone":"Metagrossite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/2/2c/Dream_Salamencite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Latias",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/0/0f/380Latias-Mega.png/150px-380Latias-Mega.png",
+                "type":[
+                    " Dragon","Psychic"
+                ],
+                "Ability ":"Levitate",
+                "height":"5'11 (1.8 m)",
+                "Weight":"114.6 lbs. (52.0 kg)",
+                "MegaStone":"Latiasite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/0/08/Dream_Latiasite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Latios",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/a/a0/381Latios-Mega.png/150px-381Latios-Mega.png",
+                "type":[
+                    "Dragon","Psychic"
+                ],
+                "Ability ":"Levitate",
+                "height":"7'07 (2.3 m)",
+                "Weight":"154.3 lbs. (70.0 kg)",
+                "MegaStone":"Latiosite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/1/10/Dream_Latiosite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Rayquaza",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/5/58/384Rayquaza-Mega.png/150px-384Rayquaza-Mega.png",
+                "type":[
+                    "Dragon","Flying"
+                ],
+                "Ability ":"Delta Stream",
+                "height":"35'05 (10.8 m) ",
+                "Weight":"864.2 lbs. (392.0 kg) ",
+                "MegaStone":"",
+                "image-megaSte":""
+                
+            },
+            {	 		
+                "name":"Lopunny",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/d/dc/428Lopunny-Mega.png/150px-428Lopunny-Mega.png",
+                "type":[
+                    "Normal","Fighting"
+                ],
+                "Ability ":"Scrappy",
+                "height":"4'03 (1.3 m)",
+                "Weight":"62.4 lbs. (28.3 kg)",
+                "MegaStone":"Lopunnite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/8/89/Dream_Lopunnite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Gallade",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/f/f3/475Gallade-Mega.png/150px-475Gallade-Mega.png",
+                "type":[
+                    "Psychic","Fighting"
+                ],
+                "Ability ":"Inner Focus",
+                "height":"5'03 (1.6 m)",
+                "Weight":"124.3 lbs. (56.4 kg)",
+                "MegaStone":"Galladite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/0/0c/Dream_Galladite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Audino",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/1/17/531Audino-Mega.png/150px-531Audino-Mega.png",
+                "type":[
+                    "Normal","Fairy"
+                ],
+                "Ability ":"Healer",
+                "height":"4'11 (1.5 m) ",
+                "Weight":"70.5 lbs. (32.0 kg)",
+                "MegaStone":"Audinite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/f/f8/Dream_Audinite_Sprite.png"
+                
+            },
+            {	 		
+                "name":"Diancie",
+                "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/8/8f/719Diancie-Mega.png/150px-719Diancie-Mega.png",
+                "type":[
+                    "Rock","Fairy"
+                ],
+                "Ability ":"Magic Bounce",
+                "height":"3'07 (1.1 m)",
+                "Weight":"61.3 lbs. (27.8 kg) ",
+                "MegaStone":"Diancite",
+                "image-megaSte":"https://cdn.bulbagarden.net/upload/2/2c/Dream_Diancite_Sprite.png"
+                
+            }
+
+
+
+        ]
+    }
+]
