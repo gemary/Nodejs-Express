@@ -12416,7 +12416,7 @@
       "abilities": [
         "Levitate"
       ],
-      "detailPageURL": "/us/pokedex/rotom",
+      "detailPageURL": "",
       "weight": 0.7,
       "weakness": [
         "Fire",
@@ -12426,13 +12426,13 @@
       ],
       "number": "479",
       "height": 12,
-      "collectibles_slug": "rotom",
+      "collectibles_slug": "mow rotom",
       "featured": "true",
-      "slug": "rotom",
-      "name": "Rotom",
-      "ThumbnailAltText": "Rotom",
-      "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png",
-      "id": 479,
+      "slug": "mow rotom",
+      "name": "Mow Rotom",
+      "ThumbnailAltText": "Mow Rotom",
+      "ThumbnailImage": "https://img.pokemondb.net/artwork/rotom-mow.jpg",
+      "id": 479.5,
       "type": [
         "electric",
         "grass"
@@ -12442,7 +12442,7 @@
       "abilities": [
         "Levitate"
       ],
-      "detailPageURL": "/us/pokedex/rotom",
+      "detailPageURL": "",
       "weight": 0.7,
       "weakness": [
         "Rock",
@@ -12450,23 +12450,23 @@
       ],
       "number": "479",
       "height": 12,
-      "collectibles_slug": "rotom",
+      "collectibles_slug": "heatrotom",
       "featured": "true",
-      "slug": "rotom",
-      "name": "Rotom",
-      "ThumbnailAltText": "Rotom",
-      "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png",
-      "id": 479,
+      "slug": "heat rotom",
+      "name": "Heat Rotom",
+      "ThumbnailAltText": "Heat Rotom",
+      "ThumbnailImage": "https://img.pokemondb.net/artwork/rotom-heat.jpg",
+      "id": 479.1,
       "type": [
         "electric",
-        "flying"
+        "Fire"
       ]
     },
     {
       "abilities": [
         "Levitate"
       ],
-      "detailPageURL": "/us/pokedex/rotom",
+      "detailPageURL": "",
       "weight": 0.7,
       "weakness": [
         "Fire",
@@ -12475,13 +12475,13 @@
       ],
       "number": "479",
       "height": 12,
-      "collectibles_slug": "rotom",
+      "collectibles_slug": "frost rotom",
       "featured": "true",
-      "slug": "rotom",
-      "name": "Rotom",
-      "ThumbnailAltText": "Rotom",
-      "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png",
-      "id": 479,
+      "slug": "frost rotom",
+      "name": "Frost Rotom",
+      "ThumbnailAltText": "Frost Rotom",
+      "ThumbnailImage": "https://img.pokemondb.net/artwork/rotom-frost.jpg",
+      "id": 479.3,
       "type": [
         "electric",
         "ice"
@@ -12491,20 +12491,20 @@
       "abilities": [
         "Levitate"
       ],
-      "detailPageURL": "/us/pokedex/rotom",
+      "detailPageURL": "",
       "weight": 0.7,
       "weakness": [
         "Grass"
       ],
       "number": "479",
       "height": 12,
-      "collectibles_slug": "rotom",
+      "collectibles_slug": "wash rotom",
       "featured": "true",
-      "slug": "rotom",
-      "name": "Rotom",
-      "ThumbnailAltText": "Rotom",
-      "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png",
-      "id": 479,
+      "slug": "wash rotom",
+      "name": "Wash Rotom",
+      "ThumbnailAltText": "wash Rotom",
+      "ThumbnailImage": "https://img.pokemondb.net/artwork/rotom-wash.jpg",
+      "id": 479.2,
       "type": [
         "electric",
         "water"
@@ -12522,16 +12522,16 @@
       ],
       "number": "479",
       "height": 12,
-      "collectibles_slug": "rotom",
+      "collectibles_slug": "fan rotom",
       "featured": "true",
-      "slug": "rotom",
-      "name": "Rotom",
-      "ThumbnailAltText": "Rotom",
-      "ThumbnailImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png",
-      "id": 479,
+      "slug": "fan rotom",
+      "name": "Fan Rotom",
+      "ThumbnailAltText": "Fan Rotom",
+      "ThumbnailImage": "https://img.pokemondb.net/artwork/rotom-fan.jpg",
+      "id": 479.4,
       "type": [
         "electric",
-        "fire"
+        "Flying"
       ]
     },
     {
