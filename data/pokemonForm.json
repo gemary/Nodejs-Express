@@ -1,6 +1,6 @@
 [
     {
-        "alola-form":
+        "alolaForm":
         [
             {
                 "id":25,
@@ -1142,7 +1142,7 @@
         ]
     },
     {
-        "mega-form":[
+        "megaForm":[
             {
                 "name":"Venusaur",
                 "image-pokemon":"https://cdn.bulbagarden.net/upload/thumb/7/73/003Venusaur-Mega.png/600px-003Venusaur-Mega.png",
