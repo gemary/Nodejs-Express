@@ -14,3 +14,8 @@ module.exports.Forms =async(req,res)=>{
     const data= JSON.parse(rawdata)
     res.json(data)  
 }
+module.exports.eggGroup =async(req,res)=>{
+    const rawdata = fs.readFileSync('./data/eggGroup.json')
+    const data= JSON.parse(rawdata)
+    res.json(data)  
+}

@@ -1,0 +1,9798 @@
+#
+    
+    
+    
+     Pokémon
+    
+     Egg Group 1
+    
+     Egg Group 2
+    
+    
+     001
+    
+    
+     
+    
+     Bulbasaur
+    
+     Monster
+    
+     Grass
+    
+    
+     002
+    
+     
+    
+     Ivysaur
+    
+     Monster
+    
+     Grass
+    
+    
+     003
+    
+     
+    
+     Venusaur
+    
+     Monster
+    
+     Grass
+    
+    
+     004
+    
+     
+    
+     Charmander
+    
+     Monster
+    
+     Dragon
+    
+    
+     005
+    
+     
+    
+     Charmeleon
+    
+     Monster
+    
+     Dragon
+    
+    
+     006
+    
+     
+    
+     Charizard
+    
+     Monster
+    
+     Dragon
+    
+    
+     007
+    
+     
+    
+     Squirtle
+    
+     Monster
+    
+     Water 1
+    
+    
+     008
+    
+     
+    
+     Wartortle
+    
+     Monster
+    
+     Water 1
+    
+    
+     009
+    
+     
+    
+     Blastoise
+    
+     Monster
+    
+     Water 1
+    
+    
+     010
+    
+     
+    
+     Caterpie
+    
+     Bug
+    
+    
+    
+    
+     011
+    
+     
+    
+     Metapod
+    
+     Bug
+    
+    
+    
+    
+     012
+    
+     
+    
+     Butterfree
+    
+     Bug
+    
+    
+    
+    
+     013
+    
+     
+    
+     Weedle
+    
+     Bug
+    
+    
+    
+    
+     014
+    
+     
+    
+     Kakuna
+    
+     Bug
+    
+    
+    
+    
+     015
+    
+     
+    
+     Beedrill
+    
+     Bug
+    
+    
+    
+    
+     016
+    
+     
+    
+     Pidgey
+    
+     Flying
+    
+    
+    
+    
+     017
+    
+     
+    
+     Pidgeotto
+    
+     Flying
+    
+    
+    
+    
+     018
+    
+     
+    
+     Pidgeot
+    
+     Flying
+    
+    
+    
+    
+     019
+    
+     
+    
+     Rattata
+    
+     Field
+    
+    
+    
+    
+     020
+    
+     
+    
+     Raticate
+    
+     Field
+    
+    
+    
+    
+     021
+    
+     
+    
+     Spearow
+    
+     Flying
+    
+    
+    
+    
+     022
+    
+     
+    
+     Fearow
+    
+     Flying
+    
+    
+    
+    
+     023
+    
+     
+    
+     Ekans
+    
+     Field
+    
+     Dragon
+    
+    
+     024
+    
+     
+    
+     Arbok
+    
+     Field
+    
+     Dragon
+    
+    
+     025
+    
+     
+    
+     Pikachu
+    
+     Field
+    
+     Fairy
+    
+    
+     026
+    
+     
+    
+     Raichu
+    
+     Field
+    
+     Fairy
+    
+    
+     027
+    
+     
+    
+     Sandshrew
+    
+     Field
+    
+    
+    
+    
+     028
+    
+     
+    
+     Sandslash
+    
+     Field
+    
+    
+    
+    
+     029
+    
+     
+    
+     Nidoran♀
+    
+     Monster
+    
+     Field
+    
+    
+     030
+    
+     
+    
+     Nidorina
+    
+     Undiscovered
+    
+    
+    
+    
+     031
+    
+     
+    
+     Nidoqueen
+    
+     Undiscovered
+    
+    
+    
+    
+     032
+    
+     
+    
+     Nidoran♂
+    
+     Monster
+    
+     Field
+    
+    
+     033
+    
+     
+    
+     Nidorino
+    
+     Monster
+    
+     Field
+    
+    
+     034
+    
+     
+    
+     Nidoking
+    
+     Monster
+    
+     Field
+    
+    
+     035
+    
+     
+    
+     Clefairy
+    
+     Fairy
+    
+    
+    
+    
+     036
+    
+     
+    
+     Clefable
+    
+     Fairy
+    
+    
+    
+    
+     037
+    
+     
+    
+     Vulpix
+    
+     Field
+    
+    
+    
+    
+     038
+    
+     
+    
+     Ninetales
+    
+     Field
+    
+    
+    
+    
+     039
+    
+     
+    
+     Jigglypuff
+    
+     Fairy
+    
+    
+    
+    
+     040
+    
+     
+    
+     Wigglytuff
+    
+     Fairy
+    
+    
+    
+    
+     041
+    
+     
+    
+     Zubat
+    
+     Flying
+    
+    
+    
+    
+     042
+    
+     
+    
+     Golbat
+    
+     Flying
+    
+    
+    
+    
+     043
+    
+     
+    
+     Oddish
+    
+     Grass
+    
+    
+    
+    
+     044
+    
+     
+    
+     Gloom
+    
+     Grass
+    
+    
+    
+    
+     045
+    
+     
+    
+     Vileplume
+    
+     Grass
+    
+    
+    
+    
+     046
+    
+     
+    
+     Paras
+    
+     Bug
+    
+     Grass
+    
+    
+     047
+    
+     
+    
+     Parasect
+    
+     Bug
+    
+     Grass
+    
+    
+     048
+    
+     
+    
+     Venonat
+    
+     Bug
+    
+    
+    
+    
+     049
+    
+     
+    
+     Venomoth
+    
+     Bug
+    
+    
+    
+    
+     050
+    
+     
+    
+     Diglett
+    
+     Field
+    
+    
+    
+    
+     051
+    
+     
+    
+     Dugtrio
+    
+     Field
+    
+    
+    
+    
+     052
+    
+     
+    
+     Meowth
+    
+     Field
+    
+    
+    
+    
+     053
+    
+     
+    
+     Persian
+    
+     Field
+    
+    
+    
+    
+     054
+    
+     
+    
+     Psyduck
+    
+     Water 1
+    
+     Field
+    
+    
+     055
+    
+     
+    
+     Golduck
+    
+     Water 1
+    
+     Field
+    
+    
+     056
+    
+     
+    
+     Mankey
+    
+     Field
+    
+    
+    
+    
+     057
+    
+     
+    
+     Primeape
+    
+     Field
+    
+    
+    
+    
+     058
+    
+     
+    
+     Growlithe
+    
+     Field
+    
+    
+    
+    
+     059
+    
+     
+    
+     Arcanine
+    
+     Field
+    
+    
+    
+    
+     060
+    
+     
+    
+     Poliwag
+    
+     Water 1
+    
+    
+    
+    
+     061
+    
+     
+    
+     Poliwhirl
+    
+     Water 1
+    
+    
+    
+    
+     062
+    
+     
+    
+     Poliwrath
+    
+     Water 1
+    
+    
+    
+    
+     063
+    
+     
+    
+     Abra
+    
+     Human-Like
+    
+    
+    
+    
+     064
+    
+     
+    
+     Kadabra
+    
+     Human-Like
+    
+    
+    
+    
+     065
+    
+     
+    
+     Alakazam
+    
+     Human-Like
+    
+    
+    
+    
+     066
+    
+     
+    
+     Machop
+    
+     Human-Like
+    
+    
+    
+    
+     067
+    
+     
+    
+     Machoke
+    
+     Human-Like
+    
+    
+    
+    
+     068
+    
+     
+    
+     Machamp
+    
+     Human-Like
+    
+    
+    
+    
+     069
+    
+     
+    
+     Bellsprout
+    
+     Grass
+    
+    
+    
+    
+     070
+    
+     
+    
+     Weepinbell
+    
+     Grass
+    
+    
+    
+    
+     071
+    
+     
+    
+     Victreebel
+    
+     Grass
+    
+    
+    
+    
+     072
+    
+     
+    
+     Tentacool
+    
+     Water 3
+    
+    
+    
+    
+     073
+    
+     
+    
+     Tentacruel
+    
+     Water 3
+    
+    
+    
+    
+     074
+    
+     
+    
+     Geodude
+    
+     Mineral
+    
+    
+    
+    
+     075
+    
+     
+    
+     Graveler
+    
+     Mineral
+    
+    
+    
+    
+     076
+    
+     
+    
+     Golem
+    
+     Mineral
+    
+    
+    
+    
+     077
+    
+     
+    
+     Ponyta
+    
+     Field
+    
+    
+    
+    
+     078
+    
+     
+    
+     Rapidash
+    
+     Field
+    
+    
+    
+    
+     079
+    
+     
+    
+     Slowpoke
+    
+     Monster
+    
+     Water 1
+    
+    
+     080
+    
+     
+    
+     Slowbro
+    
+     Monster
+    
+     Water 1
+    
+    
+     081
+    
+     
+    
+     Magnemite
+    
+     Mineral
+    
+    
+    
+    
+     082
+    
+     
+    
+     Magneton
+    
+     Mineral
+    
+    
+    
+    
+     083
+    
+     
+    
+     Farfetch'd
+    
+     Flying
+    
+     Field
+    
+    
+     084
+    
+     
+    
+     Doduo
+    
+     Flying
+    
+    
+    
+    
+     085
+    
+     
+    
+     Dodrio
+    
+     Flying
+    
+    
+    
+    
+     086
+    
+     
+    
+     Seel
+    
+     Water 1
+    
+     Field
+    
+    
+     087
+    
+     
+    
+     Dewgong
+    
+     Water 1
+    
+     Field
+    
+    
+     088
+    
+     
+    
+     Grimer
+    
+     Amorphous
+    
+    
+    
+    
+     089
+    
+     
+    
+     Muk
+    
+     Amorphous
+    
+    
+    
+    
+     090
+    
+     
+    
+     Shellder
+    
+     Water 3
+    
+    
+    
+    
+     091
+    
+     
+    
+     Cloyster
+    
+     Water 3
+    
+    
+    
+    
+     092
+    
+     
+    
+     Gastly
+    
+     Amorphous
+    
+    
+    
+    
+     093
+    
+     
+    
+     Haunter
+    
+     Amorphous
+    
+    
+    
+    
+     094
+    
+     
+    
+     Gengar
+    
+     Amorphous
+    
+    
+    
+    
+     095
+    
+     
+    
+     Onix
+    
+     Mineral
+    
+    
+    
+    
+     096
+    
+     
+    
+     Drowzee
+    
+     Human-Like
+    
+    
+    
+    
+     097
+    
+     
+    
+     Hypno
+    
+     Human-Like
+    
+    
+    
+    
+     098
+    
+     
+    
+     Krabby
+    
+     Water 3
+    
+    
+    
+    
+     099
+    
+     
+    
+     Kingler
+    
+     Water 3
+    
+    
+    
+    
+     100
+    
+     
+    
+     Voltorb
+    
+     Mineral
+    
+    
+    
+    
+     101
+    
+     
+    
+     Electrode
+    
+     Mineral
+    
+    
+    
+    
+     102
+    
+     
+    
+     Exeggcute
+    
+     Grass
+    
+    
+    
+    
+     103
+    
+     
+    
+     Exeggutor
+    
+     Grass
+    
+    
+    
+    
+     104
+    
+     
+    
+     Cubone
+    
+     Monster
+    
+    
+    
+    
+     105
+    
+     
+    
+     Marowak
+    
+     Monster
+    
+    
+    
+    
+     106
+    
+     
+    
+     Hitmonlee
+    
+     Human-Like
+    
+    
+    
+    
+     107
+    
+     
+    
+     Hitmonchan
+    
+     Human-Like
+    
+    
+    
+    
+     108
+    
+     
+    
+     Lickitung
+    
+     Monster
+    
+    
+    
+    
+     109
+    
+     
+    
+     Koffing
+    
+     Amorphous
+    
+    
+    
+    
+     110
+    
+     
+    
+     Weezing
+    
+     Amorphous
+    
+    
+    
+    
+     111
+    
+     
+    
+     Rhyhorn
+    
+     Monster
+    
+     Field
+    
+    
+     112
+    
+     
+    
+     Rhydon
+    
+     Monster
+    
+     Field
+    
+    
+     113
+    
+     
+    
+     Chansey
+    
+     Fairy
+    
+    
+    
+    
+     114
+    
+     
+    
+     Tangela
+    
+     Grass
+    
+    
+    
+    
+     115
+    
+     
+    
+     Kangaskhan
+    
+     Monster
+    
+    
+    
+    
+     116
+    
+     
+    
+     Horsea
+    
+     Water 1
+    
+     Dragon
+    
+    
+     117
+    
+     
+    
+     Seadra
+    
+     Water 1
+    
+     Dragon
+    
+    
+     118
+    
+     
+    
+     Goldeen
+    
+     Water 2
+    
+    
+    
+    
+     119
+    
+     
+    
+     Seaking
+    
+     Water 2
+    
+    
+    
+    
+     120
+    
+     
+    
+     Staryu
+    
+     Water 3
+    
+    
+    
+    
+     121
+    
+     
+    
+     Starmie
+    
+     Water 3
+    
+    
+    
+    
+     122
+    
+     
+    
+     Mr. Mime
+    
+     Human-Like
+    
+    
+    
+    
+     123
+    
+     
+    
+     Scyther
+    
+     Bug
+    
+    
+    
+    
+     124
+    
+     
+    
+     Jynx
+    
+     Human-Like
+    
+    
+    
+    
+     125
+    
+     
+    
+     Electabuzz
+    
+     Human-Like
+    
+    
+    
+    
+     126
+    
+     
+    
+     Magmar
+    
+     Human-Like
+    
+    
+    
+    
+     127
+    
+     
+    
+     Pinsir
+    
+     Bug
+    
+    
+    
+    
+     128
+    
+     
+    
+     Tauros
+    
+     Field
+    
+    
+    
+    
+     129
+    
+     
+    
+     Magikarp
+    
+     Water 2
+    
+     Dragon
+    
+    
+     130
+    
+     
+    
+     Gyarados
+    
+     Water 2
+    
+     Dragon
+    
+    
+     131
+    
+     
+    
+     Lapras
+    
+     Monster
+    
+     Water 1
+    
+    
+     132
+    
+     
+    
+     Ditto
+    
+     Ditto
+    
+    
+    
+    
+     133
+    
+     
+    
+     Eevee
+    
+     Field
+    
+    
+    
+    
+     134
+    
+     
+    
+     Vaporeon
+    
+     Field
+    
+    
+    
+    
+     135
+    
+     
+    
+     Jolteon
+    
+     Field
+    
+    
+    
+    
+     136
+    
+     
+    
+     Flareon
+    
+     Field
+    
+    
+    
+    
+     137
+    
+     
+    
+     Porygon
+    
+     Mineral
+    
+    
+    
+    
+     138
+    
+     
+    
+     Omanyte
+    
+     Water 1
+    
+     Water 3
+    
+    
+     139
+    
+     
+    
+     Omastar
+    
+     Water 1
+    
+     Water 3
+    
+    
+     140
+    
+     
+    
+     Kabuto
+    
+     Water 1
+    
+     Water 3
+    
+    
+     141
+    
+     
+    
+     Kabutops
+    
+     Water 1
+    
+     Water 3
+    
+    
+     142
+    
+     
+    
+     Aerodactyl
+    
+     Flying
+    
+    
+    
+    
+     143
+    
+     
+    
+     Snorlax
+    
+     Monster
+    
+    
+    
+    
+     144
+    
+     
+    
+     Articuno
+    
+     Undiscovered
+    
+    
+    
+    
+     145
+    
+     
+    
+     Zapdos
+    
+     Undiscovered
+    
+    
+    
+    
+     146
+    
+     
+    
+     Moltres
+    
+     Undiscovered
+    
+    
+    
+    
+     147
+    
+     
+    
+     Dratini
+    
+     Water 1
+    
+     Dragon
+    
+    
+     148
+    
+     
+    
+     Dragonair
+    
+     Water 1
+    
+     Dragon
+    
+    
+     149
+    
+     
+    
+     Dragonite
+    
+     Water 1
+    
+     Dragon
+    
+    
+     150
+    
+     
+    
+     Mewtwo
+    
+     Undiscovered
+    
+    
+    
+    
+     151
+    
+     
+    
+     Mew
+    
+     Undiscovered
+    
+    
+    
+    
+     152
+    
+     
+    
+     Chikorita
+    
+     Monster
+    
+     Grass
+    
+    
+     153
+    
+     
+    
+     Bayleef
+    
+     Monster
+    
+     Grass
+    
+    
+     154
+    
+     
+    
+     Meganium
+    
+     Monster
+    
+     Grass
+    
+    
+     155
+    
+     
+    
+     Cyndaquil
+    
+     Field
+    
+    
+    
+    
+     156
+    
+     
+    
+     Quilava
+    
+     Field
+    
+    
+    
+    
+     157
+    
+     
+    
+     Typhlosion
+    
+     Field
+    
+    
+    
+    
+     158
+    
+     
+    
+     Totodile
+    
+     Monster
+    
+     Water 1
+    
+    
+     159
+    
+     
+    
+     Croconaw
+    
+     Monster
+    
+     Water 1
+    
+    
+     160
+    
+     
+    
+     Feraligatr
+    
+     Monster
+    
+     Water 1
+    
+    
+     161
+    
+     
+    
+     Sentret
+    
+     Field
+    
+    
+    
+    
+     162
+    
+     
+    
+     Furret
+    
+     Field
+    
+    
+    
+    
+     163
+    
+     
+    
+     Hoothoot
+    
+     Flying
+    
+    
+    
+    
+     164
+    
+     
+    
+     Noctowl
+    
+     Flying
+    
+    
+    
+    
+     165
+    
+     
+    
+     Ledyba
+    
+     Bug
+    
+    
+    
+    
+     166
+    
+     
+    
+     Ledian
+    
+     Bug
+    
+    
+    
+    
+     167
+    
+     
+    
+     Spinarak
+    
+     Bug
+    
+    
+    
+    
+     168
+    
+     
+    
+     Ariados
+    
+     Bug
+    
+    
+    
+    
+     169
+    
+     
+    
+     Crobat
+    
+     Flying
+    
+    
+    
+    
+     170
+    
+     
+    
+     Chinchou
+    
+     Water 2
+    
+    
+    
+    
+     171
+    
+     
+    
+     Lanturn
+    
+     Water 2
+    
+    
+    
+    
+     172
+    
+     
+    
+     Pichu
+    
+     Undiscovered
+    
+    
+    
+    
+     173
+    
+     
+    
+     Cleffa
+    
+     Undiscovered
+    
+    
+    
+    
+     174
+    
+     
+    
+     Igglybuff
+    
+     Undiscovered
+    
+    
+    
+    
+     175
+    
+     
+    
+     Togepi
+    
+     Undiscovered
+    
+    
+    
+    
+     176
+    
+     
+    
+     Togetic
+    
+     Flying
+    
+     Fairy
+    
+    
+     177
+    
+     
+    
+     Natu
+    
+     Flying
+    
+    
+    
+    
+     178
+    
+     
+    
+     Xatu
+    
+     Flying
+    
+    
+    
+    
+     179
+    
+     
+    
+     Mareep
+    
+     Monster
+    
+     Field
+    
+    
+     180
+    
+     
+    
+     Flaaffy
+    
+     Monster
+    
+     Field
+    
+    
+     181
+    
+     
+    
+     Ampharos
+    
+     Monster
+    
+     Field
+    
+    
+     182
+    
+     
+    
+     Bellossom
+    
+     Grass
+    
+    
+    
+    
+     183
+    
+     
+    
+     Marill
+    
+     Water 1
+    
+     Fairy
+    
+    
+     184
+    
+     
+    
+     Azumarill
+    
+     Water 1
+    
+     Fairy
+    
+    
+     185
+    
+     
+    
+     Sudowoodo
+    
+     Mineral
+    
+    
+    
+    
+     186
+    
+     
+    
+     Politoed
+    
+     Water 1
+    
+    
+    
+    
+     187
+    
+     
+    
+     Hoppip
+    
+     Fairy
+    
+     Grass
+    
+    
+     188
+    
+     
+    
+     Skiploom
+    
+     Fairy
+    
+     Grass
+    
+    
+     189
+    
+     
+    
+     Jumpluff
+    
+     Fairy
+    
+     Grass
+    
+    
+     190
+    
+     
+    
+     Aipom
+    
+     Field
+    
+    
+    
+    
+     191
+    
+     
+    
+     Sunkern
+    
+     Grass
+    
+    
+    
+    
+     192
+    
+     
+    
+     Sunflora
+    
+     Grass
+    
+    
+    
+    
+     193
+    
+     
+    
+     Yanma
+    
+     Bug
+    
+    
+    
+    
+     194
+    
+     
+    
+     Wooper
+    
+     Water 1
+    
+     Field
+    
+    
+     195
+    
+     
+    
+     Quagsire
+    
+     Water 1
+    
+     Field
+    
+    
+     196
+    
+     
+    
+     Espeon
+    
+     Field
+    
+    
+    
+    
+     197
+    
+     
+    
+     Umbreon
+    
+     Field
+    
+    
+    
+    
+     198
+    
+     
+    
+     Murkrow
+    
+     Flying
+    
+    
+    
+    
+     199
+    
+     
+    
+     Slowking
+    
+     Monster
+    
+     Water 1
+    
+    
+     200
+    
+     
+    
+     Misdreavus
+    
+     Amorphous
+    
+    
+    
+    
+     201
+    
+     
+    
+     Unown
+    
+     Undiscovered
+    
+    
+    
+    
+     202
+    
+     
+    
+     Wobbuffet
+    
+     Amorphous
+    
+    
+    
+    
+     203
+    
+     
+    
+     Girafarig
+    
+     Field
+    
+    
+    
+    
+     204
+    
+     
+    
+     Pineco
+    
+     Bug
+    
+    
+    
+    
+     205
+    
+     
+    
+     Forretress
+    
+     Bug
+    
+    
+    
+    
+     206
+    
+     
+    
+     Dunsparce
+    
+     Field
+    
+    
+    
+    
+     207
+    
+     
+    
+     Gligar
+    
+     Bug
+    
+    
+    
+    
+     208
+    
+     
+    
+     Steelix
+    
+     Mineral
+    
+    
+    
+    
+     209
+    
+     
+    
+     Snubbull
+    
+     Field
+    
+     Fairy
+    
+    
+     210
+    
+     
+    
+     Granbull
+    
+     Field
+    
+     Fairy
+    
+    
+     211
+    
+     
+    
+     Qwilfish
+    
+     Water 2
+    
+    
+    
+    
+     212
+    
+     
+    
+     Scizor
+    
+     Bug
+    
+    
+    
+    
+     213
+    
+     
+    
+     Shuckle
+    
+     Bug
+    
+    
+    
+    
+     214
+    
+     
+    
+     Heracross
+    
+     Bug
+    
+    
+    
+    
+     215
+    
+     
+    
+     Sneasel
+    
+     Field
+    
+    
+    
+    
+     216
+    
+     
+    
+     Teddiursa
+    
+     Field
+    
+    
+    
+    
+     217
+    
+     
+    
+     Ursaring
+    
+     Field
+    
+    
+    
+    
+     218
+    
+     
+    
+     Slugma
+    
+     Amorphous
+    
+    
+    
+    
+     219
+    
+     
+    
+     Magcargo
+    
+     Amorphous
+    
+    
+    
+    
+     220
+    
+     
+    
+     Swinub
+    
+     Field
+    
+    
+    
+    
+     221
+    
+     
+    
+     Piloswine
+    
+     Field
+    
+    
+    
+    
+     222
+    
+     
+    
+     Corsola
+    
+     Water 1
+    
+     Water 3
+    
+    
+     223
+    
+     
+    
+     Remoraid
+    
+     Water 1
+    
+     Water 2
+    
+    
+     224
+    
+     
+    
+     Octillery
+    
+     Water 1
+    
+     Water 2
+    
+    
+     225
+    
+     
+    
+     Delibird
+    
+     Water 1
+    
+     Field
+    
+    
+     226
+    
+     
+    
+     Mantine
+    
+     Water 1
+    
+    
+    
+    
+     227
+    
+     
+    
+     Skarmory
+    
+     Flying
+    
+    
+    
+    
+     228
+    
+     
+    
+     Houndour
+    
+     Field
+    
+    
+    
+    
+     229
+    
+     
+    
+     Houndoom
+    
+     Field
+    
+    
+    
+    
+     230
+    
+     
+    
+     Kingdra
+    
+     Water 1
+    
+     Dragon
+    
+    
+     231
+    
+     
+    
+     Phanpy
+    
+     Field
+    
+    
+    
+    
+     232
+    
+     
+    
+     Donphan
+    
+     Field
+    
+    
+    
+    
+     233
+    
+     
+    
+     Porygon2
+    
+     Mineral
+    
+    
+    
+    
+     234
+    
+     
+    
+     Stantler
+    
+     Field
+    
+    
+    
+    
+     235
+    
+     
+    
+     Smeargle
+    
+     Field
+    
+    
+    
+    
+     236
+    
+     
+    
+     Tyrogue
+    
+     Undiscovered
+    
+    
+    
+    
+     237
+    
+     
+    
+     Hitmontop
+    
+     Human-Like
+    
+    
+    
+    
+     238
+    
+     
+    
+     Smoochum
+    
+     Undiscovered
+    
+    
+    
+    
+     239
+    
+     
+    
+     Elekid
+    
+     Undiscovered
+    
+    
+    
+    
+     240
+    
+     
+    
+     Magby
+    
+     Undiscovered
+    
+    
+    
+    
+     241
+    
+     
+    
+     Miltank
+    
+     Field
+    
+    
+    
+    
+     242
+    
+     
+    
+     Blissey
+    
+     Fairy
+    
+    
+    
+    
+     243
+    
+     
+    
+     Raikou
+    
+     Undiscovered
+    
+    
+    
+    
+     244
+    
+     
+    
+     Entei
+    
+     Undiscovered
+    
+    
+    
+    
+     245
+    
+     
+    
+     Suicune
+    
+     Undiscovered
+    
+    
+    
+    
+     246
+    
+     
+    
+     Larvitar
+    
+     Monster
+    
+    
+    
+    
+     247
+    
+     
+    
+     Pupitar
+    
+     Monster
+    
+    
+    
+    
+     248
+    
+     
+    
+     Tyranitar
+    
+     Monster
+    
+    
+    
+    
+     249
+    
+     
+    
+     Lugia
+    
+     Undiscovered
+    
+    
+    
+    
+     250
+    
+     
+    
+     Ho-Oh
+    
+     Undiscovered
+    
+    
+    
+    
+     251
+    
+     
+    
+     Celebi
+    
+     Undiscovered
+    
+    
+    
+    
+     252
+    
+     
+    
+     Treecko
+    
+     Monster
+    
+     Dragon
+    
+    
+     253
+    
+     
+    
+     Grovyle
+    
+     Monster
+    
+     Dragon
+    
+    
+     254
+    
+     
+    
+     Sceptile
+    
+     Monster
+    
+     Dragon
+    
+    
+     255
+    
+     
+    
+     Torchic
+    
+     Field
+    
+    
+    
+    
+     256
+    
+     
+    
+     Combusken
+    
+     Field
+    
+    
+    
+    
+     257
+    
+     
+    
+     Blaziken
+    
+     Field
+    
+    
+    
+    
+     258
+    
+     
+    
+     Mudkip
+    
+     Monster
+    
+     Water 1
+    
+    
+     259
+    
+     
+    
+     Marshtomp
+    
+     Monster
+    
+     Water 1
+    
+    
+     260
+    
+     
+    
+     Swampert
+    
+     Monster
+    
+     Water 1
+    
+    
+     261
+    
+     
+    
+     Poochyena
+    
+     Field
+    
+    
+    
+    
+     262
+    
+     
+    
+     Mightyena
+    
+     Field
+    
+    
+    
+    
+     263
+    
+     
+    
+     Zigzagoon
+    
+     Field
+    
+    
+    
+    
+     264
+    
+     
+    
+     Linoone
+    
+     Field
+    
+    
+    
+    
+     265
+    
+     
+    
+     Wurmple
+    
+     Bug
+    
+    
+    
+    
+     266
+    
+     
+    
+     Silcoon
+    
+     Bug
+    
+    
+    
+    
+     267
+    
+     
+    
+     Beautifly
+    
+     Bug
+    
+    
+    
+    
+     268
+    
+     
+    
+     Cascoon
+    
+     Bug
+    
+    
+    
+    
+     269
+    
+     
+    
+     Dustox
+    
+     Bug
+    
+    
+    
+    
+     270
+    
+     
+    
+     Lotad
+    
+     Water 1
+    
+     Grass
+    
+    
+     271
+    
+     
+    
+     Lombre
+    
+     Water 1
+    
+     Grass
+    
+    
+     272
+    
+     
+    
+     Ludicolo
+    
+     Water 1
+    
+     Grass
+    
+    
+     273
+    
+     
+    
+     Seedot
+    
+     Field
+    
+     Grass
+    
+    
+     274
+    
+     
+    
+     Nuzleaf
+    
+     Field
+    
+     Grass
+    
+    
+     275
+    
+     
+    
+     Shiftry
+    
+     Field
+    
+     Grass
+    
+    
+     276
+    
+     
+    
+     Taillow
+    
+     Flying
+    
+    
+    
+    
+     277
+    
+     
+    
+     Swellow
+    
+     Flying
+    
+    
+    
+    
+     278
+    
+     
+    
+     Wingull
+    
+     Water 1
+    
+     Flying
+    
+    
+     279
+    
+     
+    
+     Pelipper
+    
+     Water 1
+    
+     Flying
+    
+    
+     280
+    
+     
+    
+     Ralts
+    
+     Human-Like*
+    
+     Amorphous
+    
+    
+     281
+    
+     
+    
+     Kirlia
+    
+     Human-Like*
+    
+     Amorphous
+    
+    
+     282
+    
+     
+    
+     Gardevoir
+    
+     Human-Like*
+    
+     Amorphous
+    
+    
+     283
+    
+     
+    
+     Surskit
+    
+     Water 1
+    
+     Bug
+    
+    
+     284
+    
+     
+    
+     Masquerain
+    
+     Water 1
+    
+     Bug
+    
+    
+     285
+    
+     
+    
+     Shroomish
+    
+     Fairy
+    
+     Grass
+    
+    
+     286
+    
+     
+    
+     Breloom
+    
+     Fairy
+    
+     Grass
+    
+    
+     287
+    
+     
+    
+     Slakoth
+    
+     Field
+    
+    
+    
+    
+     288
+    
+     
+    
+     Vigoroth
+    
+     Field
+    
+    
+    
+    
+     289
+    
+     
+    
+     Slaking
+    
+     Field
+    
+    
+    
+    
+     290
+    
+     
+    
+     Nincada
+    
+     Bug
+    
+    
+    
+    
+     291
+    
+     
+    
+     Ninjask
+    
+     Bug
+    
+    
+    
+    
+     292
+    
+     
+    
+     Shedinja
+    
+     Mineral
+    
+    
+    
+    
+     293
+    
+     
+    
+     Whismur
+    
+     Monster
+    
+     Field
+    
+    
+     294
+    
+     
+    
+     Loudred
+    
+     Monster
+    
+     Field
+    
+    
+     295
+    
+     
+    
+     Exploud
+    
+     Monster
+    
+     Field
+    
+    
+     296
+    
+     
+    
+     Makuhita
+    
+     Human-Like
+    
+    
+    
+    
+     297
+    
+     
+    
+     Hariyama
+    
+     Human-Like
+    
+    
+    
+    
+     298
+    
+     
+    
+     Azurill
+    
+     Undiscovered
+    
+    
+    
+    
+     299
+    
+     
+    
+     Nosepass
+    
+     Mineral
+    
+    
+    
+    
+     300
+    
+     
+    
+     Skitty
+    
+     Field
+    
+     Fairy
+    
+    
+     301
+    
+     
+    
+     Delcatty
+    
+     Field
+    
+     Fairy
+    
+    
+     302
+    
+     
+    
+     Sableye
+    
+     Human-Like
+    
+    
+    
+    
+     303
+    
+     
+    
+     Mawile
+    
+     Field
+    
+     Fairy
+    
+    
+     304
+    
+     
+    
+     Aron
+    
+     Monster
+    
+    
+    
+    
+     305
+    
+     
+    
+     Lairon
+    
+     Monster
+    
+    
+    
+    
+     306
+    
+     
+    
+     Aggron
+    
+     Monster
+    
+    
+    
+    
+     307
+    
+     
+    
+     Meditite
+    
+     Human-Like
+    
+    
+    
+    
+     308
+    
+     
+    
+     Medicham
+    
+     Human-Like
+    
+    
+    
+    
+     309
+    
+     
+    
+     Electrike
+    
+     Field
+    
+    
+    
+    
+     310
+    
+     
+    
+     Manectric
+    
+     Field
+    
+    
+    
+    
+     311
+    
+     
+    
+     Plusle
+    
+     Fairy
+    
+    
+    
+    
+     312
+    
+     
+    
+     Minun
+    
+     Fairy
+    
+    
+    
+    
+     313
+    
+     
+    
+     Volbeat
+    
+     Bug
+    
+     Human-Like
+    
+    
+     314
+    
+     
+    
+     Illumise
+    
+     Bug
+    
+     Human-Like
+    
+    
+     315
+    
+     
+    
+     Roselia
+    
+     Fairy
+    
+     Grass
+    
+    
+     316
+    
+     
+    
+     Gulpin
+    
+     Amorphous
+    
+    
+    
+    
+     317
+    
+     
+    
+     Swalot
+    
+     Amorphous
+    
+    
+    
+    
+     318
+    
+     
+    
+     Carvanha
+    
+     Water 2
+    
+    
+    
+    
+     319
+    
+     
+    
+     Sharpedo
+    
+     Water 2
+    
+    
+    
+    
+     320
+    
+     
+    
+     Wailmer
+    
+     Field
+    
+     Water 2
+    
+    
+     321
+    
+     
+    
+     Wailord
+    
+     Field
+    
+     Water 2
+    
+    
+     322
+    
+     
+    
+     Numel
+    
+     Field
+    
+    
+    
+    
+     323
+    
+     
+    
+     Camerupt
+    
+     Field
+    
+    
+    
+    
+     324
+    
+     
+    
+     Torkoal
+    
+     Field
+    
+    
+    
+    
+     325
+    
+     
+    
+     Spoink
+    
+     Field
+    
+    
+    
+    
+     326
+    
+     
+    
+     Grumpig
+    
+     Field
+    
+    
+    
+    
+     327
+    
+     
+    
+     Spinda
+    
+     Field
+    
+     Human-Like
+    
+    
+     328
+    
+     
+    
+     Trapinch
+    
+     Bug
+    
+     Dragon*
+    
+    
+     329
+    
+     
+    
+     Vibrava
+    
+     Bug
+    
+     Dragon*
+    
+    
+     330
+    
+     
+    
+     Flygon
+    
+     Bug
+    
+     Dragon*
+    
+    
+     331
+    
+     
+    
+     Cacnea
+    
+     Grass
+    
+     Human-Like
+    
+    
+     332
+    
+     
+    
+     Cacturne
+    
+     Grass
+    
+     Human-Like
+    
+    
+     333
+    
+     
+    
+     Swablu
+    
+     Flying
+    
+     Dragon
+    
+    
+     334
+    
+     
+    
+     Altaria
+    
+     Flying
+    
+     Dragon
+    
+    
+     335
+    
+     
+    
+     Zangoose
+    
+     Field
+    
+    
+    
+    
+     336
+    
+     
+    
+     Seviper
+    
+     Field
+    
+     Dragon
+    
+    
+     337
+    
+     
+    
+     Lunatone
+    
+     Mineral
+    
+    
+    
+    
+     338
+    
+     
+    
+     Solrock
+    
+     Mineral
+    
+    
+    
+    
+     339
+    
+     
+    
+     Barboach
+    
+     Water 2
+    
+    
+    
+    
+     340
+    
+     
+    
+     Whiscash
+    
+     Water 2
+    
+    
+    
+    
+     341
+    
+     
+    
+     Corphish
+    
+     Water 1
+    
+     Water 3
+    
+    
+     342
+    
+     
+    
+     Crawdaunt
+    
+     Water 1
+    
+     Water 3
+    
+    
+     343
+    
+     
+    
+     Baltoy
+    
+     Mineral
+    
+    
+    
+    
+     344
+    
+     
+    
+     Claydol
+    
+     Mineral
+    
+    
+    
+    
+     345
+    
+     
+    
+     Lileep
+    
+     Water 3
+    
+    
+    
+    
+     346
+    
+     
+    
+     Cradily
+    
+     Water 3
+    
+    
+    
+    
+     347
+    
+     
+    
+     Anorith
+    
+     Water 3
+    
+    
+    
+    
+     348
+    
+     
+    
+     Armaldo
+    
+     Water 3
+    
+    
+    
+    
+     349
+    
+     
+    
+     Feebas
+    
+     Water 1
+    
+     Dragon
+    
+    
+     350
+    
+     
+    
+     Milotic
+    
+     Water 1
+    
+     Dragon
+    
+    
+     351
+    
+     
+    
+     Castform
+    
+     Fairy
+    
+     Amorphous
+    
+    
+     352
+    
+     
+    
+     Kecleon
+    
+     Field
+    
+    
+    
+    
+     353
+    
+     
+    
+     Shuppet
+    
+     Amorphous
+    
+    
+    
+    
+     354
+    
+     
+    
+     Banette
+    
+     Amorphous
+    
+    
+    
+    
+     355
+    
+     
+    
+     Duskull
+    
+     Amorphous
+    
+    
+    
+    
+     356
+    
+     
+    
+     Dusclops
+    
+     Amorphous
+    
+    
+    
+    
+     357
+    
+     
+    
+     Tropius
+    
+     Monster
+    
+     Grass
+    
+    
+     358
+    
+     
+    
+     Chimecho
+    
+     Amorphous
+    
+    
+    
+    
+     359
+    
+     
+    
+     Absol
+    
+     Field
+    
+    
+    
+    
+     360
+    
+     
+    
+     Wynaut
+    
+     Undiscovered
+    
+    
+    
+    
+     361
+    
+     
+    
+     Snorunt
+    
+     Fairy
+    
+     Mineral
+    
+    
+     362
+    
+     
+    
+     Glalie
+    
+     Fairy
+    
+     Mineral
+    
+    
+     363
+    
+     
+    
+     Spheal
+    
+     Water 1
+    
+     Field
+    
+    
+     364
+    
+     
+    
+     Sealeo
+    
+     Water 1
+    
+     Field
+    
+    
+     365
+    
+     
+    
+     Walrein
+    
+     Water 1
+    
+     Field
+    
+    
+     366
+    
+     
+    
+     Clamperl
+    
+     Water 1
+    
+    
+    
+    
+     367
+    
+     
+    
+     Huntail
+    
+     Water 1
+    
+    
+    
+    
+     368
+    
+     
+    
+     Gorebyss
+    
+     Water 1
+    
+    
+    
+    
+     369
+    
+     
+    
+     Relicanth
+    
+     Water 1
+    
+     Water 2
+    
+    
+     370
+    
+     
+    
+     Luvdisc
+    
+     Water 2
+    
+    
+    
+    
+     371
+    
+     
+    
+     Bagon
+    
+     Dragon
+    
+    
+    
+    
+     372
+    
+     
+    
+     Shelgon
+    
+     Dragon
+    
+    
+    
+    
+     373
+    
+     
+    
+     Salamence
+    
+     Dragon
+    
+    
+    
+    
+     374
+    
+     
+    
+     Beldum
+    
+     Mineral
+    
+    
+    
+    
+     375
+    
+     
+    
+     Metang
+    
+     Mineral
+    
+    
+    
+    
+     376
+    
+     
+    
+     Metagross
+    
+     Mineral
+    
+    
+    
+    
+     377
+    
+     
+    
+     Regirock
+    
+     Undiscovered
+    
+    
+    
+    
+     378
+    
+     
+    
+     Regice
+    
+     Undiscovered
+    
+    
+    
+    
+     379
+    
+     
+    
+     Registeel
+    
+     Undiscovered
+    
+    
+    
+    
+     380
+    
+     
+    
+     Latias
+    
+     Undiscovered
+    
+    
+    
+    
+     381
+    
+     
+    
+     Latios
+    
+     Undiscovered
+    
+    
+    
+    
+     382
+    
+     
+    
+     Kyogre
+    
+     Undiscovered
+    
+    
+    
+    
+     383
+    
+     
+    
+     Groudon
+    
+     Undiscovered
+    
+    
+    
+    
+     384
+    
+     
+    
+     Rayquaza
+    
+     Undiscovered
+    
+    
+    
+    
+     385
+    
+     
+    
+     Jirachi
+    
+     Undiscovered
+    
+    
+    
+    
+     386
+    
+     
+    
+     Deoxys
+    
+     Undiscovered
+    
+    
+    
+    
+     387
+    
+     
+    
+     Turtwig
+    
+     Monster
+    
+     Grass
+    
+    
+     388
+    
+     
+    
+     Grotle
+    
+     Monster
+    
+     Grass
+    
+    
+     389
+    
+     
+    
+     Torterra
+    
+     Monster
+    
+     Grass
+    
+    
+     390
+    
+     
+    
+     Chimchar
+    
+     Field
+    
+     Human-Like
+    
+    
+     391
+    
+     
+    
+     Monferno
+    
+     Field
+    
+     Human-Like
+    
+    
+     392
+    
+     
+    
+     Infernape
+    
+     Field
+    
+     Human-Like
+    
+    
+     393
+    
+     
+    
+     Piplup
+    
+     Water 1
+    
+     Field
+    
+    
+     394
+    
+     
+    
+     Prinplup
+    
+     Water 1
+    
+     Field
+    
+    
+     395
+    
+     
+    
+     Empoleon
+    
+     Water 1
+    
+     Field
+    
+    
+     396
+    
+     
+    
+     Starly
+    
+     Flying
+    
+    
+    
+    
+     397
+    
+     
+    
+     Staravia
+    
+     Flying
+    
+    
+    
+    
+     398
+    
+     
+    
+     Staraptor
+    
+     Flying
+    
+    
+    
+    
+     399
+    
+     
+    
+     Bidoof
+    
+     Water 1
+    
+     Field
+    
+    
+     400
+    
+     
+    
+     Bibarel
+    
+     Water 1
+    
+     Field
+    
+    
+     401
+    
+     
+    
+     Kricketot
+    
+     Bug
+    
+    
+    
+    
+     402
+    
+     
+    
+     Kricketune
+    
+     Bug
+    
+    
+    
+    
+     403
+    
+     
+    
+     Shinx
+    
+     Field
+    
+    
+    
+    
+     404
+    
+     
+    
+     Luxio
+    
+     Field
+    
+    
+    
+    
+     405
+    
+     
+    
+     Luxray
+    
+     Field
+    
+    
+    
+    
+     406
+    
+     
+    
+     Budew
+    
+     Undiscovered
+    
+    
+    
+    
+     407
+    
+     
+    
+     Roserade
+    
+     Fairy
+    
+     Grass
+    
+    
+     408
+    
+     
+    
+     Cranidos
+    
+     Monster
+    
+    
+    
+    
+     409
+    
+     
+    
+     Rampardos
+    
+     Monster
+    
+    
+    
+    
+     410
+    
+     
+    
+     Shieldon
+    
+     Monster
+    
+    
+    
+    
+     411
+    
+     
+    
+     Bastiodon
+    
+     Monster
+    
+    
+    
+    
+     412
+    
+     
+    
+     Burmy
+    
+     Bug
+    
+    
+    
+    
+     413
+    
+     
+    
+     Wormadam
+    
+     Bug
+    
+    
+    
+    
+     414
+    
+     
+    
+     Mothim
+    
+     Bug
+    
+    
+    
+    
+     415
+    
+     
+    
+     Combee
+    
+     Bug
+    
+    
+    
+    
+     416
+    
+     
+    
+     Vespiquen
+    
+     Bug
+    
+    
+    
+    
+     417
+    
+     
+    
+     Pachirisu
+    
+     Field
+    
+     Fairy
+    
+    
+     418
+    
+     
+    
+     Buizel
+    
+     Water 1
+    
+     Field
+    
+    
+     419
+    
+     
+    
+     Floatzel
+    
+     Water 1
+    
+     Field
+    
+    
+     420
+    
+     
+    
+     Cherubi
+    
+     Fairy
+    
+     Grass
+    
+    
+     421
+    
+     
+    
+     Cherrim
+    
+     Fairy
+    
+     Grass
+    
+    
+     422
+    
+     
+    
+     Shellos
+    
+     Water 1
+    
+     Amorphous
+    
+    
+     423
+    
+     
+    
+     Gastrodon
+    
+     Water 1
+    
+     Amorphous
+    
+    
+     424
+    
+     
+    
+     Ambipom
+    
+     Field
+    
+    
+    
+    
+     425
+    
+     
+    
+     Drifloon
+    
+     Amorphous
+    
+    
+    
+    
+     426
+    
+     
+    
+     Drifblim
+    
+     Amorphous
+    
+    
+    
+    
+     427
+    
+     
+    
+     Buneary
+    
+     Field
+    
+     Human-Like
+    
+    
+     428
+    
+     
+    
+     Lopunny
+    
+     Field
+    
+     Human-Like
+    
+    
+     429
+    
+     
+    
+     Mismagius
+    
+     Amorphous
+    
+    
+    
+    
+     430
+    
+     
+    
+     Honchkrow
+    
+     Flying
+    
+    
+    
+    
+     431
+    
+     
+    
+     Glameow
+    
+     Field
+    
+    
+    
+    
+     432
+    
+     
+    
+     Purugly
+    
+     Field
+    
+    
+    
+    
+     433
+    
+     
+    
+     Chingling
+    
+     Undiscovered
+    
+    
+    
+    
+     434
+    
+     
+    
+     Stunky
+    
+     Field
+    
+    
+    
+    
+     435
+    
+     
+    
+     Skuntank
+    
+     Field
+    
+    
+    
+    
+     436
+    
+     
+    
+     Bronzor
+    
+     Mineral
+    
+    
+    
+    
+     437
+    
+     
+    
+     Bronzong
+    
+     Mineral
+    
+    
+    
+    
+     438
+    
+     
+    
+     Bonsly
+    
+     Undiscovered
+    
+    
+    
+    
+     439
+    
+     
+    
+     Mime Jr.
+    
+     Undiscovered
+    
+    
+    
+    
+     440
+    
+     
+    
+     Happiny
+    
+     Undiscovered
+    
+    
+    
+    
+     441
+    
+     
+    
+     Chatot
+    
+     Flying
+    
+    
+    
+    
+     442
+    
+     
+    
+     Spiritomb
+    
+     Amorphous
+    
+    
+    
+    
+     443
+    
+     
+    
+     Gible
+    
+     Monster
+    
+     Dragon
+    
+    
+     444
+    
+     
+    
+     Gabite
+    
+     Monster
+    
+     Dragon
+    
+    
+     445
+    
+     
+    
+     Garchomp
+    
+     Monster
+    
+     Dragon
+    
+    
+     446
+    
+     
+    
+     Munchlax
+    
+     Undiscovered
+    
+    
+    
+    
+     447
+    
+     
+    
+     Riolu
+    
+     Undiscovered
+    
+    
+    
+    
+     448
+    
+     
+    
+     Lucario
+    
+     Field
+    
+     Human-Like
+    
+    
+     449
+    
+     
+    
+     Hippopotas
+    
+     Field
+    
+    
+    
+    
+     450
+    
+     
+    
+     Hippowdon
+    
+     Field
+    
+    
+    
+    
+     451
+    
+     
+    
+     Skorupi
+    
+     Bug
+    
+     Water 3
+    
+    
+     452
+    
+     
+    
+     Drapion
+    
+     Bug
+    
+     Water 3
+    
+    
+     453
+    
+     
+    
+     Croagunk
+    
+     Human-Like
+    
+    
+    
+    
+     454
+    
+     
+    
+     Toxicroak
+    
+     Human-Like
+    
+    
+    
+    
+     455
+    
+     
+    
+     Carnivine
+    
+     Grass
+    
+    
+    
+    
+     456
+    
+     
+    
+     Finneon
+    
+     Water 2
+    
+    
+    
+    
+     457
+    
+     
+    
+     Lumineon
+    
+     Water 2
+    
+    
+    
+    
+     458
+    
+     
+    
+     Mantyke
+    
+     Undiscovered
+    
+    
+    
+    
+     459
+    
+     
+    
+     Snover
+    
+     Monster
+    
+     Grass
+    
+    
+     460
+    
+     
+    
+     Abomasnow
+    
+     Monster
+    
+     Grass
+    
+    
+     461
+    
+     
+    
+     Weavile
+    
+     Field
+    
+    
+    
+    
+     462
+    
+     
+    
+     Magnezone
+    
+     Mineral
+    
+    
+    
+    
+     463
+    
+     
+    
+     Lickilicky
+    
+     Monster
+    
+    
+    
+    
+     464
+    
+     
+    
+     Rhyperior
+    
+     Monster
+    
+     Field
+    
+    
+     465
+    
+     
+    
+     Tangrowth
+    
+     Grass
+    
+    
+    
+    
+     466
+    
+     
+    
+     Electivire
+    
+     Human-Like
+    
+    
+    
+    
+     467
+    
+     
+    
+     Magmortar
+    
+     Human-Like
+    
+    
+    
+    
+     468
+    
+     
+    
+     Togekiss
+    
+     Flying
+    
+     Fairy
+    
+    
+     469
+    
+     
+    
+     Yanmega
+    
+     Bug
+    
+    
+    
+    
+     470
+    
+     
+    
+     Leafeon
+    
+     Field
+    
+    
+    
+    
+     471
+    
+     
+    
+     Glaceon
+    
+     Field
+    
+    
+    
+    
+     472
+    
+     
+    
+     Gliscor
+    
+     Bug
+    
+    
+    
+    
+     473
+    
+     
+    
+     Mamoswine
+    
+     Field
+    
+    
+    
+    
+     474
+    
+     
+    
+     Porygon-Z
+    
+     Mineral
+    
+    
+    
+    
+     475
+    
+     
+    
+     Gallade
+    
+     Human-Like*
+    
+     Amorphous
+    
+    
+     476
+    
+     
+    
+     Probopass
+    
+     Mineral
+    
+    
+    
+    
+     477
+    
+     
+    
+     Dusknoir
+    
+     Amorphous
+    
+    
+    
+    
+     478
+    
+     
+    
+     Froslass
+    
+     Fairy
+    
+     Mineral
+    
+    
+     479
+    
+     
+    
+     Rotom
+    
+     Amorphous
+    
+    
+    
+    
+     480
+    
+     
+    
+     Uxie
+    
+     Undiscovered
+    
+    
+    
+    
+     481
+    
+     
+    
+     Mesprit
+    
+     Undiscovered
+    
+    
+    
+    
+     482
+    
+     
+    
+     Azelf
+    
+     Undiscovered
+    
+    
+    
+    
+     483
+    
+     
+    
+     Dialga
+    
+     Undiscovered
+    
+    
+    
+    
+     484
+    
+     
+    
+     Palkia
+    
+     Undiscovered
+    
+    
+    
+    
+     485
+    
+     
+    
+     Heatran
+    
+     Undiscovered
+    
+    
+    
+    
+     486
+    
+     
+    
+     Regigigas
+    
+     Undiscovered
+    
+    
+    
+    
+     487
+    
+     
+    
+     Giratina
+    
+     Undiscovered
+    
+    
+    
+    
+     488
+    
+     
+    
+     Cresselia
+    
+     Undiscovered
+    
+    
+    
+    
+     489
+    
+     
+    
+     Phione
+    
+     Water 1
+    
+     Fairy
+    
+    
+     490
+    
+     
+    
+     Manaphy
+    
+     Water 1
+    
+     Fairy
+    
+    
+     491
+    
+     
+    
+     Darkrai
+    
+     Undiscovered
+    
+    
+    
+    
+     492
+    
+     
+    
+     Shaymin
+    
+     Undiscovered
+    
+    
+    
+    
+     493
+    
+     
+    
+     Arceus
+    
+     Undiscovered
+    
+    
+    
+    
+     494
+    
+     
+    
+     Victini
+    
+     Undiscovered
+    
+    
+    
+    
+     495
+    
+     
+    
+     Snivy
+    
+     Field
+    
+     Grass
+    
+    
+     496
+    
+     
+    
+     Servine
+    
+     Field
+    
+     Grass
+    
+    
+     497
+    
+     
+    
+     Serperior
+    
+     Field
+    
+     Grass
+    
+    
+     498
+    
+     
+    
+     Tepig
+    
+     Field
+    
+    
+    
+    
+     499
+    
+     
+    
+     Pignite
+    
+     Field
+    
+    
+    
+    
+     500
+    
+     
+    
+     Emboar
+    
+     Field
+    
+    
+    
+    
+     501
+    
+     
+    
+     Oshawott
+    
+     Field
+    
+    
+    
+    
+     502
+    
+     
+    
+     Dewott
+    
+     Field
+    
+    
+    
+    
+     503
+    
+     
+    
+     Samurott
+    
+     Field
+    
+    
+    
+    
+     504
+    
+     
+    
+     Patrat
+    
+     Field
+    
+    
+    
+    
+     505
+    
+     
+    
+     Watchog
+    
+     Field
+    
+    
+    
+    
+     506
+    
+     
+    
+     Lillipup
+    
+     Field
+    
+    
+    
+    
+     507
+    
+     
+    
+     Herdier
+    
+     Field
+    
+    
+    
+    
+     508
+    
+     
+    
+     Stoutland
+    
+     Field
+    
+    
+    
+    
+     509
+    
+     
+    
+     Purrloin
+    
+     Field
+    
+    
+    
+    
+     510
+    
+     
+    
+     Liepard
+    
+     Field
+    
+    
+    
+    
+     511
+    
+     
+    
+     Pansage
+    
+     Field
+    
+    
+    
+    
+     512
+    
+     
+    
+     Simisage
+    
+     Field
+    
+    
+    
+    
+     513
+    
+     
+    
+     Pansear
+    
+     Field
+    
+    
+    
+    
+     514
+    
+     
+    
+     Simisear
+    
+     Field
+    
+    
+    
+    
+     515
+    
+     
+    
+     Panpour
+    
+     Field
+    
+    
+    
+    
+     516
+    
+     
+    
+     Simipour
+    
+     Field
+    
+    
+    
+    
+     517
+    
+     
+    
+     Munna
+    
+     Field
+    
+    
+    
+    
+     518
+    
+     
+    
+     Musharna
+    
+     Field
+    
+    
+    
+    
+     519
+    
+     
+    
+     Pidove
+    
+     Flying
+    
+    
+    
+    
+     520
+    
+     
+    
+     Tranquill
+    
+     Flying
+    
+    
+    
+    
+     521
+    
+     
+    
+     Unfezant
+    
+     Flying
+    
+    
+    
+    
+     522
+    
+     
+    
+     Blitzle
+    
+     Field
+    
+    
+    
+    
+     523
+    
+     
+    
+     Zebstrika
+    
+     Field
+    
+    
+    
+    
+     524
+    
+     
+    
+     Roggenrola
+    
+     Mineral
+    
+    
+    
+    
+     525
+    
+     
+    
+     Boldore
+    
+     Mineral
+    
+    
+    
+    
+     526
+    
+     
+    
+     Gigalith
+    
+     Mineral
+    
+    
+    
+    
+     527
+    
+     
+    
+     Woobat
+    
+     Field
+    
+     Flying
+    
+    
+     528
+    
+     
+    
+     Swoobat
+    
+     Field
+    
+     Flying
+    
+    
+     529
+    
+     
+    
+     Drilbur
+    
+     Field
+    
+    
+    
+    
+     530
+    
+     
+    
+     Excadrill
+    
+     Field
+    
+    
+    
+    
+     531
+    
+     
+    
+     Audino
+    
+     Fairy
+    
+    
+    
+    
+     532
+    
+     
+    
+     Timburr
+    
+     Human-Like
+    
+    
+    
+    
+     533
+    
+     
+    
+     Gurdurr
+    
+     Human-Like
+    
+    
+    
+    
+     534
+    
+     
+    
+     Conkeldurr
+    
+     Human-Like
+    
+    
+    
+    
+     535
+    
+     
+    
+     Tympole
+    
+     Water 1
+    
+    
+    
+    
+     536
+    
+     
+    
+     Palpitoad
+    
+     Water 1
+    
+    
+    
+    
+     537
+    
+     
+    
+     Seismitoad
+    
+     Water 1
+    
+    
+    
+    
+     538
+    
+     
+    
+     Throh
+    
+     Human-Like
+    
+    
+    
+    
+     539
+    
+     
+    
+     Sawk
+    
+     Human-Like
+    
+    
+    
+    
+     540
+    
+     
+    
+     Sewaddle
+    
+     Bug
+    
+    
+    
+    
+     541
+    
+     
+    
+     Swadloon
+    
+     Bug
+    
+    
+    
+    
+     542
+    
+     
+    
+     Leavanny
+    
+     Bug
+    
+    
+    
+    
+     543
+    
+     
+    
+     Venipede
+    
+     Bug
+    
+    
+    
+    
+     544
+    
+     
+    
+     Whirlipede
+    
+     Bug
+    
+    
+    
+    
+     545
+    
+     
+    
+     Scolipede
+    
+     Bug
+    
+    
+    
+    
+     546
+    
+     
+    
+     Cottonee
+    
+     Grass
+    
+     Fairy
+    
+    
+     547
+    
+     
+    
+     Whimsicott
+    
+     Grass
+    
+     Fairy
+    
+    
+     548
+    
+     
+    
+     Petilil
+    
+     Grass
+    
+    
+    
+    
+     549
+    
+     
+    
+     Lilligant
+    
+     Grass
+    
+    
+    
+    
+     550
+    
+     
+    
+     Basculin
+    
+     Water 2
+    
+    
+    
+    
+     551
+    
+     
+    
+     Sandile
+    
+     Field
+    
+    
+    
+    
+     552
+    
+     
+    
+     Krokorok
+    
+     Field
+    
+    
+    
+    
+     553
+    
+     
+    
+     Krookodile
+    
+     Field
+    
+    
+    
+    
+     554
+    
+     
+    
+     Darumaka
+    
+     Field
+    
+    
+    
+    
+     555
+    
+     
+    
+     Darmanitan
+    
+     Field
+    
+    
+    
+    
+     556
+    
+     
+    
+     Maractus
+    
+     Grass
+    
+    
+    
+    
+     557
+    
+     
+    
+     Dwebble
+    
+     Bug
+    
+     Mineral
+    
+    
+     558
+    
+     
+    
+     Crustle
+    
+     Bug
+    
+     Mineral
+    
+    
+     559
+    
+     
+    
+     Scraggy
+    
+     Field
+    
+     Dragon
+    
+    
+     560
+    
+     
+    
+     Scrafty
+    
+     Field
+    
+     Dragon
+    
+    
+     561
+    
+     
+    
+     Sigilyph
+    
+     Flying
+    
+    
+    
+    
+     562
+    
+     
+    
+     Yamask
+    
+     Mineral
+    
+     Amorphous
+    
+    
+     563
+    
+     
+    
+     Cofagrigus
+    
+     Mineral
+    
+     Amorphous
+    
+    
+     564
+    
+     
+    
+     Tirtouga
+    
+     Water 1
+    
+     Water 3
+    
+    
+     565
+    
+     
+    
+     Carracosta
+    
+     Water 1
+    
+     Water 3
+    
+    
+     566
+    
+     
+    
+     Archen
+    
+     Flying
+    
+     Water 3
+    
+    
+     567
+    
+     
+    
+     Archeops
+    
+     Flying
+    
+     Water 3
+    
+    
+     568
+    
+     
+    
+     Trubbish
+    
+     Mineral
+    
+    
+    
+    
+     569
+    
+     
+    
+     Garbodor
+    
+     Mineral
+    
+    
+    
+    
+     570
+    
+     
+    
+     Zorua
+    
+     Field
+    
+    
+    
+    
+     571
+    
+     
+    
+     Zoroark
+    
+     Field
+    
+    
+    
+    
+     572
+    
+     
+    
+     Minccino
+    
+     Field
+    
+    
+    
+    
+     573
+    
+     
+    
+     Cinccino
+    
+     Field
+    
+    
+    
+    
+     574
+    
+     
+    
+     Gothita
+    
+     Human-Like
+    
+    
+    
+    
+     575
+    
+     
+    
+     Gothorita
+    
+     Human-Like
+    
+    
+    
+    
+     576
+    
+     
+    
+     Gothitelle
+    
+     Human-Like
+    
+    
+    
+    
+     577
+    
+     
+    
+     Solosis
+    
+     Amorphous
+    
+    
+    
+    
+     578
+    
+     
+    
+     Duosion
+    
+     Amorphous
+    
+    
+    
+    
+     579
+    
+     
+    
+     Reuniclus
+    
+     Amorphous
+    
+    
+    
+    
+     580
+    
+     
+    
+     Ducklett
+    
+     Water 1
+    
+     Flying
+    
+    
+     581
+    
+     
+    
+     Swanna
+    
+     Water 1
+    
+     Flying
+    
+    
+     582
+    
+     
+    
+     Vanillite
+    
+     Mineral
+    
+    
+    
+    
+     583
+    
+     
+    
+     Vanillish
+    
+     Mineral
+    
+    
+    
+    
+     584
+    
+     
+    
+     Vanilluxe
+    
+     Mineral
+    
+    
+    
+    
+     585
+    
+     
+    
+     Deerling
+    
+     Field
+    
+    
+    
+    
+     586
+    
+     
+    
+     Sawsbuck
+    
+     Field
+    
+    
+    
+    
+     587
+    
+     
+    
+     Emolga
+    
+     Field
+    
+    
+    
+    
+     588
+    
+     
+    
+     Karrablast
+    
+     Bug
+    
+    
+    
+    
+     589
+    
+     
+    
+     Escavalier
+    
+     Bug
+    
+    
+    
+    
+     590
+    
+     
+    
+     Foongus
+    
+     Grass
+    
+    
+    
+    
+     591
+    
+     
+    
+     Amoonguss
+    
+     Grass
+    
+    
+    
+    
+     592
+    
+     
+    
+     Frillish
+    
+     Amorphous
+    
+    
+    
+    
+     593
+    
+     
+    
+     Jellicent
+    
+     Amorphous
+    
+    
+    
+    
+     594
+    
+     
+    
+     Alomomola
+    
+     Water 1
+    
+     Water 2
+    
+    
+     595
+    
+     
+    
+     Joltik
+    
+     Bug
+    
+    
+    
+    
+     596
+    
+     
+    
+     Galvantula
+    
+     Bug
+    
+    
+    
+    
+     597
+    
+     
+    
+     Ferroseed
+    
+     Grass
+    
+     Mineral
+    
+    
+     598
+    
+     
+    
+     Ferrothorn
+    
+     Grass
+    
+     Mineral
+    
+    
+     599
+    
+     
+    
+     Klink
+    
+     Mineral
+    
+    
+    
+    
+     600
+    
+     
+    
+     Klang
+    
+     Mineral
+    
+    
+    
+    
+     601
+    
+     
+    
+     Klinklang
+    
+     Mineral
+    
+    
+    
+    
+     602
+    
+     
+    
+     Tynamo
+    
+     Amorphous
+    
+    
+    
+    
+     603
+    
+     
+    
+     Eelektrik
+    
+     Amorphous
+    
+    
+    
+    
+     604
+    
+     
+    
+     Eelektross
+    
+     Amorphous
+    
+    
+    
+    
+     605
+    
+     
+    
+     Elgyem
+    
+     Human-Like
+    
+    
+    
+    
+     606
+    
+     
+    
+     Beheeyem
+    
+     Human-Like
+    
+    
+    
+    
+     607
+    
+     
+    
+     Litwick
+    
+     Amorphous
+    
+    
+    
+    
+     608
+    
+     
+    
+     Lampent
+    
+     Amorphous
+    
+    
+    
+    
+     609
+    
+     
+    
+     Chandelure
+    
+     Amorphous
+    
+    
+    
+    
+     610
+    
+     
+    
+     Axew
+    
+     Monster
+    
+     Dragon
+    
+    
+     611
+    
+     
+    
+     Fraxure
+    
+     Monster
+    
+     Dragon
+    
+    
+     612
+    
+     
+    
+     Haxorus
+    
+     Monster
+    
+     Dragon
+    
+    
+     613
+    
+     
+    
+     Cubchoo
+    
+     Field
+    
+    
+    
+    
+     614
+    
+     
+    
+     Beartic
+    
+     Field
+    
+    
+    
+    
+     615
+    
+     
+    
+     Cryogonal
+    
+     Mineral
+    
+    
+    
+    
+     616
+    
+     
+    
+     Shelmet
+    
+     Bug
+    
+    
+    
+    
+     617
+    
+     
+    
+     Accelgor
+    
+     Bug
+    
+    
+    
+    
+     618
+    
+     
+    
+     Stunfisk
+    
+     Water 1
+    
+     Amorphous
+    
+    
+     619
+    
+     
+    
+     Mienfoo
+    
+     Field
+    
+     Human-Like
+    
+    
+     620
+    
+     
+    
+     Mienshao
+    
+     Field
+    
+     Human-Like
+    
+    
+     621
+    
+     
+    
+     Druddigon
+    
+     Dragon
+    
+     Monster
+    
+    
+     622
+    
+     
+    
+     Golett
+    
+     Mineral
+    
+    
+    
+    
+     623
+    
+     
+    
+     Golurk
+    
+     Mineral
+    
+    
+    
+    
+     624
+    
+     
+    
+     Pawniard
+    
+     Human-Like
+    
+    
+    
+    
+     625
+    
+     
+    
+     Bisharp
+    
+     Human-Like
+    
+    
+    
+    
+     626
+    
+     
+    
+     Bouffalant
+    
+     Field
+    
+    
+    
+    
+     627
+    
+     
+    
+     Rufflet
+    
+     Flying
+    
+    
+    
+    
+     628
+    
+     
+    
+     Braviary
+    
+     Flying
+    
+    
+    
+    
+     629
+    
+     
+    
+     Vullaby
+    
+     Flying
+    
+    
+    
+    
+     630
+    
+     
+    
+     Mandibuzz
+    
+     Flying
+    
+    
+    
+    
+     631
+    
+     
+    
+     Heatmor
+    
+     Field
+    
+    
+    
+    
+     632
+    
+     
+    
+     Durant
+    
+     Bug
+    
+    
+    
+    
+     633
+    
+     
+    
+     Deino
+    
+     Dragon
+    
+    
+    
+    
+     634
+    
+     
+    
+     Zweilous
+    
+     Dragon
+    
+    
+    
+    
+     635
+    
+     
+    
+     Hydreigon
+    
+     Dragon
+    
+    
+    
+    
+     636
+    
+     
+    
+     Larvesta
+    
+     Bug
+    
+    
+    
+    
+     637
+    
+     
+    
+     Volcarona
+    
+     Bug
+    
+    
+    
+    
+     638
+    
+     
+    
+     Cobalion
+    
+     Undiscovered
+    
+    
+    
+    
+     639
+    
+     
+    
+     Terrakion
+    
+     Undiscovered
+    
+    
+    
+    
+     640
+    
+     
+    
+     Virizion
+    
+     Undiscovered
+    
+    
+    
+    
+     641
+    
+     
+    
+     Tornadus
+    
+     Undiscovered
+    
+    
+    
+    
+     642
+    
+     
+    
+     Thundurus
+    
+     Undiscovered
+    
+    
+    
+    
+     643
+    
+     
+    
+     Reshiram
+    
+     Undiscovered
+    
+    
+    
+    
+     644
+    
+     
+    
+     Zekrom
+    
+     Undiscovered
+    
+    
+    
+    
+     645
+    
+     
+    
+     Landorus
+    
+     Undiscovered
+    
+    
+    
+    
+     646
+    
+     
+    
+     Kyurem
+    
+     Undiscovered
+    
+    
+    
+    
+     647
+    
+     
+    
+     Keldeo
+    
+     Undiscovered
+    
+    
+    
+    
+     648
+    
+     
+    
+     Meloetta
+    
+     Undiscovered
+    
+    
+    
+    
+     649
+    
+     
+    
+     Genesect
+    
+     Undiscovered
+    
+    
+    
+    
+     650
+    
+     
+    
+     Chespin
+    
+     Field
+    
+    
+    
+    
+     651
+    
+     
+    
+     Quilladin
+    
+     Field
+    
+    
+    
+    
+     652
+    
+     
+    
+     Chesnaught
+    
+     Field
+    
+    
+    
+    
+     653
+    
+     
+    
+     Fennekin
+    
+     Field
+    
+    
+    
+    
+     654
+    
+     
+    
+     Braixen
+    
+     Field
+    
+    
+    
+    
+     655
+    
+     
+    
+     Delphox
+    
+     Field
+    
+    
+    
+    
+     656
+    
+     
+    
+     Froakie
+    
+     Water 1
+    
+    
+    
+    
+     657
+    
+     
+    
+     Frogadier
+    
+     Water 1
+    
+    
+    
+    
+     658
+    
+     
+    
+     Greninja
+    
+     Water 1
+    
+    
+    
+    
+     659
+    
+     
+    
+     Bunnelby
+    
+     Field
+    
+    
+    
+    
+     660
+    
+     
+    
+     Diggersby
+    
+     Field
+    
+    
+    
+    
+     661
+    
+     
+    
+     Fletchling
+    
+     Flying
+    
+    
+    
+    
+     662
+    
+     
+    
+     Fletchinder
+    
+     Flying
+    
+    
+    
+    
+     663
+    
+     
+    
+     Talonflame
+    
+     Flying
+    
+    
+    
+    
+     664
+    
+     
+    
+     Scatterbug
+    
+     Bug
+    
+    
+    
+    
+     665
+    
+     
+    
+     Spewpa
+    
+     Bug
+    
+    
+    
+    
+     666
+    
+     
+    
+     Vivillon
+    
+     Bug
+    
+    
+    
+    
+     667
+    
+     
+    
+     Litleo
+    
+     Field
+    
+    
+    
+    
+     668
+    
+     
+    
+     Pyroar
+    
+     Field
+    
+    
+    
+    
+     669
+    
+     
+    
+     Flabébé
+    
+     Fairy
+    
+    
+    
+    
+     670
+    
+     
+    
+     Floette
+    
+     Fairy
+    
+    
+    
+    
+     671
+    
+     
+    
+     Florges
+    
+     Fairy
+    
+    
+    
+    
+     672
+    
+     
+    
+     Skiddo
+    
+     Field
+    
+    
+    
+    
+     673
+    
+     
+    
+     Gogoat
+    
+     Field
+    
+    
+    
+    
+     674
+    
+     
+    
+     Pancham
+    
+     Field
+    
+     Human-Like
+    
+    
+     675
+    
+     
+    
+     Pangoro
+    
+     Field
+    
+     Human-Like
+    
+    
+     676
+    
+     
+    
+     Furfrou
+    
+     Field
+    
+    
+    
+    
+     677
+    
+     
+    
+     Espurr
+    
+     Field
+    
+    
+    
+    
+     678
+    
+     
+    
+     Meowstic
+    
+     Field
+    
+    
+    
+    
+     679
+    
+     
+    
+     Honedge
+    
+     Mineral
+    
+    
+    
+    
+     680
+    
+     
+    
+     Doublade
+    
+     Mineral
+    
+    
+    
+    
+     681
+    
+     
+    
+     Aegislash
+    
+     Mineral
+    
+    
+    
+    
+     682
+    
+     
+    
+     Spritzee
+    
+     Fairy
+    
+    
+    
+    
+     683
+    
+     
+    
+     Aromatisse
+    
+     Fairy
+    
+    
+    
+    
+     684
+    
+     
+    
+     Swirlix
+    
+     Fairy
+    
+    
+    
+    
+     685
+    
+     
+    
+     Slurpuff
+    
+     Fairy
+    
+    
+    
+    
+     686
+    
+     
+    
+     Inkay
+    
+     Water 1
+    
+     Water 2
+    
+    
+     687
+    
+     
+    
+     Malamar
+    
+     Water 1
+    
+     Water 2
+    
+    
+     688
+    
+     
+    
+     Binacle
+    
+     Water 3
+    
+    
+    
+    
+     689
+    
+     
+    
+     Barbaracle
+    
+     Water 3
+    
+    
+    
+    
+     690
+    
+     
+    
+     Skrelp
+    
+     Water 1
+    
+     Dragon
+    
+    
+     691
+    
+     
+    
+     Dragalge
+    
+     Water 1
+    
+     Dragon
+    
+    
+     692
+    
+     
+    
+     Clauncher
+    
+     Water 1
+    
+     Water 3
+    
+    
+     693
+    
+     
+    
+     Clawitzer
+    
+     Water 1
+    
+     Water 3
+    
+    
+     694
+    
+     
+    
+     Helioptile
+    
+     Monster
+    
+     Dragon
+    
+    
+     695
+    
+     
+    
+     Heliolisk
+    
+     Monster
+    
+     Dragon
+    
+    
+     696
+    
+     
+    
+     Tyrunt
+    
+     Monster
+    
+     Dragon
+    
+    
+     697
+    
+     
+    
+     Tyrantrum
+    
+     Monster
+    
+     Dragon
+    
+    
+     698
+    
+     
+    
+     Amaura
+    
+     Monster
+    
+    
+    
+    
+     699
+    
+     
+    
+     Aurorus
+    
+     Monster
+    
+    
+    
+    
+     700
+    
+     
+    
+     Sylveon
+    
+     Field
+    
+    
+    
+    
+     701
+    
+     
+    
+     Hawlucha
+    
+     Flying*
+    
+     Human-Like
+    
+    
+     702
+    
+     
+    
+     Dedenne
+    
+     Field
+    
+     Fairy
+    
+    
+     703
+    
+     
+    
+     Carbink
+    
+     Fairy
+    
+     Mineral
+    
+    
+     704
+    
+     
+    
+     Goomy
+    
+     Dragon
+    
+    
+    
+    
+     705
+    
+     
+    
+     Sliggoo
+    
+     Dragon
+    
+    
+    
+    
+     706
+    
+     
+    
+     Goodra
+    
+     Dragon
+    
+    
+    
+    
+     707
+    
+     
+    
+     Klefki
+    
+     Mineral
+    
+    
+    
+    
+     708
+    
+     
+    
+     Phantump
+    
+     Grass
+    
+     Amorphous
+    
+    
+     709
+    
+     
+    
+     Trevenant
+    
+     Grass
+    
+     Amorphous
+    
+    
+     710
+    
+     
+    
+     Pumpkaboo
+    
+     Amorphous
+    
+    
+    
+    
+     711
+    
+     
+    
+     Gourgeist
+    
+     Amorphous
+    
+    
+    
+    
+     712
+    
+     
+    
+     Bergmite
+    
+     Monster
+    
+     Mineral*
+    
+    
+     713
+    
+     
+    
+     Avalugg
+    
+     Monster
+    
+     Mineral*
+    
+    
+     714
+    
+     
+    
+     Noibat
+    
+     Flying
+    
+     Dragon*
+    
+    
+     715
+    
+     
+    
+     Noivern
+    
+     Flying
+    
+     Dragon*
+    
+    
+     716
+    
+     
+    
+     Xerneas
+    
+     Undiscovered
+    
+    
+    
+    
+     717
+    
+     
+    
+     Yveltal
+    
+     Undiscovered
+    
+    
+    
+    
+     718
+    
+     
+    
+     Zygarde
+    
+     Undiscovered
+    
+    
+    
+    
+     719
+    
+     
+    
+     Diancie
+    
+     Undiscovered
+    
+    
+    
+    
+     720
+    
+     
+    
+     Hoopa
+    
+     Undiscovered
+    
+    
+    
+    
+     721
+    
+     
+    
+     Volcanion
+    
+     Undiscovered
+    
+    
+    
+    
+     722
+    
+     
+    
+     Rowlet
+    
+     Flying
+    
+    
+    
+    
+     723
+    
+     
+    
+     Dartrix
+    
+     Flying
+    
+    
+    
+    
+     724
+    
+     
+    
+     Decidueye
+    
+     Flying
+    
+    
+    
+    
+     725
+    
+     
+    
+     Litten
+    
+     Field
+    
+    
+    
+    
+     726
+    
+     
+    
+     Torracat
+    
+     Field
+    
+    
+    
+    
+     727
+    
+     
+    
+     Incineroar
+    
+     Field
+    
+    
+    
+    
+     728
+    
+     
+    
+     Popplio
+    
+     Water 1
+    
+     Field
+    
+    
+     729
+    
+     
+    
+     Brionne
+    
+     Water 1
+    
+     Field
+    
+    
+     730
+    
+     
+    
+     Primarina
+    
+     Water 1
+    
+     Field
+    
+    
+     731
+    
+     
+    
+     Pikipek
+    
+     Flying
+    
+    
+    
+    
+     732
+    
+     
+    
+     Trumbeak
+    
+     Flying
+    
+    
+    
+    
+     733
+    
+     
+    
+     Toucannon
+    
+     Flying
+    
+    
+    
+    
+     734
+    
+     
+    
+     Yungoos
+    
+     Field
+    
+    
+    
+    
+     735
+    
+     
+    
+     Gumshoos
+    
+     Field
+    
+    
+    
+    
+     736
+    
+     
+    
+     Grubbin
+    
+     Bug
+    
+    
+    
+    
+     737
+    
+     
+    
+     Charjabug
+    
+     Bug
+    
+    
+    
+    
+     738
+    
+     
+    
+     Vikavolt
+    
+     Bug
+    
+    
+    
+    
+     739
+    
+     
+    
+     Crabrawler
+    
+     Water 3
+    
+    
+    
+    
+     740
+    
+     
+    
+     Crabominable
+    
+     Water 3
+    
+    
+    
+    
+     741
+    
+     
+    
+     Oricorio
+    
+     Flying
+    
+    
+    
+    
+     742
+    
+     
+    
+     Cutiefly
+    
+     Bug
+    
+     Fairy
+    
+    
+     743
+    
+     
+    
+     Ribombee
+    
+     Bug
+    
+     Fairy
+    
+    
+     744
+    
+     
+    
+     Rockruff
+    
+     Field
+    
+    
+    
+    
+     745
+    
+     
+    
+     Lycanroc
+    
+     Field
+    
+    
+    
+    
+     746
+    
+     
+    
+     Wishiwashi
+    
+     Water 2
+    
+    
+    
+    
+     747
+    
+     
+    
+     Mareanie
+    
+     Water 1
+    
+    
+    
+    
+     748
+    
+     
+    
+     Toxapex
+    
+     Water 1
+    
+    
+    
+    
+     749
+    
+     
+    
+     Mudbray
+    
+     Field
+    
+    
+    
+    
+     750
+    
+     
+    
+     Mudsdale
+    
+     Field
+    
+    
+    
+    
+     751
+    
+     
+    
+     Dewpider
+    
+     Water 1
+    
+     Bug
+    
+    
+     752
+    
+     
+    
+     Araquanid
+    
+     Water 1
+    
+     Bug
+    
+    
+     753
+    
+     
+    
+     Fomantis
+    
+     Grass
+    
+    
+    
+    
+     754
+    
+     
+    
+     Lurantis
+    
+     Grass
+    
+    
+    
+    
+     755
+    
+     
+    
+     Morelull
+    
+     Grass
+    
+    
+    
+    
+     756
+    
+     
+    
+     Shiinotic
+    
+     Grass
+    
+    
+    
+    
+     757
+    
+     
+    
+     Salandit
+    
+     Monster
+    
+     Dragon
+    
+    
+     758
+    
+     
+    
+     Salazzle
+    
+     Monster
+    
+     Dragon
+    
+    
+     759
+    
+     
+    
+     Stufful
+    
+     Field
+    
+    
+    
+    
+     760
+    
+     
+    
+     Bewear
+    
+     Field
+    
+    
+    
+    
+     761
+    
+     
+    
+     Bounsweet
+    
+     Grass
+    
+    
+    
+    
+     762
+    
+     
+    
+     Steenee
+    
+     Grass
+    
+    
+    
+    
+     763
+    
+     
+    
+     Tsareena
+    
+     Grass
+    
+    
+    
+    
+     764
+    
+     
+    
+     Comfey
+    
+     Grass
+    
+    
+    
+    
+     765
+    
+     
+    
+     Oranguru
+    
+     Field
+    
+    
+    
+    
+     766
+    
+     
+    
+     Passimian
+    
+     Field
+    
+    
+    
+    
+     767
+    
+     
+    
+     Wimpod
+    
+     Bug
+    
+     Water 3
+    
+    
+     768
+    
+     
+    
+     Golisopod
+    
+     Bug
+    
+     Water 3
+    
+    
+     769
+    
+     
+    
+     Sandygast
+    
+     Amorphous
+    
+    
+    
+    
+     770
+    
+     
+    
+     Palossand
+    
+     Amorphous
+    
+    
+    
+    
+     771
+    
+     
+    
+     Pyukumuku
+    
+     Water 1
+    
+    
+    
+    
+     772
+    
+     
+    
+     Type: Null
+    
+     Undiscovered
+    
+    
+    
+    
+     773
+    
+     
+    
+     Silvally
+    
+     Undiscovered
+    
+    
+    
+    
+     774
+    
+     
+    
+     Minior
+    
+     Mineral
+    
+    
+    
+    
+     775
+    
+     
+    
+     Komala
+    
+     Field
+    
+    
+    
+    
+     776
+    
+     
+    
+     Turtonator
+    
+     Monster
+    
+     Dragon
+    
+    
+     777
+    
+     
+    
+     Togedemaru
+    
+     Field
+    
+     Fairy
+    
+    
+     778
+    
+     
+    
+     Mimikyu
+    
+     Amorphous
+    
+    
+    
+    
+     779
+    
+     
+    
+     Bruxish
+    
+     Water 2
+    
+    
+    
+    
+     780
+    
+     
+    
+     Drampa
+    
+     Monster
+    
+     Dragon
+    
+    
+     781
+    
+     
+    
+     Dhelmise
+    
+     Mineral
+    
+    
+    
+    
+     782
+    
+     
+    
+     Jangmo-o
+    
+     Dragon
+    
+    
+    
+    
+     783
+    
+     
+    
+     Hakamo-o
+    
+     Dragon
+    
+    
+    
+    
+     784
+    
+     
+    
+     Kommo-o
+    
+     Dragon
+    
+    
+    
+    
+     785
+    
+     
+    
+     Tapu Koko
+    
+     Undiscovered
+    
+    
+    
+    
+     786
+    
+     
+    
+     Tapu Lele
+    
+     Undiscovered
+    
+    
+    
+    
+     787
+    
+     
+    
+     Tapu Bulu
+    
+     Undiscovered
+    
+    
+    
+    
+     788
+    
+     
+    
+     Tapu Fini
+    
+     Undiscovered
+    
+    
+    
+    
+     789
+    
+     
+    
+     Cosmog
+    
+     Undiscovered
+    
+    
+    
+    
+     790
+    
+     
+    
+     Cosmoem
+    
+     Undiscovered
+    
+    
+    
+    
+     791
+    
+     
+    
+     Solgaleo
+    
+     Undiscovered
+    
+    
+    
+    
+     792
+    
+     
+    
+     Lunala
+    
+     Undiscovered
+    
+    
+    
+    
+     793
+    
+     
+    
+     Nihilego
+    
+     Undiscovered
+    
+    
+    
+    
+     794
+    
+     
+    
+     Buzzwole
+    
+     Undiscovered
+    
+    
+    
+    
+     795
+    
+     
+    
+     Pheromosa
+    
+     Undiscovered
+    
+    
+    
+    
+     796
+    
+     
+    
+     Xurkitree
+    
+     Undiscovered
+    
+    
+    
+    
+     797
+    
+     
+    
+     Celesteela
+    
+     Undiscovered
+    
+    
+    
+    
+     798
+    
+     
+    
+     Kartana
+    
+     Undiscovered
+    
+    
+    
+    
+     799
+    
+     
+    
+     Guzzlord
+    
+     Undiscovered
+    
+    
+    
+    
+     800
+    
+     
+    
+     Necrozma
+    
+     Undiscovered
+    
+    
+    
+    
+     801
+    
+     
+    
+     Magearna
+    
+     Undiscovered
+    
+    
+    
+    
+     802
+    
+     
+    
+     Marshadow
+    
+     Undiscovered
+    
+    
+    
+    
+     803
+    
+     
+    
+     Poipole
+    
+     Undiscovered
+    
+    
+    
+    
+     804
+    
+     
+    
+     Naganadel
+    
+     Undiscovered
+    
+    
+    
+    
+     805
+    
+     
+    
+     Stakataka
+    
+     Undiscovered
+    
+    
+    
+    
+     806
+    
+     
+    
+     Blacephalon
+    
+     Undiscovered
+    
+    
+    
+    
+     807
+    
+     
+    
+     Zeraora
+    
+     Undiscovered
+    
+    
+    
+    
+     808
+    
+     
+    
+     Meltan
+    
+     Undiscovered
+    
+    
+    
+    
+     809
+    
+     
+    
+     Melmetal
+    
+     Undiscovered
+    
+    
+    
+    
+     810
+    
+     
+    
+     Grookey
+    
+     Field
+    
+     Grass
+    
+    
+     811
+    
+     
+    
+     Thwackey
+    
+     Field
+    
+     Grass
+    
+    
+     812
+    
+     
+    
+     Rillaboom
+    
+     Field
+    
+     Grass
+    
+    
+     813
+    
+     
+    
+     Scorbunny
+    
+     Field
+    
+     Human-Like
+    
+    
+     814
+    
+     
+    
+     Raboot
+    
+     Field
+    
+     Human-Like
+    
+    
+     815
+    
+     
+    
+     Cinderace
+    
+     Field
+    
+     Human-Like
+    
+    
+     816
+    
+     
+    
+     Sobble
+    
+     Water 1
+    
+     Field
+    
+    
+     817
+    
+     
+    
+     Drizzile
+    
+     Water 1
+    
+     Field
+    
+    
+     818
+    
+     
+    
+     Inteleon
+    
+     Water 1
+    
+     Field
+    
+    
+     819
+    
+     
+    
+     Skwovet
+    
+     Field
+    
+    
+    
+    
+     820
+    
+     
+    
+     Greedent
+    
+     Field
+    
+    
+    
+    
+     821
+    
+     
+    
+     Rookidee
+    
+     Flying
+    
+    
+    
+    
+     822
+    
+     
+    
+     Corvisquire
+    
+     Flying
+    
+    
+    
+    
+     823
+    
+     
+    
+     Corviknight
+    
+     Flying
+    
+    
+    
+    
+     824
+    
+     
+    
+     Blipbug
+    
+     Bug
+    
+    
+    
+    
+     825
+    
+     
+    
+     Dottler
+    
+     Bug
+    
+    
+    
+    
+     826
+    
+     
+    
+     Orbeetle
+    
+     Bug
+    
+    
+    
+    
+     827
+    
+     
+    
+     Nickit
+    
+     Field
+    
+    
+    
+    
+     828
+    
+     
+    
+     Thievul
+    
+     Field
+    
+    
+    
+    
+     829
+    
+     
+    
+     Gossifleur
+    
+     Grass
+    
+    
+    
+    
+     830
+    
+     
+    
+     Eldegoss
+    
+     Grass
+    
+    
+    
+    
+     831
+    
+     
+    
+     Wooloo
+    
+     Field
+    
+    
+    
+    
+     832
+    
+     
+    
+     Dubwool
+    
+     Field
+    
+    
+    
+    
+     833
+    
+     
+    
+     Chewtle
+    
+     Monster
+    
+     Water 1
+    
+    
+     834
+    
+     
+    
+     Drednaw
+    
+     Monster
+    
+     Water 1
+    
+    
+     835
+    
+     
+    
+     Yamper
+    
+     Field
+    
+    
+    
+    
+     836
+    
+     
+    
+     Boltund
+    
+     Field
+    
+    
+    
+    
+     837
+    
+     
+    
+     Rolycoly
+    
+     Mineral
+    
+    
+    
+    
+     838
+    
+     
+    
+     Carkol
+    
+     Mineral
+    
+    
+    
+    
+     839
+    
+     
+    
+     Coalossal
+    
+     Mineral
+    
+    
+    
+    
+     840
+    
+     
+    
+     Applin
+    
+     Grass
+    
+     Dragon
+    
+    
+     841
+    
+     
+    
+     Flapple
+    
+     Grass
+    
+     Dragon
+    
+    
+     842
+    
+     
+    
+     Appletun
+    
+     Grass
+    
+     Dragon
+    
+    
+     843
+    
+     
+    
+     Silicobra
+    
+     Field
+    
+     Dragon
+    
+    
+     844
+    
+     
+    
+     Sandaconda
+    
+     Field
+    
+     Dragon
+    
+    
+     845
+    
+     
+    
+     Cramorant
+    
+     Water 1
+    
+     Flying
+    
+    
+     846
+    
+     
+    
+     Arrokuda
+    
+     Water 2
+    
+    
+    
+    
+     847
+    
+     
+    
+     Barraskewda
+    
+     Water 2
+    
+    
+    
+    
+     848
+    
+     
+    
+     Toxel
+    
+     Undiscovered
+    
+    
+    
+    
+     849
+    
+     
+    
+     Toxtricity
+    
+     Human-Like
+    
+    
+    
+    
+     850
+    
+     
+    
+     Sizzlipede
+    
+     Bug
+    
+    
+    
+    
+     851
+    
+     
+    
+     Centiskorch
+    
+     Bug
+    
+    
+    
+    
+     852
+    
+     
+    
+     Clobbopus
+    
+     Water 1
+    
+     Human-Like
+    
+    
+     853
+    
+     
+    
+     Grapploct
+    
+     Water 1
+    
+     Human-Like
+    
+    
+     854
+    
+     
+    
+     Sinistea
+    
+     Mineral
+    
+     Amorphous
+    
+    
+     855
+    
+     
+    
+     Polteageist
+    
+     Mineral
+    
+     Amorphous
+    
+    
+     856
+    
+     
+    
+     Hatenna
+    
+     Fairy
+    
+    
+    
+    
+     857
+    
+     
+    
+     Hattrem
+    
+     Fairy
+    
+    
+    
+    
+     858
+    
+     
+    
+     Hatterene
+    
+     Fairy
+    
+    
+    
+    
+     859
+    
+     
+    
+     Impidimp
+    
+     Fairy
+    
+     Human-Like
+    
+    
+     860
+    
+     
+    
+     Morgrem
+    
+     Fairy
+    
+     Human-Like
+    
+    
+     861
+    
+     
+    
+     Grimmsnarl
+    
+     Fairy
+    
+     Human-Like
+    
+    
+     862
+    
+     
+    
+     Obstagoon
+    
+     Field
+    
+    
+    
+    
+     863
+    
+     
+    
+     Perrserker
+    
+     Field
+    
+    
+    
+    
+     864
+    
+     
+    
+     Cursola
+    
+     Water 1
+    
+     Water 3
+    
+    
+     865
+    
+     
+    
+     Sirfetch'd
+    
+     Flying
+    
+     Field
+    
+    
+     866
+    
+     
+    
+     Mr. Rime
+    
+     Human-Like
+    
+    
+    
+    
+     867
+    
+     
+    
+     Runerigus
+    
+     Mineral
+    
+     Amorphous
+    
+    
+     868
+    
+     
+    
+     Milcery
+    
+     Fairy
+    
+     Amorphous
+    
+    
+     869
+    
+     
+    
+     Alcremie
+    
+     Fairy
+    
+     Amorphous
+    
+    
+     870
+    
+     
+    
+     Falinks
+    
+     Fairy
+    
+     Mineral
+    
+    
+     871
+    
+     
+    
+     Pincurchin
+    
+     Water 1
+    
+     Amorphous
+    
+    
+     872
+    
+     
+    
+     Snom
+    
+     Bug
+    
+    
+    
+    
+     873
+    
+     
+    
+     Frosmoth
+    
+     Bug
+    
+    
+    
+    
+     874
+    
+     
+    
+     Stonjourner
+    
+     Mineral
+    
+    
+    
+    
+     875
+    
+     
+    
+     Eiscue
+    
+     Water 1
+    
+     Field
+    
+    
+     876
+    
+     
+    
+     Indeedee
+    
+     Fairy
+    
+    
+    
+    
+     877
+    
+     
+    
+     Morpeko
+    
+     Field
+    
+     Fairy
+    
+    
+     878
+    
+     
+    
+     Cufant
+    
+     Field
+    
+     Mineral
+    
+    
+     879
+    
+     
+    
+     Copperajah
+    
+     Field
+    
+     Mineral
+    
+    
+     880
+    
+     
+    
+     Dracozolt
+    
+     Undiscovered
+    
+    
+    
+    
+     881
+    
+     
+    
+     Arctozolt
+    
+     Undiscovered
+    
+    
+    
+    
+     882
+    
+     
+    
+     Dracovish
+    
+     Undiscovered
+    
+    
+    
+    
+     883
+    
+     
+    
+     Arctovish
+    
+     Undiscovered
+    
+    
+    
+    
+     884
+    
+     
+    
+     Duraludon
+    
+     Mineral
+    
+     Dragon
+    
+    
+     885
+    
+     
+    
+     Dreepy
+    
+     Amorphous
+    
+     Dragon
+    
+    
+     886
+    
+     
+    
+     Drakloak
+    
+     Amorphous
+    
+     Dragon
+    
+    
+     887
+    
+     
+    
+     Dragapult
+    
+     Amorphous
+    
+     Dragon
+    
+    
+     888
+    
+     
+    
+     Zacian
+    
+     Undiscovered
+    
+    
+    
+    
+     889
+    
+     
+    
+     Zamazenta
+    
+     Undiscovered
+    
+    
+    
+    
+     890
+    
+     
+    
+     Eternatus
+    
+     Undiscovered
