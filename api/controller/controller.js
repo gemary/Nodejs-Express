@@ -19,3 +19,8 @@ module.exports.eggGroup =async(req,res)=>{
     const data= JSON.parse(rawdata)
     res.json(data)  
 }
+module.exports.ListeggGroup =async(req,res)=>{
+    const rawdata = fs.readFileSync('./data/egg-group.json')
+    const data= JSON.parse(rawdata)
+    res.json(data)  
+}

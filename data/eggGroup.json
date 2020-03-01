@@ -14,7 +14,7 @@
           },
           {
             "name": "Grass",
-            "color": "##78C850"
+            "color": "#78C850"
           }
         ]
       },
@@ -111,7 +111,7 @@
       {
         "id": "007",
         "image": "http://cdn.bulbagarden.net/upload/9/92/007MS.png",
-        "name": {
+        "name": { 
           "_targetdocent": "../../wiki/Squirtle_(Pokémon)",
           "pokemonName": "Squirtle"
         },

@@ -1,0 +1,65 @@
+{
+    "count": 15,
+    "results": [
+        {
+            "name": "Monster",
+            "color": "#D25064"
+        },
+        {
+            "name": "Water1",
+            "color": "#97B5FD"
+        },
+        {
+            "name": "Bug",
+            "color": "#A8B820"
+        },
+        {
+            "name": "flying",
+            "color": "#A890F0"
+        },
+        {
+            "name": "Field",
+            "color": "#E0C068"
+        },
+        {
+            "name": "fairy",
+            "color": "#EE99AC"
+        },
+        {
+            "name": "Grass",
+            "color": "#78C850"
+        },
+        {
+            "name": "Human-Like",
+            "color": "#D29682"
+        },
+        {
+            "name": "water 3",
+            "color": "#5876BE"
+        },
+        {
+            "name": "mineral",
+            "color": "#7A6252"
+        },
+        {
+            "name": "Amorphous",
+            "color": "#8A8A8A"
+        },
+        {
+            "name": "water 2",
+            "color": "#729AFA"
+        },
+        {
+            "name": "ditto",
+            "color": "#A664BF"
+        },
+        {
+            "name": "dragon",
+            "color": "#7038F8"
+        },
+        {
+            "name": "Undiscovered",
+            "color": "#333333"
+        }
+    ]
+}
