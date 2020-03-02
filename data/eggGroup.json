@@ -169,10 +169,14 @@
           "_targetdocent": "../../wiki/Caterpie_(Pokémon)",
           "pokemonName": "Caterpie"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -183,10 +187,14 @@
           "_targetdocent": "../../wiki/Metapod_(Pokémon)",
           "pokemonName": "Metapod"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -197,10 +205,14 @@
           "_targetdocent": "../../wiki/Butterfree_(Pokémon)",
           "pokemonName": "Butterfree"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -211,10 +223,14 @@
           "_targetdocent": "../../wiki/Weedle_(Pokémon)",
           "pokemonName": "Weedle"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -225,10 +241,14 @@
           "_targetdocent": "../../wiki/Kakuna_(Pokémon)",
           "pokemonName": "Kakuna"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -239,10 +259,14 @@
           "_targetdocent": "../../wiki/Beedrill_(Pokémon)",
           "pokemonName": "Beedrill"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -741,10 +765,14 @@
           "_targetdocent": "../../wiki/Venonat_(Pokémon)",
           "pokemonName": "Venonat"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -755,10 +783,14 @@
           "_targetdocent": "../../wiki/Venomoth_(Pokémon)",
           "pokemonName": "Venomoth"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1835,10 +1867,14 @@
           "_targetdocent": "../../wiki/Scyther_(Pokémon)",
           "pokemonName": "Scyther"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1891,10 +1927,14 @@
           "_targetdocent": "../../wiki/Pinsir_(Pokémon)",
           "pokemonName": "Pinsir"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2487,10 +2527,14 @@
           "_targetdocent": "../../wiki/Ledyba_(Pokémon)",
           "pokemonName": "Ledyba"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2501,10 +2545,14 @@
           "_targetdocent": "../../wiki/Ledian_(Pokémon)",
           "pokemonName": "Ledian"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2515,10 +2563,14 @@
           "_targetdocent": "../../wiki/Spinarak_(Pokémon)",
           "pokemonName": "Spinarak"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2529,10 +2581,14 @@
           "_targetdocent": "../../wiki/Ariados_(Pokémon)",
           "pokemonName": "Ariados"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2915,10 +2971,14 @@
           "_targetdocent": "../../wiki/Yanma_(Pokémon)",
           "pokemonName": "Yanma"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3081,10 +3141,14 @@
           "_targetdocent": "../../wiki/Pineco_(Pokémon)",
           "pokemonName": "Pineco"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3095,10 +3159,14 @@
           "_targetdocent": "../../wiki/Forretress_(Pokémon)",
           "pokemonName": "Forretress"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3123,10 +3191,14 @@
           "_targetdocent": "../../wiki/Gligar_(Pokémon)",
           "pokemonName": "Gligar"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3201,10 +3273,14 @@
           "_targetdocent": "../../wiki/Scizor_(Pokémon)",
           "pokemonName": "Scizor"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3215,10 +3291,14 @@
           "_targetdocent": "../../wiki/Shuckle_(Pokémon)",
           "pokemonName": "Shuckle"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3229,10 +3309,14 @@
           "_targetdocent": "../../wiki/Heracross_(Pokémon)",
           "pokemonName": "Heracross"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3987,10 +4071,14 @@
           "_targetdocent": "../../wiki/Wurmple_(Pokémon)",
           "pokemonName": "Wurmple"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4001,10 +4089,14 @@
           "_targetdocent": "../../wiki/Silcoon_(Pokémon)",
           "pokemonName": "Silcoon"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4015,10 +4107,14 @@
           "_targetdocent": "../../wiki/Beautifly_(Pokémon)",
           "pokemonName": "Beautifly"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4029,10 +4125,14 @@
           "_targetdocent": "../../wiki/Cascoon_(Pokémon)",
           "pokemonName": "Cascoon"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4043,10 +4143,14 @@
           "_targetdocent": "../../wiki/Dustox_(Pokémon)",
           "pokemonName": "Dustox"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4397,10 +4501,14 @@
           "_targetdocent": "../../wiki/Nincada_(Pokémon)",
           "pokemonName": "Nincada"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4411,10 +4519,14 @@
           "_targetdocent": "../../wiki/Ninjask_(Pokémon)",
           "pokemonName": "Ninjask"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6123,10 +6235,14 @@
           "_targetdocent": "../../wiki/Kricketot_(Pokémon)",
           "pokemonName": "Kricketot"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6137,10 +6253,14 @@
           "_targetdocent": "../../wiki/Kricketune_(Pokémon)",
           "pokemonName": "Kricketune"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6281,10 +6401,14 @@
           "_targetdocent": "../../wiki/Burmy_(Pokémon)",
           "pokemonName": "Burmy"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6295,10 +6419,14 @@
           "_targetdocent": "../../wiki/Wormadam_(Pokémon)",
           "pokemonName": "Wormadam"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6309,10 +6437,14 @@
           "_targetdocent": "../../wiki/Mothim_(Pokémon)",
           "pokemonName": "Mothim"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6323,10 +6455,14 @@
           "_targetdocent": "../../wiki/Combee_(Pokémon)",
           "pokemonName": "Combee"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6337,10 +6473,14 @@
           "_targetdocent": "../../wiki/Vespiquen_(Pokémon)",
           "pokemonName": "Vespiquen"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7155,10 +7295,14 @@
           "_targetdocent": "../../wiki/Yanmega_(Pokémon)",
           "pokemonName": "Yanmega"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7197,10 +7341,14 @@
           "_targetdocent": "../../wiki/Gliscor_(Pokémon)",
           "pokemonName": "Gliscor"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8185,10 +8333,14 @@
           "_targetdocent": "../../wiki/Sewaddle_(Pokémon)",
           "pokemonName": "Sewaddle"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8199,10 +8351,14 @@
           "_targetdocent": "../../wiki/Swadloon_(Pokémon)",
           "pokemonName": "Swadloon"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8213,10 +8369,14 @@
           "_targetdocent": "../../wiki/Leavanny_(Pokémon)",
           "pokemonName": "Leavanny"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8227,10 +8387,14 @@
           "_targetdocent": "../../wiki/Venipede_(Pokémon)",
           "pokemonName": "Venipede"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8241,10 +8405,14 @@
           "_targetdocent": "../../wiki/Whirlipede_(Pokémon)",
           "pokemonName": "Whirlipede"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8255,10 +8423,14 @@
           "_targetdocent": "../../wiki/Scolipede_(Pokémon)",
           "pokemonName": "Scolipede"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8913,10 +9085,14 @@
           "_targetdocent": "../../wiki/Karrablast_(Pokémon)",
           "pokemonName": "Karrablast"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8927,10 +9103,14 @@
           "_targetdocent": "../../wiki/Escavalier_(Pokémon)",
           "pokemonName": "Escavalier"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9015,10 +9195,14 @@
           "_targetdocent": "../../wiki/Joltik_(Pokémon)",
           "pokemonName": "Joltik"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9029,10 +9213,14 @@
           "_targetdocent": "../../wiki/Galvantula_(Pokémon)",
           "pokemonName": "Galvantula"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9329,10 +9517,14 @@
           "_targetdocent": "../../wiki/Shelmet_(Pokémon)",
           "pokemonName": "Shelmet"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9343,10 +9535,14 @@
           "_targetdocent": "../../wiki/Accelgor_(Pokémon)",
           "pokemonName": "Accelgor"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9569,10 +9765,14 @@
           "_targetdocent": "../../wiki/Durant_(Pokémon)",
           "pokemonName": "Durant"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9625,10 +9825,14 @@
           "_targetdocent": "../../wiki/Larvesta_(Pokémon)",
           "pokemonName": "Larvesta"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9639,10 +9843,14 @@
           "_targetdocent": "../../wiki/Volcarona_(Pokémon)",
           "pokemonName": "Volcarona"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10017,10 +10225,14 @@
           "_targetdocent": "../../wiki/Scatterbug_(Pokémon)",
           "pokemonName": "Scatterbug"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10031,10 +10243,14 @@
           "_targetdocent": "../../wiki/Spewpa_(Pokémon)",
           "pokemonName": "Spewpa"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10045,10 +10261,14 @@
           "_targetdocent": "../../wiki/Vivillon_(Pokémon)",
           "pokemonName": "Vivillon"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11121,10 +11341,14 @@
           "_targetdocent": "../../wiki/Grubbin_(Pokémon)",
           "pokemonName": "Grubbin"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11135,10 +11359,14 @@
           "_targetdocent": "../../wiki/Charjabug_(Pokémon)",
           "pokemonName": "Charjabug"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11149,10 +11377,14 @@
           "_targetdocent": "../../wiki/Vikavolt_(Pokémon)",
           "pokemonName": "Vikavolt"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12433,10 +12665,14 @@
           "_targetdocent": "../../wiki/Blipbug_(Pokémon)",
           "pokemonName": "Blipbug"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12447,10 +12683,14 @@
           "_targetdocent": "../../wiki/Dottler_(Pokémon)",
           "pokemonName": "Dottler"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12461,10 +12701,14 @@
           "_targetdocent": "../../wiki/Orbeetle_(Pokémon)",
           "pokemonName": "Orbeetle"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12829,10 +13073,14 @@
           "_targetdocent": "../../wiki/Sizzlipede_(Pokémon)",
           "pokemonName": "Sizzlipede"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12843,10 +13091,14 @@
           "_targetdocent": "../../wiki/Centiskorch_(Pokémon)",
           "pokemonName": "Centiskorch"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13193,10 +13445,14 @@
           "_targetdocent": "../../wiki/Snom_(Pokémon)",
           "pokemonName": "Snom"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13207,10 +13463,14 @@
           "_targetdocent": "../../wiki/Frosmoth_(Pokémon)",
           "pokemonName": "Frosmoth"
         },
-        "eggGroup": [
+         "eggGroup": [
           {
-            "name": "Bug",
-            "color": "#A8B820"
+            "name": "Monster",
+            "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
