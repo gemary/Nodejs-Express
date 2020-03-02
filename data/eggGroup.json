@@ -1069,10 +1069,14 @@
           "_targetdocent": "../../wiki/Poliwag_(Pokémon)",
           "pokemonName": "Poliwag"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1083,10 +1087,14 @@
           "_targetdocent": "../../wiki/Poliwhirl_(Pokémon)",
           "pokemonName": "Poliwhirl"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1097,10 +1105,14 @@
           "_targetdocent": "../../wiki/Poliwrath_(Pokémon)",
           "pokemonName": "Poliwrath"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3325,10 +3337,14 @@
           "_targetdocent": "../../wiki/Politoed_(Pokémon)",
           "pokemonName": "Politoed"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4041,10 +4057,14 @@
           "_targetdocent": "../../wiki/Mantine_(Pokémon)",
           "pokemonName": "Mantine"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6557,10 +6577,14 @@
           "_targetdocent": "../../wiki/Clamperl_(Pokémon)",
           "pokemonName": "Clamperl"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6571,10 +6595,14 @@
           "_targetdocent": "../../wiki/Huntail_(Pokémon)",
           "pokemonName": "Huntail"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6585,10 +6613,14 @@
           "_targetdocent": "../../wiki/Gorebyss_(Pokémon)",
           "pokemonName": "Gorebyss"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9587,10 +9619,14 @@
           "_targetdocent": "../../wiki/Tympole_(Pokémon)",
           "pokemonName": "Tympole"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9601,10 +9637,14 @@
           "_targetdocent": "../../wiki/Palpitoad_(Pokémon)",
           "pokemonName": "Palpitoad"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9615,10 +9655,14 @@
           "_targetdocent": "../../wiki/Seismitoad_(Pokémon)",
           "pokemonName": "Seismitoad"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11753,10 +11797,14 @@
           "_targetdocent": "../../wiki/Froakie_(Pokémon)",
           "pokemonName": "Froakie"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11767,10 +11815,14 @@
           "_targetdocent": "../../wiki/Frogadier_(Pokémon)",
           "pokemonName": "Frogadier"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11781,10 +11833,14 @@
           "_targetdocent": "../../wiki/Greninja_(Pokémon)",
           "pokemonName": "Greninja"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13379,10 +13435,14 @@
           "_targetdocent": "../../wiki/Mareanie_(Pokémon)",
           "pokemonName": "Mareanie"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13393,10 +13453,14 @@
           "_targetdocent": "../../wiki/Toxapex_(Pokémon)",
           "pokemonName": "Toxapex"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13803,10 +13867,14 @@
           "_targetdocent": "../../wiki/Pyukumuku_(Pokémon)",
           "pokemonName": "Pyukumuku"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Water 1",
             "color": "#97B5FD"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
