@@ -281,6 +281,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -295,6 +299,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -309,6 +317,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -323,6 +335,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -337,6 +353,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -351,6 +371,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -365,6 +389,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -451,6 +479,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -465,6 +497,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -493,10 +529,14 @@
           "_targetdocent": "../../wiki/Nidorina_(Pokémon)",
           "pokemonName": "Nidorina"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -507,10 +547,14 @@
           "_targetdocent": "../../wiki/Nidoqueen_(Pokémon)",
           "pokemonName": "Nidoqueen"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -579,6 +623,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -593,6 +641,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -607,6 +659,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -621,6 +677,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -635,6 +695,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -649,6 +713,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -663,6 +731,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -677,6 +749,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -691,6 +767,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -705,6 +785,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -719,6 +803,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -805,6 +893,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -819,6 +911,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -833,6 +929,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -847,6 +947,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -897,6 +1001,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -911,6 +1019,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -925,6 +1037,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -939,6 +1055,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -993,8 +1113,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1007,8 +1131,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1021,8 +1149,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1035,8 +1167,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1049,8 +1185,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1063,8 +1203,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1079,6 +1223,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1093,6 +1241,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1107,6 +1259,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1117,10 +1273,14 @@
           "_targetdocent": "../../wiki/Tentacool_(Pokémon)",
           "pokemonName": "Tentacool"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1131,10 +1291,14 @@
           "_targetdocent": "../../wiki/Tentacruel_(Pokémon)",
           "pokemonName": "Tentacruel"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1149,6 +1313,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1163,6 +1331,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1177,6 +1349,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1191,6 +1367,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1205,6 +1385,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1255,6 +1439,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1269,6 +1457,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1301,6 +1493,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1315,6 +1511,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1361,10 +1561,14 @@
           "_targetdocent": "../../wiki/Grimer_(Pokémon)",
           "pokemonName": "Grimer"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1375,10 +1579,14 @@
           "_targetdocent": "../../wiki/Muk_(Pokémon)",
           "pokemonName": "Muk"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1389,10 +1597,14 @@
           "_targetdocent": "../../wiki/Shellder_(Pokémon)",
           "pokemonName": "Shellder"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1403,10 +1615,14 @@
           "_targetdocent": "../../wiki/Cloyster_(Pokémon)",
           "pokemonName": "Cloyster"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1417,10 +1633,14 @@
           "_targetdocent": "../../wiki/Gastly_(Pokémon)",
           "pokemonName": "Gastly"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1431,10 +1651,14 @@
           "_targetdocent": "../../wiki/Haunter_(Pokémon)",
           "pokemonName": "Haunter"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1445,10 +1669,14 @@
           "_targetdocent": "../../wiki/Gengar_(Pokémon)",
           "pokemonName": "Gengar"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1463,6 +1691,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1475,8 +1707,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1489,8 +1725,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1501,10 +1741,14 @@
           "_targetdocent": "../../wiki/Krabby_(Pokémon)",
           "pokemonName": "Krabby"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1515,10 +1759,14 @@
           "_targetdocent": "../../wiki/Kingler_(Pokémon)",
           "pokemonName": "Kingler"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1533,6 +1781,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1547,6 +1799,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1561,6 +1817,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1575,6 +1835,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1585,10 +1849,14 @@
           "_targetdocent": "../../wiki/Cubone_(Pokémon)",
           "pokemonName": "Cubone"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1599,10 +1867,14 @@
           "_targetdocent": "../../wiki/Marowak_(Pokémon)",
           "pokemonName": "Marowak"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1615,8 +1887,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1629,8 +1905,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1641,10 +1921,14 @@
           "_targetdocent": "../../wiki/Lickitung_(Pokémon)",
           "pokemonName": "Lickitung"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1655,10 +1939,14 @@
           "_targetdocent": "../../wiki/Koffing_(Pokémon)",
           "pokemonName": "Koffing"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1669,10 +1957,14 @@
           "_targetdocent": "../../wiki/Weezing_(Pokémon)",
           "pokemonName": "Weezing"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1723,6 +2015,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1737,6 +2033,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1747,10 +2047,14 @@
           "_targetdocent": "../../wiki/Kangaskhan_(Pokémon)",
           "pokemonName": "Kangaskhan"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1801,6 +2105,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1815,6 +2123,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1825,10 +2137,14 @@
           "_targetdocent": "../../wiki/Staryu_(Pokémon)",
           "pokemonName": "Staryu"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1839,10 +2155,14 @@
           "_targetdocent": "../../wiki/Starmie_(Pokémon)",
           "pokemonName": "Starmie"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1855,8 +2175,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1887,8 +2211,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1901,8 +2229,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1915,8 +2247,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -1949,6 +2285,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2017,6 +2357,10 @@
           {
             "name": "Ditto",
             "color": "#A664BF"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2031,6 +2375,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2045,6 +2393,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2059,6 +2411,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2073,6 +2429,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2087,6 +2447,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2173,6 +2537,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2183,10 +2551,14 @@
           "_targetdocent": "../../wiki/Snorlax_(Pokémon)",
           "pokemonName": "Snorlax"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2197,10 +2569,14 @@
           "_targetdocent": "../../wiki/Articuno_(Pokémon)",
           "pokemonName": "Articuno"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2211,10 +2587,14 @@
           "_targetdocent": "../../wiki/Zapdos_(Pokémon)",
           "pokemonName": "Zapdos"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2225,10 +2605,14 @@
           "_targetdocent": "../../wiki/Moltres_(Pokémon)",
           "pokemonName": "Moltres"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2293,10 +2677,14 @@
           "_targetdocent": "../../wiki/Mewtwo_(Pokémon)",
           "pokemonName": "Mewtwo"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2307,10 +2695,14 @@
           "_targetdocent": "../../wiki/Mew_(Pokémon)",
           "pokemonName": "Mew"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2379,6 +2771,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2393,6 +2789,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2407,6 +2807,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2475,6 +2879,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2489,6 +2897,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2503,6 +2915,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2517,6 +2933,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2603,6 +3023,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2617,6 +3041,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2631,6 +3059,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2641,10 +3073,14 @@
           "_targetdocent": "../../wiki/Pichu_(Pokémon)",
           "pokemonName": "Pichu"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2655,10 +3091,14 @@
           "_targetdocent": "../../wiki/Cleffa_(Pokémon)",
           "pokemonName": "Cleffa"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2669,10 +3109,14 @@
           "_targetdocent": "../../wiki/Igglybuff_(Pokémon)",
           "pokemonName": "Igglybuff"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2683,10 +3127,14 @@
           "_targetdocent": "../../wiki/Togepi_(Pokémon)",
           "pokemonName": "Togepi"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2719,6 +3167,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2733,6 +3185,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2801,6 +3257,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2851,6 +3311,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2933,6 +3397,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2947,6 +3415,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -2961,6 +3433,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3029,6 +3505,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3043,6 +3523,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3057,6 +3541,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3085,10 +3573,14 @@
           "_targetdocent": "../../wiki/Misdreavus_(Pokémon)",
           "pokemonName": "Misdreavus"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3099,10 +3591,14 @@
           "_targetdocent": "../../wiki/Unown_(Pokémon)",
           "pokemonName": "Unown"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3113,10 +3609,14 @@
           "_targetdocent": "../../wiki/Wobbuffet_(Pokémon)",
           "pokemonName": "Wobbuffet"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3131,6 +3631,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3181,6 +3685,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3213,6 +3721,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3263,6 +3775,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3331,6 +3847,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3345,6 +3865,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3359,6 +3883,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3369,10 +3897,14 @@
           "_targetdocent": "../../wiki/Slugma_(Pokémon)",
           "pokemonName": "Slugma"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3383,10 +3915,14 @@
           "_targetdocent": "../../wiki/Magcargo_(Pokémon)",
           "pokemonName": "Magcargo"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3401,6 +3937,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3415,6 +3955,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3515,6 +4059,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3529,6 +4077,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3543,6 +4095,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3575,6 +4131,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3589,6 +4149,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3603,6 +4167,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3617,6 +4185,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3631,6 +4203,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3641,10 +4217,14 @@
           "_targetdocent": "../../wiki/Tyrogue_(Pokémon)",
           "pokemonName": "Tyrogue"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3657,8 +4237,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3669,10 +4253,14 @@
           "_targetdocent": "../../wiki/Smoochum_(Pokémon)",
           "pokemonName": "Smoochum"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3683,10 +4271,14 @@
           "_targetdocent": "../../wiki/Elekid_(Pokémon)",
           "pokemonName": "Elekid"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3697,10 +4289,14 @@
           "_targetdocent": "../../wiki/Magby_(Pokémon)",
           "pokemonName": "Magby"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3715,6 +4311,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3729,6 +4329,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3739,10 +4343,14 @@
           "_targetdocent": "../../wiki/Raikou_(Pokémon)",
           "pokemonName": "Raikou"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3753,10 +4361,14 @@
           "_targetdocent": "../../wiki/Entei_(Pokémon)",
           "pokemonName": "Entei"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3767,10 +4379,14 @@
           "_targetdocent": "../../wiki/Suicune_(Pokémon)",
           "pokemonName": "Suicune"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3781,10 +4397,14 @@
           "_targetdocent": "../../wiki/Larvitar_(Pokémon)",
           "pokemonName": "Larvitar"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3795,10 +4415,14 @@
           "_targetdocent": "../../wiki/Pupitar_(Pokémon)",
           "pokemonName": "Pupitar"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3809,10 +4433,14 @@
           "_targetdocent": "../../wiki/Tyranitar_(Pokémon)",
           "pokemonName": "Tyranitar"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3823,10 +4451,14 @@
           "_targetdocent": "../../wiki/Lugia_(Pokémon)",
           "pokemonName": "Lugia"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3837,10 +4469,14 @@
           "_targetdocent": "../../wiki/Ho-Oh_(Pokémon)",
           "pokemonName": "Ho-Oh"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3851,10 +4487,14 @@
           "_targetdocent": "../../wiki/Celebi_(Pokémon)",
           "pokemonName": "Celebi"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3923,6 +4563,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3937,6 +4581,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -3951,6 +4599,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4019,6 +4671,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4033,6 +4689,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4047,6 +4707,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4061,6 +4725,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4273,6 +4941,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4287,6 +4959,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4463,6 +5139,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4477,6 +5157,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4491,6 +5175,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4541,6 +5229,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4607,8 +5299,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4621,8 +5317,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4633,10 +5333,14 @@
           "_targetdocent": "../../wiki/Azurill_(Pokémon)",
           "pokemonName": "Azurill"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4651,6 +5355,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4699,8 +5407,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4729,10 +5441,14 @@
           "_targetdocent": "../../wiki/Aron_(Pokémon)",
           "pokemonName": "Aron"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4743,10 +5459,14 @@
           "_targetdocent": "../../wiki/Lairon_(Pokémon)",
           "pokemonName": "Lairon"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4757,10 +5477,14 @@
           "_targetdocent": "../../wiki/Aggron_(Pokémon)",
           "pokemonName": "Aggron"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4773,8 +5497,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4787,8 +5515,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4803,6 +5535,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4817,6 +5553,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4831,6 +5571,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4845,6 +5589,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4909,10 +5657,14 @@
           "_targetdocent": "../../wiki/Gulpin_(Pokémon)",
           "pokemonName": "Gulpin"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4923,10 +5675,14 @@
           "_targetdocent": "../../wiki/Swalot_(Pokémon)",
           "pokemonName": "Swalot"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4941,6 +5697,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -4955,6 +5715,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5005,6 +5769,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5019,6 +5787,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5033,6 +5805,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5047,6 +5823,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5061,6 +5841,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5219,6 +6003,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5251,6 +6039,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5265,6 +6057,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5279,6 +6075,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5293,6 +6093,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5343,6 +6147,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5357,6 +6165,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5367,10 +6179,14 @@
           "_targetdocent": "../../wiki/Lileep_(Pokémon)",
           "pokemonName": "Lileep"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5381,10 +6197,14 @@
           "_targetdocent": "../../wiki/Cradily_(Pokémon)",
           "pokemonName": "Cradily"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5395,10 +6215,14 @@
           "_targetdocent": "../../wiki/Anorith_(Pokémon)",
           "pokemonName": "Anorith"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5409,10 +6233,14 @@
           "_targetdocent": "../../wiki/Armaldo_(Pokémon)",
           "pokemonName": "Armaldo"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5481,6 +6309,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5491,10 +6323,14 @@
           "_targetdocent": "../../wiki/Shuppet_(Pokémon)",
           "pokemonName": "Shuppet"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5505,10 +6341,14 @@
           "_targetdocent": "../../wiki/Banette_(Pokémon)",
           "pokemonName": "Banette"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5519,10 +6359,14 @@
           "_targetdocent": "../../wiki/Duskull_(Pokémon)",
           "pokemonName": "Duskull"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5533,10 +6377,14 @@
           "_targetdocent": "../../wiki/Dusclops_(Pokémon)",
           "pokemonName": "Dusclops"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5565,10 +6413,14 @@
           "_targetdocent": "../../wiki/Chimecho_(Pokémon)",
           "pokemonName": "Chimecho"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5583,6 +6435,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5593,10 +6449,14 @@
           "_targetdocent": "../../wiki/Wynaut_(Pokémon)",
           "pokemonName": "Wynaut"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5761,6 +6621,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5817,6 +6681,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5831,6 +6699,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5845,6 +6717,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5855,10 +6731,14 @@
           "_targetdocent": "../../wiki/Regirock_(Pokémon)",
           "pokemonName": "Regirock"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5869,10 +6749,14 @@
           "_targetdocent": "../../wiki/Regice_(Pokémon)",
           "pokemonName": "Regice"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5883,10 +6767,14 @@
           "_targetdocent": "../../wiki/Registeel_(Pokémon)",
           "pokemonName": "Registeel"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5897,10 +6785,14 @@
           "_targetdocent": "../../wiki/Latias_(Pokémon)",
           "pokemonName": "Latias"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5911,10 +6803,14 @@
           "_targetdocent": "../../wiki/Latios_(Pokémon)",
           "pokemonName": "Latios"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5925,10 +6821,14 @@
           "_targetdocent": "../../wiki/Kyogre_(Pokémon)",
           "pokemonName": "Kyogre"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5939,10 +6839,14 @@
           "_targetdocent": "../../wiki/Groudon_(Pokémon)",
           "pokemonName": "Groudon"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5953,10 +6857,14 @@
           "_targetdocent": "../../wiki/Rayquaza_(Pokémon)",
           "pokemonName": "Rayquaza"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5967,10 +6875,14 @@
           "_targetdocent": "../../wiki/Jirachi_(Pokémon)",
           "pokemonName": "Jirachi"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -5981,10 +6893,14 @@
           "_targetdocent": "../../wiki/Deoxys_(Pokémon)",
           "pokemonName": "Deoxys"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6161,6 +7077,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6175,6 +7095,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6189,6 +7113,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6275,6 +7203,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6289,6 +7221,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6303,6 +7239,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6313,10 +7253,14 @@
           "_targetdocent": "../../wiki/Budew_(Pokémon)",
           "pokemonName": "Budew"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6345,10 +7289,14 @@
           "_targetdocent": "../../wiki/Cranidos_(Pokémon)",
           "pokemonName": "Cranidos"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6359,10 +7307,14 @@
           "_targetdocent": "../../wiki/Rampardos_(Pokémon)",
           "pokemonName": "Rampardos"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6373,10 +7325,14 @@
           "_targetdocent": "../../wiki/Shieldon_(Pokémon)",
           "pokemonName": "Shieldon"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6387,10 +7343,14 @@
           "_targetdocent": "../../wiki/Bastiodon_(Pokémon)",
           "pokemonName": "Bastiodon"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6621,6 +7581,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6631,10 +7595,14 @@
           "_targetdocent": "../../wiki/Drifloon_(Pokémon)",
           "pokemonName": "Drifloon"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6645,10 +7613,14 @@
           "_targetdocent": "../../wiki/Drifblim_(Pokémon)",
           "pokemonName": "Drifblim"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6695,10 +7667,14 @@
           "_targetdocent": "../../wiki/Mismagius_(Pokémon)",
           "pokemonName": "Mismagius"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6713,6 +7689,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6727,6 +7707,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6741,6 +7725,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6751,10 +7739,14 @@
           "_targetdocent": "../../wiki/Chingling_(Pokémon)",
           "pokemonName": "Chingling"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6769,6 +7761,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6783,6 +7779,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6797,6 +7797,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6811,6 +7815,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6821,10 +7829,14 @@
           "_targetdocent": "../../wiki/Bonsly_(Pokémon)",
           "pokemonName": "Bonsly"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6835,10 +7847,14 @@
           "_targetdocent": "../../wiki/Mime_Jr._(Pokémon)",
           "pokemonName": "Mime Jr."
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6849,10 +7865,14 @@
           "_targetdocent": "../../wiki/Happiny_(Pokémon)",
           "pokemonName": "Happiny"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6867,6 +7887,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6877,10 +7901,14 @@
           "_targetdocent": "../../wiki/Spiritomb_(Pokémon)",
           "pokemonName": "Spiritomb"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6945,10 +7973,14 @@
           "_targetdocent": "../../wiki/Munchlax_(Pokémon)",
           "pokemonName": "Munchlax"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6959,10 +7991,14 @@
           "_targetdocent": "../../wiki/Riolu_(Pokémon)",
           "pokemonName": "Riolu"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -6995,6 +8031,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7009,6 +8049,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7057,8 +8101,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7071,8 +8119,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7087,6 +8139,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7101,6 +8157,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7115,6 +8175,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7125,10 +8189,14 @@
           "_targetdocent": "../../wiki/Mantyke_(Pokémon)",
           "pokemonName": "Mantyke"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7179,6 +8247,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7193,6 +8265,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7203,10 +8279,14 @@
           "_targetdocent": "../../wiki/Lickilicky_(Pokémon)",
           "pokemonName": "Lickilicky"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7239,6 +8319,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7251,8 +8335,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7265,8 +8353,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7317,6 +8409,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7331,6 +8427,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7363,6 +8463,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7377,6 +8481,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7409,6 +8517,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7419,10 +8531,14 @@
           "_targetdocent": "../../wiki/Dusknoir_(Pokémon)",
           "pokemonName": "Dusknoir"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7451,10 +8567,14 @@
           "_targetdocent": "../../wiki/Rotom_(Pokémon)",
           "pokemonName": "Rotom"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7465,10 +8585,14 @@
           "_targetdocent": "../../wiki/Uxie_(Pokémon)",
           "pokemonName": "Uxie"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7479,10 +8603,14 @@
           "_targetdocent": "../../wiki/Mesprit_(Pokémon)",
           "pokemonName": "Mesprit"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7493,10 +8621,14 @@
           "_targetdocent": "../../wiki/Azelf_(Pokémon)",
           "pokemonName": "Azelf"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7507,10 +8639,14 @@
           "_targetdocent": "../../wiki/Dialga_(Pokémon)",
           "pokemonName": "Dialga"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7521,10 +8657,14 @@
           "_targetdocent": "../../wiki/Palkia_(Pokémon)",
           "pokemonName": "Palkia"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7535,10 +8675,14 @@
           "_targetdocent": "../../wiki/Heatran_(Pokémon)",
           "pokemonName": "Heatran"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7549,10 +8693,14 @@
           "_targetdocent": "../../wiki/Regigigas_(Pokémon)",
           "pokemonName": "Regigigas"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7563,10 +8711,14 @@
           "_targetdocent": "../../wiki/Giratina_(Pokémon)",
           "pokemonName": "Giratina"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7577,10 +8729,14 @@
           "_targetdocent": "../../wiki/Cresselia_(Pokémon)",
           "pokemonName": "Cresselia"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7627,10 +8783,14 @@
           "_targetdocent": "../../wiki/Darkrai_(Pokémon)",
           "pokemonName": "Darkrai"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7641,10 +8801,14 @@
           "_targetdocent": "../../wiki/Shaymin_(Pokémon)",
           "pokemonName": "Shaymin"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7655,10 +8819,14 @@
           "_targetdocent": "../../wiki/Arceus_(Pokémon)",
           "pokemonName": "Arceus"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7669,10 +8837,14 @@
           "_targetdocent": "../../wiki/Victini_(Pokémon)",
           "pokemonName": "Victini"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7741,6 +8913,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7755,6 +8931,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7769,6 +8949,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7783,6 +8967,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7797,6 +8985,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7811,6 +9003,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7825,6 +9021,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7839,6 +9039,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7853,6 +9057,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7867,6 +9075,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7881,6 +9093,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7895,6 +9111,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7909,6 +9129,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7923,6 +9147,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7937,6 +9165,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7951,6 +9183,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7965,6 +9201,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7979,6 +9219,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -7993,6 +9237,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8007,6 +9255,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8021,6 +9273,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8035,6 +9291,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8049,6 +9309,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8063,6 +9327,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8077,6 +9345,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8091,6 +9363,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8105,6 +9381,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8119,6 +9399,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8133,6 +9417,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8183,6 +9471,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8197,6 +9489,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8211,6 +9507,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8223,8 +9523,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8237,8 +9541,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8251,8 +9559,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8307,8 +9619,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8321,8 +9637,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8481,6 +9801,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8495,6 +9819,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8509,6 +9837,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8523,6 +9855,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8537,6 +9873,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8551,6 +9891,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8565,6 +9909,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8579,6 +9927,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8593,6 +9945,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8679,6 +10035,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8801,6 +10161,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8815,6 +10179,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8829,6 +10197,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8843,6 +10215,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8857,6 +10233,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8871,6 +10251,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8883,8 +10267,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8897,8 +10285,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8911,8 +10303,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8923,10 +10319,14 @@
           "_targetdocent": "../../wiki/Solosis_(Pokémon)",
           "pokemonName": "Solosis"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8937,10 +10337,14 @@
           "_targetdocent": "../../wiki/Duosion_(Pokémon)",
           "pokemonName": "Duosion"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -8951,10 +10355,14 @@
           "_targetdocent": "../../wiki/Reuniclus_(Pokémon)",
           "pokemonName": "Reuniclus"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9005,6 +10413,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9019,6 +10431,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9033,6 +10449,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9047,6 +10467,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9061,6 +10485,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9075,6 +10503,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9125,6 +10557,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9139,6 +10575,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9149,10 +10589,14 @@
           "_targetdocent": "../../wiki/Frillish_(Pokémon)",
           "pokemonName": "Frillish"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9163,10 +10607,14 @@
           "_targetdocent": "../../wiki/Jellicent_(Pokémon)",
           "pokemonName": "Jellicent"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9271,6 +10719,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9285,6 +10737,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9299,6 +10755,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9309,10 +10769,14 @@
           "_targetdocent": "../../wiki/Tynamo_(Pokémon)",
           "pokemonName": "Tynamo"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9323,10 +10787,14 @@
           "_targetdocent": "../../wiki/Eelektrik_(Pokémon)",
           "pokemonName": "Eelektrik"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9337,10 +10805,14 @@
           "_targetdocent": "../../wiki/Eelektross_(Pokémon)",
           "pokemonName": "Eelektross"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9353,8 +10825,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9367,8 +10843,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9379,10 +10859,14 @@
           "_targetdocent": "../../wiki/Litwick_(Pokémon)",
           "pokemonName": "Litwick"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9393,10 +10877,14 @@
           "_targetdocent": "../../wiki/Lampent_(Pokémon)",
           "pokemonName": "Lampent"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9407,10 +10895,14 @@
           "_targetdocent": "../../wiki/Chandelure_(Pokémon)",
           "pokemonName": "Chandelure"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9479,6 +10971,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9493,6 +10989,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9507,6 +11007,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9629,6 +11133,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9643,6 +11151,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9655,8 +11167,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9669,8 +11185,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9685,6 +11205,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9699,6 +11223,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9713,6 +11241,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9727,6 +11259,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9741,6 +11277,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9755,6 +11295,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9861,10 +11405,14 @@
           "_targetdocent": "../../wiki/Cobalion_(Pokémon)",
           "pokemonName": "Cobalion"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9875,10 +11423,14 @@
           "_targetdocent": "../../wiki/Terrakion_(Pokémon)",
           "pokemonName": "Terrakion"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9889,10 +11441,14 @@
           "_targetdocent": "../../wiki/Virizion_(Pokémon)",
           "pokemonName": "Virizion"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9903,10 +11459,14 @@
           "_targetdocent": "../../wiki/Tornadus_(Pokémon)",
           "pokemonName": "Tornadus"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9917,10 +11477,14 @@
           "_targetdocent": "../../wiki/Thundurus_(Pokémon)",
           "pokemonName": "Thundurus"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9931,10 +11495,14 @@
           "_targetdocent": "../../wiki/Reshiram_(Pokémon)",
           "pokemonName": "Reshiram"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9945,10 +11513,14 @@
           "_targetdocent": "../../wiki/Zekrom_(Pokémon)",
           "pokemonName": "Zekrom"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9959,10 +11531,14 @@
           "_targetdocent": "../../wiki/Landorus_(Pokémon)",
           "pokemonName": "Landorus"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9973,10 +11549,14 @@
           "_targetdocent": "../../wiki/Kyurem_(Pokémon)",
           "pokemonName": "Kyurem"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -9987,10 +11567,14 @@
           "_targetdocent": "../../wiki/Keldeo_(Pokémon)",
           "pokemonName": "Keldeo"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10001,10 +11585,14 @@
           "_targetdocent": "../../wiki/Meloetta_(Pokémon)",
           "pokemonName": "Meloetta"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10015,10 +11603,14 @@
           "_targetdocent": "../../wiki/Genesect_(Pokémon)",
           "pokemonName": "Genesect"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10033,6 +11625,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10047,6 +11643,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10061,6 +11661,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10075,6 +11679,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10089,6 +11697,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10103,6 +11715,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10159,6 +11775,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10173,6 +11793,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10187,6 +11811,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10201,6 +11829,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10215,6 +11847,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10283,6 +11919,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10297,6 +11937,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10311,6 +11955,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10325,6 +11973,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10339,6 +11991,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10353,6 +12009,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10367,6 +12027,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10417,6 +12081,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10431,6 +12099,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10445,6 +12117,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10459,6 +12135,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10473,6 +12153,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10487,6 +12171,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10501,6 +12189,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10515,6 +12207,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10529,6 +12225,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10543,6 +12243,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10589,10 +12293,14 @@
           "_targetdocent": "../../wiki/Binacle_(Pokémon)",
           "pokemonName": "Binacle"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10603,10 +12311,14 @@
           "_targetdocent": "../../wiki/Barbaracle_(Pokémon)",
           "pokemonName": "Barbaracle"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10761,10 +12473,14 @@
           "_targetdocent": "../../wiki/Amaura_(Pokémon)",
           "pokemonName": "Amaura"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10775,10 +12491,14 @@
           "_targetdocent": "../../wiki/Aurorus_(Pokémon)",
           "pokemonName": "Aurorus"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Monster",
             "color": "#D25064"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10793,6 +12513,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10903,6 +12627,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10949,10 +12677,14 @@
           "_targetdocent": "../../wiki/Pumpkaboo_(Pokémon)",
           "pokemonName": "Pumpkaboo"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -10963,10 +12695,14 @@
           "_targetdocent": "../../wiki/Gourgeist_(Pokémon)",
           "pokemonName": "Gourgeist"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11049,10 +12785,14 @@
           "_targetdocent": "../../wiki/Xerneas_(Pokémon)",
           "pokemonName": "Xerneas"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11063,10 +12803,14 @@
           "_targetdocent": "../../wiki/Yveltal_(Pokémon)",
           "pokemonName": "Yveltal"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11077,10 +12821,14 @@
           "_targetdocent": "../../wiki/Zygarde_(Pokémon)",
           "pokemonName": "Zygarde"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11091,10 +12839,14 @@
           "_targetdocent": "../../wiki/Diancie_(Pokémon)",
           "pokemonName": "Diancie"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11105,10 +12857,14 @@
           "_targetdocent": "../../wiki/Hoopa_(Pokémon)",
           "pokemonName": "Hoopa"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11119,10 +12875,14 @@
           "_targetdocent": "../../wiki/Volcanion_(Pokémon)",
           "pokemonName": "Volcanion"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11137,6 +12897,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11151,6 +12915,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11165,6 +12933,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11179,6 +12951,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11193,6 +12969,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11207,6 +12987,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11275,6 +13059,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11289,6 +13077,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11303,6 +13095,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11317,6 +13113,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11331,6 +13131,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11395,10 +13199,14 @@
           "_targetdocent": "../../wiki/Crabrawler_(Pokémon)",
           "pokemonName": "Crabrawler"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11409,10 +13217,14 @@
           "_targetdocent": "../../wiki/Crabominable_(Pokémon)",
           "pokemonName": "Crabominable"
         },
-        "eggGroup": [
+      "eggGroup": [
           {
             "name": "Water 3",
             "color": "#5876BE"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11427,6 +13239,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11477,6 +13293,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11491,6 +13311,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11505,6 +13329,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11547,6 +13375,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11561,6 +13393,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11611,6 +13447,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11625,6 +13465,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11639,6 +13483,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11653,6 +13501,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11703,6 +13555,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11717,6 +13573,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11731,6 +13591,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11745,6 +13609,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11759,6 +13627,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11773,6 +13645,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11787,6 +13663,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11801,6 +13681,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11847,10 +13731,14 @@
           "_targetdocent": "../../wiki/Sandygast_(Pokémon)",
           "pokemonName": "Sandygast"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11861,10 +13749,14 @@
           "_targetdocent": "../../wiki/Palossand_(Pokémon)",
           "pokemonName": "Palossand"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11889,10 +13781,14 @@
           "_targetdocent": "../../wiki/Type:_Null_(Pokémon)",
           "pokemonName": "Type: Null"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11903,10 +13799,14 @@
           "_targetdocent": "../../wiki/Silvally_(Pokémon)",
           "pokemonName": "Silvally"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11921,6 +13821,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11935,6 +13839,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11981,10 +13889,14 @@
           "_targetdocent": "../../wiki/Mimikyu_(Pokémon)",
           "pokemonName": "Mimikyu"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Amorphous",
             "color": "#8A8A8A"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -11999,6 +13911,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12031,6 +13947,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12083,10 +14003,14 @@
           "_targetdocent": "../../wiki/Tapu_Koko_(Pokémon)",
           "pokemonName": "Tapu Koko"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12097,10 +14021,14 @@
           "_targetdocent": "../../wiki/Tapu_Lele_(Pokémon)",
           "pokemonName": "Tapu Lele"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12111,10 +14039,14 @@
           "_targetdocent": "../../wiki/Tapu_Bulu_(Pokémon)",
           "pokemonName": "Tapu Bulu"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12125,10 +14057,14 @@
           "_targetdocent": "../../wiki/Tapu_Fini_(Pokémon)",
           "pokemonName": "Tapu Fini"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12139,10 +14075,14 @@
           "_targetdocent": "../../wiki/Cosmog_(Pokémon)",
           "pokemonName": "Cosmog"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12153,10 +14093,14 @@
           "_targetdocent": "../../wiki/Cosmoem_(Pokémon)",
           "pokemonName": "Cosmoem"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12167,10 +14111,14 @@
           "_targetdocent": "../../wiki/Solgaleo_(Pokémon)",
           "pokemonName": "Solgaleo"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12181,10 +14129,14 @@
           "_targetdocent": "../../wiki/Lunala_(Pokémon)",
           "pokemonName": "Lunala"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12195,10 +14147,14 @@
           "_targetdocent": "../../wiki/Nihilego_(Pokémon)",
           "pokemonName": "Nihilego"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12209,10 +14165,14 @@
           "_targetdocent": "../../wiki/Buzzwole_(Pokémon)",
           "pokemonName": "Buzzwole"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12223,10 +14183,14 @@
           "_targetdocent": "../../wiki/Pheromosa_(Pokémon)",
           "pokemonName": "Pheromosa"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12237,10 +14201,14 @@
           "_targetdocent": "../../wiki/Xurkitree_(Pokémon)",
           "pokemonName": "Xurkitree"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12251,10 +14219,14 @@
           "_targetdocent": "../../wiki/Celesteela_(Pokémon)",
           "pokemonName": "Celesteela"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12265,10 +14237,14 @@
           "_targetdocent": "../../wiki/Kartana_(Pokémon)",
           "pokemonName": "Kartana"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12279,10 +14255,14 @@
           "_targetdocent": "../../wiki/Guzzlord_(Pokémon)",
           "pokemonName": "Guzzlord"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12293,10 +14273,14 @@
           "_targetdocent": "../../wiki/Necrozma_(Pokémon)",
           "pokemonName": "Necrozma"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12307,10 +14291,14 @@
           "_targetdocent": "../../wiki/Magearna_(Pokémon)",
           "pokemonName": "Magearna"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12321,10 +14309,14 @@
           "_targetdocent": "../../wiki/Marshadow_(Pokémon)",
           "pokemonName": "Marshadow"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12335,10 +14327,14 @@
           "_targetdocent": "../../wiki/Poipole_(Pokémon)",
           "pokemonName": "Poipole"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12349,10 +14345,14 @@
           "_targetdocent": "../../wiki/Naganadel_(Pokémon)",
           "pokemonName": "Naganadel"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12363,10 +14363,14 @@
           "_targetdocent": "../../wiki/Stakataka_(Pokémon)",
           "pokemonName": "Stakataka"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12377,10 +14381,14 @@
           "_targetdocent": "../../wiki/Blacephalon_(Pokémon)",
           "pokemonName": "Blacephalon"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12391,10 +14399,14 @@
           "_targetdocent": "../../wiki/Zeraora_(Pokémon)",
           "pokemonName": "Zeraora"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12405,10 +14417,14 @@
           "_targetdocent": "../../wiki/Meltan_(Pokémon)",
           "pokemonName": "Meltan"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12419,10 +14435,14 @@
           "_targetdocent": "../../wiki/Melmetal_(Pokémon)",
           "pokemonName": "Melmetal"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12599,6 +14619,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12613,6 +14637,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12627,6 +14655,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12641,6 +14673,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12655,6 +14691,10 @@
           {
             "name": "Flying",
             "color": "#A890F0"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12723,6 +14763,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12737,6 +14781,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12751,6 +14799,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12765,6 +14817,10 @@
           {
             "name": "Grass",
             "color": "#78C850"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12779,6 +14835,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12793,6 +14853,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12843,6 +14907,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12857,6 +14925,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12871,6 +14943,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12885,6 +14961,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -12899,6 +14979,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13021,6 +15105,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13035,6 +15123,10 @@
           {
             "name": "Water 2",
             "color": "#729AFA"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13045,10 +15137,14 @@
           "_targetdocent": "../../wiki/Toxel_(Pokémon)",
           "pokemonName": "Toxel"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13061,8 +15157,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13185,6 +15285,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13199,6 +15303,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13213,6 +15321,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13281,6 +15393,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13295,6 +15411,10 @@
           {
             "name": "Field",
             "color": "#E0C068"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13343,8 +15463,12 @@
         },
         "eggGroup": [
           {
-            "name": "Human-Like ",
+            "name": "Human-Like",
             "color": "#D29682"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13485,6 +15609,10 @@
           {
             "name": "Mineral",
             "color": "#7A6252"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13517,6 +15645,10 @@
           {
             "name": "Fairy",
             "color": "#EE99AC"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13581,10 +15713,14 @@
           "_targetdocent": "../../wiki/Dracozolt_(Pokémon)",
           "pokemonName": "Dracozolt"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13595,10 +15731,14 @@
           "_targetdocent": "../../wiki/Arctozolt_(Pokémon)",
           "pokemonName": "Arctozolt"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13609,10 +15749,14 @@
           "_targetdocent": "../../wiki/Dracovish_(Pokémon)",
           "pokemonName": "Dracovish"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13623,10 +15767,14 @@
           "_targetdocent": "../../wiki/Arctovish_(Pokémon)",
           "pokemonName": "Arctovish"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13709,10 +15857,14 @@
           "_targetdocent": "../../wiki/Zacian_(Pokémon)",
           "pokemonName": "Zacian"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13723,10 +15875,14 @@
           "_targetdocent": "../../wiki/Zamazenta_(Pokémon)",
           "pokemonName": "Zamazenta"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       },
@@ -13737,10 +15893,14 @@
           "_targetdocent": "../../wiki/Eternatus_(Pokémon)",
           "pokemonName": "Eternatus"
         },
-        "eggGroup": [
+       "eggGroup": [
           {
             "name": "Undiscovered",
             "color": "#333333"
+          },
+          {
+            "name": "",
+            "color": ""
           }
         ]
       }
