@@ -44,7 +44,7 @@
                 }
             ],
             "evolotion-method":"",
-            "imagePokemon":"https://img.pokemondb.net/artwork/pikachu-lets-go.jpg"
+            "imagePokemon":"https://cdn.bulbagarden.net/upload/b/b8/025Pikachu_LG.png"
 
         },
 
@@ -100,7 +100,7 @@
                 }
             ],
             "evolotion-method":"(use Thunder Stone, in Alola)",
-            "imagePokemon":"https://img.pokemondb.net/artwork/raichu-alolan.jpg"
+            "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/026-a.png"
 
         },
         {
@@ -158,7 +158,7 @@
                 }
             ],
             "evolotion-method":"",
-            "imagePokemon":"https://img.pokemondb.net/artwork/grimer-alolan.jpg"
+            "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/088-a.png"
 
         },
         {
@@ -216,7 +216,7 @@
                 }
             ],
             "evolotion-method":"(Level 38) in alola",
-            "imagePokemon":"https://img.pokemondb.net/artwork/muk-alolan.jpg"
+            "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/089-a.png"
 
         },
         {
@@ -276,7 +276,7 @@
                 }
             ],
             "evolotion-method":"",
-            "imagePokemon":"https://img.pokemondb.net/artwork/diglett-alolan.jpg"
+            "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/050-a.png"
 
         },
         {
@@ -336,7 +336,7 @@
                 }
             ],
             "evolotion-method":"(Level 26) in alola",
-            "imagePokemon":"https://img.pokemondb.net/artwork/diglett-alolan.jpg"
+            "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/051-a.png"
 
         },
         {
@@ -397,7 +397,7 @@
                 }
             ],
             "evolotion-method":"Level 28, Nighttime, in Alola)",
-            "imagePokemon":"https://img.pokemondb.net/artwork/marowak-alolan.jpg"
+            "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/105-a.png"
 
         },
         {
@@ -456,7 +456,7 @@
                 }
             ],
             "evolotion-method":"",
-            "imagePokemon":"https://img.pokemondb.net/artwork/geodude-alolan.jpg"
+            "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/074-a.png"
 
         }
         ,
@@ -516,7 +516,7 @@
                 }
             ],
             "evolotion-method":"(Level 25) in alola",
-            "imagePokemon":"https://img.pokemondb.net/artwork/graveler-alolan.jpg"
+            "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/075-a.png"
 
         },
         {
@@ -575,7 +575,7 @@
                 }
             ],
             "evolotion-method":"(trade) in alola",
-            "imagePokemon":"https://img.pokemondb.net/artwork/golem-alolan.jpg"
+            "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/076-a.png"
 
         },
         {
@@ -638,7 +638,7 @@
                 }
             ],
             "evolotion-method":"",
-            "imagePokemon":"https://img.pokemondb.net/artwork/rattata-alolan.jpg"
+            "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/019-a.png"
 
         },
         {
@@ -701,24 +701,27 @@
                 }
             ],
             "evolotion-method":"(Level 20, Nighttime) in alola",
-            "imagePokemon":"https://img.pokemondb.net/artwork/raticate-alolan.jpg"
+            "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/020-a.png"
 
         },
         {
         "id":52,
         "name":"Alola Meowth",
        "Abilities":[
-           {
+          {
+            "id":"",
             "name":"Pickup (can use outside battle)",
             "derciption-Abilities":"When another Pokémon on the field uses a single-use held item, a Pokémon with Pickup will obtain the used item (if they are not already holding anything) and it can be used again."
             
            },
-           {
+          {
+            "id":"",
             "name":" Technician ",
             "derciption-Abilities":"Technician increases the power of moves - that are usually base power 60 or below - by 50%."
             
            },
-           {
+          {
+            "id":"",
             "name":"Rattled (hidden ability)",
             "derciption-Abilities":"When a Pokémon with Rattled is hit by a Bug, Ghost or Dark type move, its Speed is raised one stage (up to the usual maximum of +6 stages)."
             
@@ -764,24 +767,27 @@
             }
         ],
         "evolotion-method":"",
-        "imagePokemon":"https://img.pokemondb.net/artwork/meowth-alolan.jpg"
+        "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/052-a.png"
 
     },
     {
         "id":53,
         "name":"Alola Persian",
        "Abilities":[
-           {
+          {
+            "id":"",
             "name":" Fur Coat",
             "derciption-Abilities":"Fur Coat reduces damage taken from physical attacks by 50%."
             
            },
-           {
+          {
+            "id":"",
             "name":" Technician ",
             "derciption-Abilities":"Technician increases the power of moves - that are usually base power 60 or below - by 50%."
             
            },
-           {
+          {
+            "id":"",
             "name":"Rattled (hidden ability)",
             "derciption-Abilities":"When a Pokémon with Rattled is hit by a Bug, Ghost or Dark type move, its Speed is raised one stage (up to the usual maximum of +6 stages)."
             
@@ -826,19 +832,21 @@
             }
         ],
         "evolotion-method":"(high Friendship) in alola",
-        "imagePokemon":"https://img.pokemondb.net/artwork/meowth-alolan.jpg"
+        "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/053-a.png"
 
     },
     {
         "id":27,
         "name":"Alola Sandshrew",
        "Abilities":[
-           {
+          {
+            "id":"",
             "name":"Snow Cloak",
             "derciption-Abilities":"Snow Cloak raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being Ice type)."
             
            },
-           {
+          {
+            "id":"",
             "name":"Slush Rush (hidden ability)",
             "derciption-Abilities":"Boosts the Pokémon's Speed stat in a hailstorm. "
             
@@ -886,19 +894,21 @@
             }
         ],
         "evolotion-method":"",
-        "imagePokemon":"https://img.pokemondb.net/artwork/sandshrew-alolan.jpg"
+        "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/027-a.png"
 
     },
     {
         "id":28,
         "name":"Alola SandSlash",
        "Abilities":[
-           {
+          {
+            "id":"",
             "name":"Snow Cloak",
             "derciption-Abilities":"Snow Cloak raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being Ice type)."
             
            },
-           {
+          {
+            "id":"",
             "name":"Slush Rush (hidden ability)",
             "derciption-Abilities":"Boosts the Pokémon's Speed stat in a hailstorm. "
             
@@ -946,19 +956,21 @@
             }
         ],
         "evolotion-method":"(use Ice Stone)",
-        "imagePokemon":"https://img.pokemondb.net/artwork/sandslash-alolan.jpg"
+        "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/028-a.png"
 
     },
     {
         "id":37,
         "name":"Alola Vulpix",
        "Abilities":[
-           {
+          {
+            "id":"",
             "name":"Snow Cloak",
             "derciption-Abilities":"Snow Cloak raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being Ice type)."
             
            },
-           {
+          {
+            "id":"",
             "name":"Snow Warning (hidden ability)",
             "derciption-Abilities":"Snow Warning creates a hailstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
             
@@ -1007,19 +1019,21 @@
             }
         ],
         "evolotion-method":"(use Leaf Stone, in Alola)",
-        "imagePokemon":"https://img.pokemondb.net/artwork/exeggutor-alolan.jpg"
+        "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/037-a.png"
 
     },
     {
         "id":37,
         "name":"Alola Ninetales",
        "Abilities":[
-           {
+          {
+            "id":"",
             "name":"Snow Cloak",
             "derciption-Abilities":"Snow Cloak raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being Ice type)."
             
            },
-           {
+          {
+            "id":"",
             "name":"Snow Warning (hidden ability)",
             "derciption-Abilities":"Snow Warning creates a hailstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition."
             
@@ -1068,19 +1082,21 @@
             }
         ],
         "evolotion-method":"(use Ice Stone)",
-        "imagePokemon":"https://img.pokemondb.net/artwork/ninetales-alolan.jpg"
+        "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/038-a.png"
 
     },
     {
         "id":103,
         "name":"Alola Exeggutor",
        "Abilities":[
-           {
+          {
+            "id":"",
             "name":"Frisk",
             "derciption-Abilities":"The Pokémon can check a foe's held item. "
             
            },
-           {
+          {
+            "id":"",
             "name":"Harvest (hidden ability)",
             "derciption-Abilities":"May create another Berry after one is used. "
             
@@ -1133,7 +1149,7 @@
             }
         ],
         "evolotion-method":"(use Ice Stone)",
-        "imagePokemon":"https://img.pokemondb.net/artwork/ninetales-alolan.jpg"
+        "imagePokemon":"https://www.serebii.net/sunmoon/pokemon/103-a.png"
 
     }
 
@@ -1141,236 +1157,398 @@
     ],
     "megaForm":[
         {
+            "id":"003",
             "name":"Venusaur",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/7/73/003Venusaur-Mega.png/600px-003Venusaur-Mega.png",
             "type":[
                 "grass",
                 "poison"
             ],
-            "Ability ":"Thick Fat",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Thick Fat",
             "height":"7'10 (2.4 m)",
             "Weight":"342.8 lbs (155.5 kg)",
             "MegaStone":"Venusaurite",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/6/61/Dream_Venusaurite_Sprite.png"
-            
+           
         },
-        {
+       {
+            "id":"",
             "name":"Charizard Mega X",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/3/36/006Charizard-Mega_X.png",
             "type":[
                 " Fire",
                 "Dragon"
             ],
-            "Ability ":"Tough Claws",
+            "BaseStats":{
+                "HP":"78",
+                "ATK":"130",
+                "DEF":"111",
+                "SPA":"130",
+                "SPD":"85",
+                "SPE":"100",
+                "BST":"634"	
+            },
+           "Ability":"Tough Claws",
             "height":"5'07 (1.7 m)",
             "Weight":"243.6 lbs. (110.5 kg)",
             "MegaStone":"Charizardite X",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/5/5f/Dream_Charizardite_X_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Charizard Mega Y",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/f/fd/006Charizard-Mega_Y.png/150px-006Charizard-Mega_Y.png",
             "type":[
                 " Fire",
                 "Flying "
             ],
-            "Ability ":"Drought",
+            "BaseStats":{
+                "HP":"78",
+                "ATK":"104",
+                "DEF":"78",
+                "SPA":"159",
+                "SPD":"115",
+                "SPE":"100",
+                "BST":"634"	
+            },				
+           "Ability":"Drought",
             "height":"5'07 (1.7 m)",
             "Weight":"221.6 lbs. (100.5 kg)",
             "MegaStone":"Charizardite Y",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/7/7c/Dream_Charizardite_Y_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Blastoise",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/8/85/009Blastoise-Mega.png/150px-009Blastoise-Mega.png",
             "type":["Water"],
-            "Ability ":"Mega Launcher",
+           "Ability":"Mega Launcher",
             "height":"5'03 (1.6 m) ",
             "Weight":"222.9 lbs. (101.1 kg)",
             "MegaStone":"Blastoisinite",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/a/ad/Dream_Blastoisinite_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Alakazam",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/3/34/065Alakazam-Mega.png/150px-065Alakazam-Mega.png",
             "type":["Psychic"],
-            "Ability ":"Trace",
+           "Ability":"Trace",
             "height":"3'11 (1.2 m)",
             "Weight":"105.8 lbs. (48.0 kg) ",
             "MegaStone":"Alakazite",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/6/6d/Dream_Alakazite_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Gengar",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/8/80/094Gengar-Mega.png/150px-094Gengar-Mega.png",
             "type":[
                 "Ghost",
                  "Poison"
             ],
-            "Ability ":"Shadow Tag",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Shadow Tag",
             "height":"4'07 (1.4 m)",
             "Weight":"89.3 lbs. (40.5 kg)",
             "MegaStone":"Gengarite",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/a/ab/Dream_Gengarite_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Kangaskhan",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/e/e3/115Kangaskhan-Mega.png/150px-115Kangaskhan-Mega.png",
             "type":[
                 "normal"
                 
             ],
-            "Ability ":"Parental Bond",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Parental Bond",
             "height":"7'03 (2.2 m)",
             "Weight":"220.5 lbs. (100.0 kg) ",
             "MegaStone":"Kangaskhanite",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/5/50/Dream_Kangaskhanite_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Pinsir",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/7/74/127Pinsir-Mega.png/150px-127Pinsir-Mega.png",
             "type":[
                 " Bug ","Flying "
                 
             ],
-            "Ability ":"Aerilate",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Aerilate",
             "height":"5'07 (1.7 m)",
             "Weight":"130.1 lbs. (59.0 kg)",
             "MegaStone":"Pinsirite",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/b/bd/Dream_Pinsirite_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Gyarados",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/3/30/130Gyarados-Mega.png/150px-130Gyarados-Mega.png",
             "type":[
                 "Water","Dark"
                 
             ],
-            "Ability ":"Mold Breaker",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Mold Breaker",
             "height":"21'04 (6.5 m) ",
             "Weight":"672.4 lbs. (305.0 kg) ",
             "MegaStone":"Gyaradosite",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/d/d7/Dream_Gyaradosite_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Aerodactyl",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/a/a5/142Aerodactyl-Mega.png/150px-142Aerodactyl-Mega.png",
             "type":[
                 "Rock","Flying"
             ],
-            "Ability ":"Tough Claws",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Tough Claws",
             "height":"6'11 (2.1 m) ",
             "Weight":"174.2 lbs. (79.0 kg) ",
             "MegaStone":"Aerodactylite",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/8/89/Dream_Aerodactylite_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Mewtwo Mega X",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/7/7f/150Mewtwo-Mega_X.png/150px-150Mewtwo-Mega_X.png",
             "type":[
                 "Psychic","Fighting"
             ],
-            "Ability ":"Steadfast",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Steadfast",
             "height":"7'07 (2.3 m)",
             "Weight":"280.0 lbs. (127.0 kg)",
             "MegaStone":"Mewtwonite X",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/b/b1/Dream_Mewtwonite_X_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Mewtwo Mega Y",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/5/5f/150Mewtwo-Mega_Y.png/150px-150Mewtwo-Mega_Y.png",
             "type":[
                 "Psychic",""
             ],
-            "Ability ":"Insomnia",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Insomnia",
             "height":"4'11 (1.5 m) ",
             "Weight":"72.8 lbs. (33.0 kg) ",
             "MegaStone":"Mewtwonite Y ",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/b/b7/Dream_Mewtwonite_Y_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Ampharos",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/a/a2/181Ampharos-Mega.png/150px-181Ampharos-Mega.png",
             "type":[
                 " Electric","Dragon"
             ],
-            "Ability ":"Mold Breaker",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Mold Breaker",
             "height":"4'07 (1.4 m) ",
             "Weight":"135.6 lbs. (61.5 kg)",
             "MegaStone":"Ampharosite",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/d/d2/Dream_Ampharosite_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Scizor",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/8/80/212Scizor-Mega.png/150px-212Scizor-Mega.png",
             "type":[
                 " Bug","Steel"
             ],
-            "Ability ":"Technician",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Technician",
             "height":"6'07 (2.0 m)",
             "Weight":"275.6 lbs. (125.0 kg) ",
             "MegaStone":"Scizorite",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/1/13/Dream_Scizorite_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Heracross",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/d/da/214Heracross-Mega.png/150px-214Heracross-Mega.png",
             "type":[
                 " Bug","Fighting "
             ],
-            "Ability ":"Skill Link",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Skill Link",
             "height":"5'07 (1.7 m) ",
             "Weight":"137.8 lbs. (62.5 m) ",
             "MegaStone":"Heracronite",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/c/ce/Dream_Heracronite_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Houndoom",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/3/39/229Houndoom-Mega.png/150px-229Houndoom-Mega.png",
             "type":[
                 "Dark","Fire "
             ],
-            "Ability ":"Solar Power",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Solar Power",
             "height":"6'03 (1.9 m)",
             "Weight":"109.1 lbs. (49.5 kg) ",
             "MegaStone":"Houndoominite",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/4/42/Dream_Houndoominite_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Tyranitar",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/0/0d/248Tyranitar-Mega.png/150px-248Tyranitar-Mega.png",
             "type":[
                 "Rock","Dark"
             ],
-            "Ability ":"Sand Stream",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Sand Stream",
             "height":"8'02 (2.5 m)",
             "Weight":"562.2 lbs. (255.0 kg) ",
             "MegaStone":"Tyranitarite",
             "imageMegastone":"https://cdn.bulbagarden.net/upload/0/0e/Dream_Tyranitarite_Sprite.png"
             
         },
-        {
+       {
+            "id":"",
             "name":"Blaziken",
             "imagePokemon":"https://cdn.bulbagarden.net/upload/thumb/f/fa/257Blaziken-Mega.png/150px-257Blaziken-Mega.png",
             "type":[
                 "Fire","Fighting"
             ],
-            "Ability ":"Speed Boost",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Speed Boost",
             "height":"6'03 (1.9 m) ",
             "Weight":"114.6 lbs. (52.0 kg)",
             "MegaStone":"Blazikenite",
@@ -1384,7 +1562,16 @@
             "type":[
                 "Psychic","Fairy"
             ],
-            "Ability ":"Speed Boost",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Speed Boost",
             "height":"5'03 (1.6 m) ",
             "Weight":"106.7 lbs. (48.4 kg)",
             "MegaStone":"Gardevoirite",
@@ -1397,7 +1584,16 @@
             "type":[
                 "Steel","Fairy"
             ],
-            "Ability ":"Huge Power",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Huge Power",
             "height":"3'03 (1.0 m)",
             "Weight":"51.8 lbs. (23.5 kg) ",
             "MegaStone":"Mawilite",
@@ -1410,7 +1606,16 @@
             "type":[
                 "Steel",""
             ],
-            "Ability ":"Filter",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Filter",
             "height":"7'03 (2.2 m)",
             "Weight":"870.8 lbs. (395.0 kg)",
             "MegaStone":"Aggronite",
@@ -1423,7 +1628,16 @@
             "type":[
                 "Fighting","Psychic"
             ],
-            "Ability ":"Pure Power",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Pure Power",
             "height":"4'03 (1.3 m)",
             "Weight":"69.4 lbs. (31.5 kg) ",
             "MegaStone":"Medichamite",
@@ -1436,7 +1650,16 @@
             "type":[
                 "Electric",""
             ],
-            "Ability ":"Intimidate",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Intimidate",
             "height":"5'11 (1.8 m) ",
             "Weight":"97.0 lbs. (44.0 kg)",
             "MegaStone":"Manectite",
@@ -1449,7 +1672,16 @@
             "type":[
                 "Ghost",""
             ],
-            "Ability ":"Prankster",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Prankster",
             "height":"3'11 (1.2 m) ",
             "Weight":"28.7 lbs. (13.0 kg)",
             "MegaStone":"Banettite",
@@ -1462,7 +1694,16 @@
             "type":[
                 "Dark",""
             ],
-            "Ability ":"Magic Bounce",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Magic Bounce",
             "height":"3'11 (1.2 m) ",
             "Weight":"108.0 lbs. (49.0 kg)",
             "MegaStone":"Absolite",
@@ -1475,7 +1716,16 @@
             "type":[
                 "Dragon","Ground"
             ],
-            "Ability ":"Sand Force",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Sand Force",
             "height":"6'03 (1.9 m)",
             "Weight":"209.4 lbs. (95.0 kg) ",
             "MegaStone":"Garchompite",
@@ -1488,7 +1738,16 @@
             "type":[
                 "Fighting","Steel"
             ],
-            "Ability ":"Adaptability",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Adaptability",
             "height":"4'03 (1.3 m) ",
             "Weight":"126.8 lbs. (57.5 kg)",
             "MegaStone":"Lucarionite",
@@ -1501,7 +1760,16 @@
             "type":[
                 "Grass","Ice"
             ],
-            "Ability ":"Snow Warning",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Snow Warning",
             "height":"8'10 (2.7 m)",
             "Weight":"407.9 lbs. (185.0 kg)",
             "MegaStone":"Abomasite",
@@ -1514,7 +1782,16 @@
             "type":[
                 "Bug","Poison"
             ],
-            "Ability ":"Adaptability",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Adaptability",
             "height":"4'07 (1.4 m)",
             "Weight":"89.3 lbs. (40.5 kg) ",
             "MegaStone":"Beedrill",
@@ -1527,7 +1804,16 @@
             "type":[
                 "Normal","Flying"
             ],
-            "Ability ":"No Guard",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"No Guard",
             "height":"7'03 (2.2 m)",
             "Weight":"111.3 lbs. (50.5 kg)",
             "MegaStone":"Pidgeotite",
@@ -1540,7 +1826,16 @@
             "type":[
                 "Water","Psychic"
             ],
-            "Ability ":"Shell Armor",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Shell Armor",
             "height":"6'07 (2.0 m)",
             "Weight":"264.6 lbs. (120.0 kg)",
             "MegaStone":"Slowbronite",
@@ -1553,7 +1848,16 @@
             "type":[
                 "Steel","Ground"
             ],
-            "Ability ":"Sand Force",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Sand Force",
             "height":"34'05 (10.5 m)",
             "Weight":"1631.4 lbs. (740.0 kg) ",
             "MegaStone":"Steelixite",
@@ -1566,7 +1870,16 @@
             "type":[
                 "Grass","Dragon"
             ],
-            "Ability ":"Lightning Rod",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Lightning Rod",
             "height":"6'03 (1.9 m)",
             "Weight":"121.7 lbs. (55.2 kg)",
             "MegaStone":"Sceptilite",
@@ -1579,7 +1892,16 @@
             "type":[
                 "Water","Ground"
             ],
-            "Ability ":"Swift Swim",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Swift Swim",
             "height":"6'03 (1.9 m) ",
             "Weight":"224.9 lbs. (102.0 kg) ",
             "MegaStone":"Swampertite",
@@ -1592,7 +1914,16 @@
             "type":[
                 "Dark","Ghost"
             ],
-            "Ability ":"Magic Bounce",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Magic Bounce",
             "height":"1'08 (0.5 m)",
             "Weight":"354.9 lbs. (161.0 kg)",
             "MegaStone":"Sablenite",
@@ -1605,7 +1936,16 @@
             "type":[
                 "Water","Dark"
             ],
-            "Ability ":"Strong Jaw",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Strong Jaw",
             "height":"8'02 (2.5 m) ",
             "Weight":"287.3 lbs. (130.3 kg) ",
             "MegaStone":"Sharpedonite",
@@ -1618,7 +1958,16 @@
             "type":[
                 "Fire","Ground"
             ],
-            "Ability ":"Sheer Force",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Sheer Force",
             "height":"8'02 (2.5 m) ",
             "Weight":"706.6 lbs. (320.5 kg)",
             "MegaStone":"Cameruptite",
@@ -1631,7 +1980,16 @@
             "type":[
                 "Dragon","Fairy"
             ],
-            "Ability ":"Pixilate",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Pixilate",
             "height":"4'11 (1.5 m)",
             "Weight":"45.4 lbs. (20.6 kg)",
             "MegaStone":"Altarianite",
@@ -1644,7 +2002,16 @@
             "type":[
                 " Ice ",""
             ],
-            "Ability ":"Refrigerate",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Refrigerate",
             "height":"6'11 (2.1 m)",
             "Weight":"772.1 lbs. (350.2 kg) ",
             "MegaStone":"Glalitite",
@@ -1657,7 +2024,16 @@
             "type":[
                 "Dragon","Flying"
             ],
-            "Ability ":"Aerilate",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Aerilate",
             "height":"5'11 (1.8 m)",
             "Weight":"248.2 lbs. (112.6 kg)",
             "MegaStone":"Salamencite",
@@ -1670,7 +2046,16 @@
             "type":[
                 "Steel","Psychic"
             ],
-            "Ability ":"Tough Claws",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Tough Claws",
             "height":"8'02 (2.5 m) ",
             "Weight":"2078.7 lbs. (942.9 kg)",
             "MegaStone":"Metagrossite",
@@ -1683,7 +2068,16 @@
             "type":[
                 " Dragon","Psychic"
             ],
-            "Ability ":"Levitate",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Levitate",
             "height":"5'11 (1.8 m)",
             "Weight":"114.6 lbs. (52.0 kg)",
             "MegaStone":"Latiasite",
@@ -1696,7 +2090,16 @@
             "type":[
                 "Dragon","Psychic"
             ],
-            "Ability ":"Levitate",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Levitate",
             "height":"7'07 (2.3 m)",
             "Weight":"154.3 lbs. (70.0 kg)",
             "MegaStone":"Latiosite",
@@ -1709,7 +2112,16 @@
             "type":[
                 "Dragon","Flying"
             ],
-            "Ability ":"Delta Stream",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Delta Stream",
             "height":"35'05 (10.8 m) ",
             "Weight":"864.2 lbs. (392.0 kg) ",
             "MegaStone":"",
@@ -1722,7 +2134,16 @@
             "type":[
                 "Normal","Fighting"
             ],
-            "Ability ":"Scrappy",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Scrappy",
             "height":"4'03 (1.3 m)",
             "Weight":"62.4 lbs. (28.3 kg)",
             "MegaStone":"Lopunnite",
@@ -1735,7 +2156,16 @@
             "type":[
                 "Psychic","Fighting"
             ],
-            "Ability ":"Inner Focus",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Inner Focus",
             "height":"5'03 (1.6 m)",
             "Weight":"124.3 lbs. (56.4 kg)",
             "MegaStone":"Galladite",
@@ -1748,7 +2178,16 @@
             "type":[
                 "Normal","Fairy"
             ],
-            "Ability ":"Healer",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Healer",
             "height":"4'11 (1.5 m) ",
             "Weight":"70.5 lbs. (32.0 kg)",
             "MegaStone":"Audinite",
@@ -1761,7 +2200,16 @@
             "type":[
                 "Rock","Fairy"
             ],
-            "Ability ":"Magic Bounce",
+            "BaseStats":{
+                "HP":"80",
+                "ATK":"100",
+                "DEF":"123",
+                "SPA":"122",
+                "SPD":"120",
+                "SPE":"80",
+                "BST":"625"	
+            },
+           "Ability":"Magic Bounce",
             "height":"3'07 (1.1 m)",
             "Weight":"61.3 lbs. (27.8 kg) ",
             "MegaStone":"Diancite",

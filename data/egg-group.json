@@ -2,63 +2,78 @@
     "count": 15,
     "results": [
         {
-            "name": "Monster",
+            "id":"",
+           "name": "Monster",
             "color": "#D25064"
         },
         {
-            "name": "Water1",
+            "id":"",
+           "name": "Water1",
             "color": "#97B5FD"
         },
         {
-            "name": "Bug",
+            "id":"",
+           "name": "Bug",
             "color": "#A8B820"
         },
         {
-            "name": "flying",
+            "id":"",
+           "name": "flying",
             "color": "#A890F0"
         },
         {
-            "name": "Field",
+            "id":"",
+           "name": "Field",
             "color": "#E0C068"
         },
         {
-            "name": "fairy",
+            "id":"",
+           "name": "fairy",
             "color": "#EE99AC"
         },
         {
-            "name": "Grass",
+            "id":"",
+           "name": "Grass",
             "color": "#78C850"
         },
         {
-            "name": "Human-Like",
+            "id":"",
+           "name": "Human-Like",
             "color": "#D29682"
         },
         {
-            "name": "water 3",
+            "id":"",
+           "name": "water 3",
             "color": "#5876BE"
         },
         {
-            "name": "mineral",
+            "id":"",
+           "name": "mineral",
             "color": "#7A6252"
         },
         {
-            "name": "Amorphous",
+            "id":"",
+           "name": "Amorphous",
             "color": "#8A8A8A"
         },
         {
-            "name": "water 2",
+            "id":"",
+           "name": "water 2",
             "color": "#729AFA"
         },
         {
-            "name": "ditto",
+            "id":"",
+           "name": "ditto",
             "color": "#A664BF"
         },
         {
-            "name": "dragon",
+            "id":"",
+           "name": "dragon",
             "color": "#7038F8"
         },
         {
-            "name": "Undiscovered",
+            "id":"",
+           "name": "Undiscovered",
             "color": "#333333"
         }
     ]
