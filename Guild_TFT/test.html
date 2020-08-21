@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+<body>
+
+<section class="builder container">
+    <div class="row">
+        <div class="col-12">
+            <div class="board-full">
+                <div class="builder-bonus traits">
+                    <div class="builder-bonus-group">
+                        <div class="empty-list"><img class="info-icon" src="https://rerollcdn.com/ui/icon-info.svg" alt="info" />No active synergies</div>
+                        <div class="builder-bonus-list partial">
+                            <div class="builder-bonus-item" search="Astro" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Astro</div>
+                                  <div class="builder-bonus-milestone">0 / 3</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="origin-icon" src="https://rerollcdn.com/icons/astro.png" alt="Astro">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Battlecast" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Battlecast</div>
+                                  <div class="builder-bonus-milestone">0 / 2</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="origin-icon" src="https://rerollcdn.com/icons/battlecast.png" alt="Battlecast">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Celestial" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Celestial</div>
+                                  <div class="builder-bonus-milestone">0 / 2</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="origin-icon" src="https://rerollcdn.com/icons/celestial.png" alt="Celestial">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Chrono" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Chrono</div>
+                                  <div class="builder-bonus-milestone">0 / 2</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="origin-icon" src="https://rerollcdn.com/icons/chrono.png" alt="Chrono">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item active" search="Cybernetic" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Cybernetic</div>
+                                  <div class="builder-bonus-milestone">1 / 3</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="origin-icon" src="https://rerollcdn.com/icons/cybernetic.png" alt="Cybernetic">
+                                  <div class="builder-bonus-counter"><span>1</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Dark Star" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Dark Star</div>
+                                  <div class="builder-bonus-milestone">0 / 2</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="origin-icon" src="https://rerollcdn.com/icons/darkstar.png" alt="Dark Star">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Mech Pilot" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Mech Pilot</div>
+                                  <div class="builder-bonus-milestone">0 / 3</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="origin-icon" src="https://rerollcdn.com/icons/mechpilot.png" alt="Mech Pilot">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Rebel" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Rebel</div>
+                                  <div class="builder-bonus-milestone">0 / 3</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="origin-icon" src="https://rerollcdn.com/icons/rebel.png" alt="Rebel">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Space Pirate" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Space Pirate</div>
+                                  <div class="builder-bonus-milestone">0 / 2</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="origin-icon" src="https://rerollcdn.com/icons/spacepirate.png" alt="Space Pirate">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Star Guardian" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Star Guardian</div>
+                                  <div class="builder-bonus-milestone">0 / 3</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="origin-icon" src="https://rerollcdn.com/icons/starguardian.png" alt="Star Guardian">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Blademaster" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Blademaster</div>
+                                  <div class="builder-bonus-milestone">0 / 3</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="type-icon" src="https://rerollcdn.com/icons/blademaster.png" alt="Blademaster">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Blaster" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Blaster</div>
+                                  <div class="builder-bonus-milestone">0 / 2</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="type-icon" src="https://rerollcdn.com/icons/blaster.png" alt="Blaster">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Brawler" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Brawler</div>
+                                  <div class="builder-bonus-milestone">0 / 2</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="type-icon" src="https://rerollcdn.com/icons/brawler.png" alt="Brawler">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Demolitionist" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Demolitionist</div>
+                                  <div class="builder-bonus-milestone">0 / 2</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="type-icon" src="https://rerollcdn.com/icons/demolitionist.png" alt="Demolitionist">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Infiltrator" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Infiltrator</div>
+                                  <div class="builder-bonus-milestone">0 / 2</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="type-icon" src="https://rerollcdn.com/icons/infiltrator.png" alt="Infiltrator">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Mana-Reaver" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Mana-Reaver</div>
+                                  <div class="builder-bonus-milestone">0 / 2</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="type-icon" src="https://rerollcdn.com/icons/mana-reaver.png" alt="Mana-Reaver">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Mercenary" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Mercenary</div>
+                                  <div class="builder-bonus-milestone">0 / 1</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="type-icon" src="https://rerollcdn.com/icons/mercenary.png" alt="Mercenary">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Mystic" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Mystic</div>
+                                  <div class="builder-bonus-milestone">0 / 2</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="type-icon" src="https://rerollcdn.com/icons/mystic.png" alt="Mystic">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Paragon" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Paragon</div>
+                                  <div class="builder-bonus-milestone">0 / 1</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="type-icon" src="https://rerollcdn.com/icons/paragon.png" alt="Paragon">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Protector" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Protector</div>
+                                  <div class="builder-bonus-milestone">0 / 2</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="type-icon" src="https://rerollcdn.com/icons/protector.png" alt="Protector">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Sniper" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Sniper</div>
+                                  <div class="builder-bonus-milestone">0 / 2</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="type-icon" src="https://rerollcdn.com/icons/sniper.png" alt="Sniper">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Sorcerer" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Sorcerer</div>
+                                  <div class="builder-bonus-milestone">0 / 2</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="type-icon" src="https://rerollcdn.com/icons/sorcerer.png" alt="Sorcerer">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item" search="Starship" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Starship</div>
+                                  <div class="builder-bonus-milestone">0 / 1</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="type-icon" src="https://rerollcdn.com/icons/starship.png" alt="Starship">
+                                  <div class="builder-bonus-counter hidden"><span>0</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                            <div class="builder-bonus-item active" search="Vanguard" style="cursor: pointer;">
+                               <div class="builder-bonus-info">
+                                  <div class="builder-bonus-name">Vanguard</div>
+                                  <div class="builder-bonus-milestone">1 / 2</div>
+                               </div>
+                               <div class="builder-bonus-icon">
+                                  <img class="type-icon" src="https://rerollcdn.com/icons/vanguard.png" alt="Vanguard">
+                                  <div class="builder-bonus-counter"><span>1</span></div>
+                               </div>
+                               <div class="builder-bonus-count">
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                                  <div class="builder-bonus-count-bar"></div>
+                               </div>
+                            </div>
+                         </div>
+                    </div>
+                </div>
+                <div class="builder-bonus-wrapper">
+                    <div class="builder-bonus builder-board">
+                        <div class="board four-row">
+                            <div class="hex" position="1">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="2">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="3">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="4">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="5">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="6">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="7">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="8">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="9">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="10">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="11">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="12">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="13">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="14">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="15">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="16">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="17">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="18">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="19">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="20">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="21">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="22">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="23">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="24">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="25">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex c5 filled" position="7" style="background-image: url(&quot;https://rerollcdn.com/characters/Skin/3.5/Xerath.png&quot;);">
+                                <div class="characters-item builder-portrait c5 active" type="Champion" data="{&quot;position&quot;:&quot;7&quot;,&quot;id&quot;:&quot;177&quot;,&quot;items&quot;:[],&quot;level&quot;:0}" character="177">
+                                    <div class="character-wrapper" id="177">
+                                        <img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Xerath.png" alt="Xerath">
+                                    </div>
+                                </div>
+                                <div class="hexTop"> </div>
+                                    <div class="hexBottom"></div>
+                                <div class="character-level" data="{&quot;position&quot;:&quot;7&quot;,&quot;id&quot;:&quot;177&quot;,&quot;items&quot;:[],&quot;level&quot;:0}">★★★</div>
+                            </div>
+                            <div class="hex" position="27">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                            <div class="hex" position="28">
+                                <div class="hexTop"></div>
+                                <div class="hexBottom"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="builder-bonus items">
+                        <div class="builder-bonus-group">
+                            <div class="empty-list"><img class="info-icon" src="https://rerollcdn.com/ui/icon-info.svg" alt="info" />No equipped items</div>
+                            
+                        </div>
+                    </div>
+                    <div class="drag-zone">
+                        <div class="characters-list champions">
+                            <div class="list-tools">
+                                <div class="searchbar"><img class="searchbar-icon" src="https://rerollcdn.com/search-icon.svg" alt="search icon" /><input class="searchbar-input" type="text" placeholder="Search by name, trait, or cost..." value="" /><img class="searchbar-close"
+                                        src="https://rerollcdn.com/close-icon.svg" alt="close icon" /></div>
+                                <div class="list-sort active" sort="name">A-Z</div>
+                                <div class="list-sort" sort="cost"><img src="https://rerollcdn.com/ui/icon-gold.svg" alt="cost" /></div>
+                            </div>
+                            <div class="characters-list-wrapper">
+                                <div class="characters-item builder-portrait c2 active" type="Champion" character="126">
+                                    <div class="character-wrapper" id="126"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Ahri.png" alt="Ahri" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c2 active" type="Champion" character="127">
+                                    <div class="character-wrapper" id="127"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Annie.png" alt="Annie" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c3 active" type="Champion" character="128">
+                                    <div class="character-wrapper" id="128"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Ashe.png" alt="Ashe" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c5 active" type="Champion" character="194">
+                                    <div class="character-wrapper" id="194"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/AurelionSol.png" alt="Aurelion Sol" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c3 active" type="Champion" character="179">
+                                    <div class="character-wrapper" id="179"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Bard.png" alt="Bard" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c2 active" type="Champion" character="130">
+                                    <div class="character-wrapper" id="130"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Blitzcrank.png" alt="Blitzcrank" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c1 active" type="Champion" character="131">
+                                    <div class="character-wrapper" id="131"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Caitlyn.png" alt="Caitlyn" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c3 active" type="Champion" character="185">
+                                    <div class="character-wrapper" id="185"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Cassiopeia.png" alt="Cassiopeia" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c2 active" type="Champion" character="133">
+                                    <div class="character-wrapper" id="133"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Darius.png" alt="Darius" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c5 active" type="Champion" character="195">
+                                    <div class="character-wrapper" id="195"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Ekko.png" alt="Ekko" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c3 active" type="Champion" character="192">
+                                    <div class="character-wrapper" id="192"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Ezreal.png" alt="Ezreal" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c1 active" type="Champion" character="136">
+                                    <div class="character-wrapper" id="136"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Fiora.png" alt="Fiora" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c4 active" type="Champion" character="137">
+                                    <div class="character-wrapper" id="137"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Fizz.png" alt="Fizz" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c5 active" type="Champion" character="138">
+                                    <div class="character-wrapper" id="138"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Gangplank.png" alt="Gangplank" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c4 active" type="Champion" character="180">
+                                    <div class="character-wrapper" id="180"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Gnar.png" alt="Gnar" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c1 active" type="Champion" character="139">
+                                    <div class="character-wrapper" id="139"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Graves.png" alt="Graves" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c1 active" type="Champion" character="183">
+                                    <div class="character-wrapper" id="183"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Illaoi.png" alt="Illaoi" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c4 active" type="Champion" character="140">
+                                    <div class="character-wrapper" id="140"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Irelia.png" alt="Irelia" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c5 active" type="Champion" character="191">
+                                    <div class="character-wrapper" id="191"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Janna.png" alt="Janna" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c1 active" type="Champion" character="141">
+                                    <div class="character-wrapper" id="141"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/JarvanIV.png" alt="Jarvan IV" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c3 active" type="Champion" character="142">
+                                    <div class="character-wrapper" id="142"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Jayce.png" alt="Jayce" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c4 active" type="Champion" character="193">
+                                    <div class="character-wrapper" id="193"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Jhin.png" alt="Jhin" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c4 active" type="Champion" character="144">
+                                    <div class="character-wrapper" id="144"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Jinx.png" alt="Jinx" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c3 active" type="Champion" character="146">
+                                    <div class="character-wrapper" id="146"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Karma.png" alt="Karma" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c2 active" type="Champion" character="184">
+                                    <div class="character-wrapper" id="184"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/KogMaw.png" alt="KogMaw" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c1 active" type="Champion" character="150">
+                                    <div class="character-wrapper" id="150"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Leona.png" alt="Leona" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c2 active" type="Champion" character="151">
+                                    <div class="character-wrapper" id="151"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Lucian.png" alt="Lucian" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c5 active" type="Champion" character="152">
+                                    <div class="character-wrapper" id="152"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Lulu.png" alt="Lulu" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c1 active" type="Champion" character="154">
+                                    <div class="character-wrapper" id="154"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Malphite.png" alt="Malphite" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c3 active" type="Champion" character="155">
+                                    <div class="character-wrapper" id="155"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/MasterYi.png" alt="Master Yi" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c2 active" type="Champion" character="157">
+                                    <div class="character-wrapper" id="157"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Mordekaiser.png" alt="Mordekaiser" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c2 active" type="Champion" character="178">
+                                    <div class="character-wrapper" id="178"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Nautilus.png" alt="Nautilus" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c3 active" type="Champion" character="158">
+                                    <div class="character-wrapper" id="158"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Neeko.png" alt="Neeko" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c1 active" type="Champion" character="182">
+                                    <div class="character-wrapper" id="182"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Nocturne.png" alt="Nocturne" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c1 active" type="Champion" character="159">
+                                    <div class="character-wrapper" id="159"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Poppy.png" alt="Poppy" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c2 active" type="Champion" character="160">
+                                    <div class="character-wrapper" id="160"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Rakan.png" alt="Rakan" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c4 active" type="Champion" character="190">
+                                    <div class="character-wrapper" id="190"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Riven.png" alt="Riven" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c3 active" type="Champion" character="161">
+                                    <div class="character-wrapper" id="161"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Rumble.png" alt="Rumble" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c3 active" type="Champion" character="162">
+                                    <div class="character-wrapper" id="162"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Shaco.png" alt="Shaco" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c2 active" type="Champion" character="163">
+                                    <div class="character-wrapper" id="163"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Shen.png" alt="Shen" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c4 active" type="Champion" character="165">
+                                    <div class="character-wrapper" id="165"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Soraka.png" alt="Soraka" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c3 active" type="Champion" character="166">
+                                    <div class="character-wrapper" id="166"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Syndra.png" alt="Syndra" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c4 active" type="Champion" character="181">
+                                    <div class="character-wrapper" id="181"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Teemo.png" alt="Teemo" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c5 active" type="Champion" character="167">
+                                    <div class="character-wrapper" id="167"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Thresh.png" alt="Thresh" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c1 active" type="Champion" character="168">
+                                    <div class="character-wrapper" id="168"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/TwistedFate.png" alt="Twisted Fate" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c5 active" type="Champion" character="187">
+                                    <div class="character-wrapper" id="187"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Urgot.png" alt="Urgot" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c3 active" type="Champion" character="189">
+                                    <div class="character-wrapper" id="189"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Vayne.png" alt="Vayne" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c3 active" type="Champion" character="170">
+                                    <div class="character-wrapper" id="170"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Vi.png" alt="Vi" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c4 active" type="Champion" character="186">
+                                    <div class="character-wrapper" id="186"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Viktor.png" alt="Viktor" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c4 active" type="Champion" character="171">
+                                    <div class="character-wrapper" id="171"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Wukong.png" alt="Wukong" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c1 active" type="Champion" character="172">
+                                    <div class="character-wrapper" id="172"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Xayah.png" alt="Xayah" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c2 active" type="Champion" character="173">
+                                    <div class="character-wrapper" id="173"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/XinZhao.png" alt="Xin Zhao" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c2 active" type="Champion" character="174">
+                                    <div class="character-wrapper" id="174"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Yasuo.png" alt="Yasuo" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c2 active" type="Champion" character="188">
+                                    <div class="character-wrapper" id="188"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Zed.png" alt="Zed" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c1 active" type="Champion" character="175">
+                                    <div class="character-wrapper" id="175"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Ziggs.png" alt="Ziggs" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c1 active" type="Champion" character="176">
+                                    <div class="character-wrapper" id="176"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Zoe.png" alt="Zoe" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait c5 active" type="Champion" character="177">
+                                    <div class="character-wrapper" id="177"><img class="character-icon" src="https://rerollcdn.com/characters/Skin/3.5/Xerath.png" alt="Xerath" /></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="characters-list items">
+                            <div class="list-tools">
+                                <div class="searchbar"><img class="searchbar-icon" src="https://rerollcdn.com/search-icon.svg" alt="search icon" /><input class="searchbar-input" type="text" placeholder="Search by name..." value="" /><img class="searchbar-close" src="https://rerollcdn.com/close-icon.svg"
+                                        alt="close icon" /></div>
+                            </div>
+                            <div class="characters-list-wrapper">
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="38">
+                                    <div class="character-wrapper" name="Battlecast Plating" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/BattlecastPlating.png" alt="Battlecast Plating" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="18">
+                                    <div class="character-wrapper" name="Blade of the Ruined King" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/BladeoftheRuinedKing.png" alt="Blade of the Ruined King" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="16">
+                                    <div class="character-wrapper" name="Bloodthirster" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/Bloodthirster.png" alt="Bloodthirster" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="44">
+                                    <div class="character-wrapper" name="Blue Buff" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/BlueBuff.png" alt="Blue Buff" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="55">
+                                    <div class="character-wrapper" name="Bramble Vest" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/BrambleVest.png" alt="Bramble Vest" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="68">
+                                    <div class="character-wrapper" name="Celestial Orb" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/CelestialOrb.png" alt="Celestial Orb" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="46">
+                                    <div class="character-wrapper" name="Chalice of Power" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/ChaliceofPower.png" alt="Chalice of Power" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="89">
+                                    <div class="character-wrapper" name="Dark Star's Heart" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/DarkStarsHeart.png" alt="Dark Star's Heart" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="11">
+                                    <div class="character-wrapper" name="Deathblade" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/Deathblade.png" alt="Deathblade" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="66">
+                                    <div class="character-wrapper" name="Dragon's Claw" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/DragonsClaw.png" alt="Dragon's Claw" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="88">
+                                    <div class="character-wrapper" name="Force of Nature" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/ForceofNature.png" alt="Force of Nature" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="45">
+                                    <div class="character-wrapper" name="Frozen Heart" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/FrozenHeart.png" alt="Frozen Heart" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="12">
+                                    <div class="character-wrapper" name="Giant Slayer" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/GiantSlayer.png" alt="Giant Slayer" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="15">
+                                    <div class="character-wrapper" name="Guardian Angel" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/GuardianAngel.png" alt="Guardian Angel" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="23">
+                                    <div class="character-wrapper" name="Guinsoo's Rageblade" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/GuinsoosRageblade.png" alt="Guinsoo's Rageblade" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="49">
+                                    <div class="character-wrapper" name="Hand of Justice" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/HandofJustice.png" alt="Hand of Justice" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="13">
+                                    <div class="character-wrapper" name="Hextech Gunblade" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/HextechGunblade.png" alt="Hextech Gunblade" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="28">
+                                    <div class="character-wrapper" name="Infiltrator's Talons" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/InfiltratorsTalons.png" alt="Infiltrator's Talons" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="19">
+                                    <div class="character-wrapper" name="Infinity Edge" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/InfinityEdge.png" alt="Infinity Edge" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="36">
+                                    <div class="character-wrapper" name="Ionic Spark" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/IonicSpark.png" alt="Ionic Spark" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="39">
+                                    <div class="character-wrapper" name="Jeweled Gauntlet" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/JeweledGauntlet.png" alt="Jeweled Gauntlet" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="29">
+                                    <div class="character-wrapper" name="Last Whisper" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/LastWhisper.png" alt="Last Whisper" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="35">
+                                    <div class="character-wrapper" name="Locket of the Iron Solari" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/LocketoftheIronSolari.png" alt="Locket of the Iron Solari" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="34">
+                                    <div class="character-wrapper" name="Luden's Echo" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/LudensEcho.png" alt="Luden's Echo" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="37">
+                                    <div class="character-wrapper" name="Morellonomicon" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/Morellonomicon.png" alt="Morellonomicon" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="78">
+                                    <div class="character-wrapper" name="Protector's Chestguard" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/ProtectorsChestguard.png" alt="Protector's Chestguard" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="69">
+                                    <div class="character-wrapper" name="Quicksilver" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/Quicksilver.png" alt="Quicksilver" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="33">
+                                    <div class="character-wrapper" name="Rabadon's Deathcap" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/RabadonsDeathcap.png" alt="Rabadon's Deathcap" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="22">
+                                    <div class="character-wrapper" name="Rapid Firecannon" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/RapidFirecannon.png" alt="Rapid Firecannon" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="58">
+                                    <div class="character-wrapper" name="Rebel Medal" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/RebelMedal.png" alt="Rebel Medal" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="57">
+                                    <div class="character-wrapper" name="Red Buff" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/RedBuff.png" alt="Red Buff" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="47">
+                                    <div class="character-wrapper" name="Redemption" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/Redemption.png" alt="Redemption" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="26">
+                                    <div class="character-wrapper" name="Runaan's Hurricane" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/RunaansHurricane.png" alt="Runaan's Hurricane" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="59">
+                                    <div class="character-wrapper" name="Shroud of Stillness" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/ShroudofStillness.png" alt="Shroud of Stillness" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="14">
+                                    <div class="character-wrapper" name="Spear of Shojin" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/SpearofShojin.png" alt="Spear of Shojin" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="48">
+                                    <div class="character-wrapper" name="Star Guardian's Charm" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/StarGuardiansCharm.png" alt="Star Guardian's Charm" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="24">
+                                    <div class="character-wrapper" name="Statikk Shiv" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/StatikkShiv.png" alt="Statikk Shiv" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="56">
+                                    <div class="character-wrapper" name="Sword Breaker" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/SwordBreaker.png" alt="Sword Breaker" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="99">
+                                    <div class="character-wrapper" name="Thief's Gloves" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/ThiefsGloves.png" alt="Thief's Gloves" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="25">
+                                    <div class="character-wrapper" name="Titan's Resolve" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/TitansResolve.png" alt="Titan's Resolve" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="79">
+                                    <div class="character-wrapper" name="Trap Claw" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/TrapClaw.png" alt="Trap Claw" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="77">
+                                    <div class="character-wrapper" name="Warmog's Armor" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/WarmogsArmor.png" alt="Warmog's Armor" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="17">
+                                    <div class="character-wrapper" name="Zeke's Herald" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/ZekesHerald.png" alt="Zeke's Herald" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="67">
+                                    <div class="character-wrapper" name="Zephyr" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/Zephyr.png" alt="Zephyr" /></div>
+                                </div>
+                                <div class="characters-item builder-portrait active" type="Item" teamitem="27">
+                                    <div class="character-wrapper" name="Zz'Rot Portal" type="Combined"><img class="character-icon" src="https://rerollcdn.com/items/ZzRotPortal.png" alt="Zz'Rot Portal" /></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+</body>
+</html>

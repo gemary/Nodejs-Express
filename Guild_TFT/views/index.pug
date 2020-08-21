@@ -1,0 +1,540 @@
+doctype html
+head
+  meta(charset='UTF-8')
+  meta(name='viewport' content='width=device-width, initial-scale=1.0')
+  title Document
+  link(rel='stylesheet' href='./css/base.css')
+  link(rel='stylesheet' href='./css/styles.css')
+.App   
+  section.builder.container
+    .row
+      .col-12
+        .board-full
+          .builder-bonus.traits
+            .builder-bonus-group
+              .empty-list
+                img.info-icon(src='https://rerollcdn.com/ui/icon-info.svg' alt='info')
+                | No active synergies
+              .builder-bonus-list.partial
+                  .builder-bonus-item(search='Astro' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Astro
+                      .builder-bonus-milestone 0 / 3
+                    .builder-bonus-icon
+                      img.origin-icon(src='https://rerollcdn.com/icons/astro.png' alt='Astro')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Battlecast' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Battlecast
+                      .builder-bonus-milestone 0 / 8
+                    .builder-bonus-icon
+                      img.origin-icon(src='https://rerollcdn.com/icons/battlecast.png' alt='Battlecast')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Celestial' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Celestial
+                      .builder-bonus-milestone 0 / 6
+                    .builder-bonus-icon
+                      img.origin-icon(src='https://rerollcdn.com/icons/celestial.png' alt='Celestial')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Chrono' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Chrono
+                      .builder-bonus-milestone 0 / 8
+                    .builder-bonus-icon
+                      img.origin-icon(src='https://rerollcdn.com/icons/chrono.png' alt='Chrono')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Cybernetic' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Cybernetic
+                      .builder-bonus-milestone 0 / 6
+                    .builder-bonus-icon
+                      img.origin-icon(src='https://rerollcdn.com/icons/cybernetic.png' alt='Cybernetic')
+                      .builder-bonus-counter
+                        span 1
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Dark Star' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Dark Star
+                      .builder-bonus-milestone 0 / 8
+                    .builder-bonus-icon
+                      img.origin-icon(src='https://rerollcdn.com/icons/darkstar.png' alt='Dark Star')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Mech Pilot' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Mech Pilot
+                      .builder-bonus-milestone 0 / 3
+                    .builder-bonus-icon
+                      img.origin-icon(src='https://rerollcdn.com/icons/mechpilot.png' alt='Mech Pilot')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Rebel' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Rebel
+                      .builder-bonus-milestone 0 / 9
+                    .builder-bonus-icon
+                      img.origin-icon(src='https://rerollcdn.com/icons/rebel.png' alt='Rebel')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Space Pirate' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Space Pirate
+                      .builder-bonus-milestone 0 / 4
+                    .builder-bonus-icon
+                      img.origin-icon(src='https://rerollcdn.com/icons/spacepirate.png' alt='Space Pirate')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Star Guardian' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Star Guardian
+                      .builder-bonus-milestone 0 / 9
+                    .builder-bonus-icon
+                      img.origin-icon(src='https://rerollcdn.com/icons/starguardian.png' alt='Star Guardian')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Blademaster' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Blademaster
+                      .builder-bonus-milestone 0 / 9
+                    .builder-bonus-icon
+                      img.type-icon(src='https://rerollcdn.com/icons/blademaster.png' alt='Blademaster')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Blaster' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Blaster
+                      .builder-bonus-milestone 0 / 4
+                    .builder-bonus-icon
+                      img.type-icon(src='https://rerollcdn.com/icons/blaster.png' alt='Blaster')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Brawler' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Brawler
+                      .builder-bonus-milestone 0 / 4
+                    .builder-bonus-icon
+                      img.type-icon(src='https://rerollcdn.com/icons/brawler.png' alt='Brawler')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Demolitionist' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Demolitionist
+                      .builder-bonus-milestone 0 / 2
+                    .builder-bonus-icon
+                      img.type-icon(src='https://rerollcdn.com/icons/demolitionist.png' alt='Demolitionist')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Infiltrator' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Infiltrator
+                      .builder-bonus-milestone 0 / 6
+                    .builder-bonus-icon
+                      img.type-icon(src='https://rerollcdn.com/icons/infiltrator.png' alt='Infiltrator')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Mana-Reaver' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Mana-Reaver
+                      .builder-bonus-milestone 0 / 2
+                    .builder-bonus-icon
+                      img.type-icon(src='https://rerollcdn.com/icons/mana-reaver.png' alt='Mana-Reaver')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Mercenary' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Mercenary
+                      .builder-bonus-milestone 0 / 1
+                    .builder-bonus-icon
+                      img.type-icon(src='https://rerollcdn.com/icons/mercenary.png' alt='Mercenary')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Mystic' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Mystic
+                      .builder-bonus-milestone 0 / 4
+                    .builder-bonus-icon
+                      img.type-icon(src='https://rerollcdn.com/icons/mystic.png' alt='Mystic')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Paragon' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Paragon
+                      .builder-bonus-milestone 0 / 1
+                    .builder-bonus-icon
+                      img.type-icon(src='https://rerollcdn.com/icons/paragon.png' alt='Paragon')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Protector' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Protector
+                      .builder-bonus-milestone 0 / 6
+                    .builder-bonus-icon
+                      img.type-icon(src='https://rerollcdn.com/icons/protector.png' alt='Protector')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Sniper' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Sniper
+                      .builder-bonus-milestone 0 / 4
+                    .builder-bonus-icon
+                      img.type-icon(src='https://rerollcdn.com/icons/sniper.png' alt='Sniper')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Sorcerer' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Sorcerer
+                      .builder-bonus-milestone 0 / 6
+                    .builder-bonus-icon
+                      img.type-icon(src='https://rerollcdn.com/icons/sorcerer.png' alt='Sorcerer')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Starship' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Starship
+                      .builder-bonus-milestone 0 / 1
+                    .builder-bonus-icon
+                      img.type-icon(src='https://rerollcdn.com/icons/starship.png' alt='Starship')
+                      .builder-bonus-counter.hidden
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                  .builder-bonus-item(search='Vanguard' style='cursor: pointer;')
+                    .builder-bonus-info
+                      .builder-bonus-name Vanguard
+                      .builder-bonus-milestone 0 / 6
+                    .builder-bonus-icon
+                      img.type-icon(src='https://rerollcdn.com/icons/vanguard.png' alt='Vanguard')
+                      .builder-bonus-counter
+                        span 0
+                    .builder-bonus-count
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+                      .builder-bonus-count-bar
+          .builder-bonus-wrapper
+            .builder-bonus.builder-board
+              .board.four-row
+                .hex(position='1')
+                  .hexTop
+                  .hexBottom
+                .hex(position='2')
+                  .hexTop
+                  .hexBottom
+                .hex(position='3')
+                  .hexTop
+                  .hexBottom
+                .hex(position='4')
+                  .hexTop
+                  .hexBottom
+                .hex(position='5')
+                  .hexTop
+                  .hexBottom
+                .hex(position='6')
+                  .hexTop
+                  .hexBottom
+                .hex(position='7')
+                  .hexTop
+                  .hexBottom
+                .hex(position='8')
+                  .hexTop
+                  .hexBottom
+                .hex(position='9')
+                  .hexTop
+                  .hexBottom
+                .hex(position='10')
+                  .hexTop
+                  .hexBottom
+                .hex(position='11')
+                  .hexTop
+                  .hexBottom
+                .hex(position='12')
+                  .hexTop
+                  .hexBottom
+                .hex(position='13')
+                  .hexTop
+                  .hexBottom
+                .hex(position='14')
+                  .hexTop
+                  .hexBottom
+                .hex(position='15')
+                  .hexTop
+                  .hexBottom
+                .hex(position='16')
+                  .hexTop
+                  .hexBottom
+                .hex(position='17')
+                  .hexTop
+                  .hexBottom
+                .hex(position='18')
+                  .hexTop
+                  .hexBottom
+                .hex(position='19')
+                  .hexTop
+                  .hexBottom
+                .hex(position='20')
+                  .hexTop
+                  .hexBottom
+                .hex(position='21')
+                  .hexTop
+                  .hexBottom
+                .hex(position='22')
+                  .hexTop
+                  .hexBottom
+                .hex(position='23')
+                  .hexTop
+                  .hexBottom
+                .hex(position='24')
+                  .hexTop
+                  .hexBottom
+                .hex(position='25')
+                  .hexTop
+                  .hexBottom
+                .hex(position='26')
+                  .hexTop
+                  .hexBottom
+                .hex(position='27')
+                  .hexTop
+                  .hexBottom
+                .hex(position='28')
+                  .hexTop
+                  .hexBottom
+            .builder-bonus.items
+              .builder-bonus-group
+                .empty-list
+                  img.info-icon(src='https://rerollcdn.com/ui/icon-info.svg' alt='info')
+                  | No equipped items
+            .drag-zone
+              .characters-list.champions
+                .list-tools
+                  .searchbar
+                    img.searchbar-icon(src='https://rerollcdn.com/search-icon.svg' alt='search icon')
+                    input.searchbar-input#searchHero(type='text' placeholder='Search by name, trait, or cost...' value='' )
+                    img.searchbar-close(src='https://rerollcdn.com/close-icon.svg' alt='close icon')
+                  .list-sort.active(sort='name') A-Z
+                  .list-sort(sort='cost')
+                    img(src='https://rerollcdn.com/ui/icon-gold.svg' alt='cost')
+                .characters-list-wrapper
+                  each item in listHero
+                    .characters-item.builder-portrait.c2.active(type='Champion' character=item)
+                      .character-wrapper
+                        img.character-icon(src= item.avatar data=item alt=item.name)
+                      
+              .characters-list.items
+                .list-tools
+                  .searchbar
+                    img.searchbar-icon(src='https://rerollcdn.com/search-icon.svg' alt='search icon')
+                    input.searchbar-input(type='text' placeholder='Search by name...' value='')
+                    img.searchbar-close(src='https://rerollcdn.com/close-icon.svg' alt='close icon')
+                .characters-list-wrapper
+                  .characters-item.builder-portrait.active(type='Item' teamitem='38')
+                    .character-wrapper(name='Battlecast Plating' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/BattlecastPlating.png' alt='Battlecast Plating')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='18')
+                    .character-wrapper(name='Blade of the Ruined King' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/BladeoftheRuinedKing.png' alt='Blade of the Ruined King')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='16')
+                    .character-wrapper(name='Bloodthirster' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/Bloodthirster.png' alt='Bloodthirster')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='44')
+                    .character-wrapper(name='Blue Buff' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/BlueBuff.png' alt='Blue Buff')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='55')
+                    .character-wrapper(name='Bramble Vest' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/BrambleVest.png' alt='Bramble Vest')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='68')
+                    .character-wrapper(name='Celestial Orb' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/CelestialOrb.png' alt='Celestial Orb')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='46')
+                    .character-wrapper(name='Chalice of Power' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/ChaliceofPower.png' alt='Chalice of Power')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='89')
+                    .character-wrapper(name="Dark Star's Heart" type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/DarkStarsHeart.png' alt="Dark Star's Heart")
+                  .characters-item.builder-portrait.active(type='Item' teamitem='11')
+                    .character-wrapper(name='Deathblade' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/Deathblade.png' alt='Deathblade')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='66')
+                    .character-wrapper(name="Dragon's Claw" type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/DragonsClaw.png' alt="Dragon's Claw")
+                  .characters-item.builder-portrait.active(type='Item' teamitem='88')
+                    .character-wrapper(name='Force of Nature' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/ForceofNature.png' alt='Force of Nature')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='45')
+                    .character-wrapper(name='Frozen Heart' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/FrozenHeart.png' alt='Frozen Heart')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='12')
+                    .character-wrapper(name='Giant Slayer' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/GiantSlayer.png' alt='Giant Slayer')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='15')
+                    .character-wrapper(name='Guardian Angel' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/GuardianAngel.png' alt='Guardian Angel')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='23')
+                    .character-wrapper(name="Guinsoo's Rageblade" type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/GuinsoosRageblade.png' alt="Guinsoo's Rageblade")
+                  .characters-item.builder-portrait.active(type='Item' teamitem='49')
+                    .character-wrapper(name='Hand of Justice' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/HandofJustice.png' alt='Hand of Justice')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='13')
+                    .character-wrapper(name='Hextech Gunblade' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/HextechGunblade.png' alt='Hextech Gunblade')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='28')
+                    .character-wrapper(name="Infiltrator's Talons" type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/InfiltratorsTalons.png' alt="Infiltrator's Talons")
+                  .characters-item.builder-portrait.active(type='Item' teamitem='19')
+                    .character-wrapper(name='Infinity Edge' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/InfinityEdge.png' alt='Infinity Edge')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='36')
+                    .character-wrapper(name='Ionic Spark' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/IonicSpark.png' alt='Ionic Spark')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='39')
+                    .character-wrapper(name='Jeweled Gauntlet' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/JeweledGauntlet.png' alt='Jeweled Gauntlet')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='29')
+                    .character-wrapper(name='Last Whisper' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/LastWhisper.png' alt='Last Whisper')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='35')
+                    .character-wrapper(name='Locket of the Iron Solari' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/LocketoftheIronSolari.png' alt='Locket of the Iron Solari')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='34')
+                    .character-wrapper(name="Luden's Echo" type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/LudensEcho.png' alt="Luden's Echo")
+                  .characters-item.builder-portrait.active(type='Item' teamitem='37')
+                    .character-wrapper(name='Morellonomicon' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/Morellonomicon.png' alt='Morellonomicon')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='78')
+                    .character-wrapper(name="Protector's Chestguard" type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/ProtectorsChestguard.png' alt="Protector's Chestguard")
+                  .characters-item.builder-portrait.active(type='Item' teamitem='69')
+                    .character-wrapper(name='Quicksilver' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/Quicksilver.png' alt='Quicksilver')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='33')
+                    .character-wrapper(name="Rabadon's Deathcap" type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/RabadonsDeathcap.png' alt="Rabadon's Deathcap")
+                  .characters-item.builder-portrait.active(type='Item' teamitem='22')
+                    .character-wrapper(name='Rapid Firecannon' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/RapidFirecannon.png' alt='Rapid Firecannon')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='58')
+                    .character-wrapper(name='Rebel Medal' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/RebelMedal.png' alt='Rebel Medal')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='57')
+                    .character-wrapper(name='Red Buff' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/RedBuff.png' alt='Red Buff')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='47')
+                    .character-wrapper(name='Redemption' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/Redemption.png' alt='Redemption')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='26')
+                    .character-wrapper(name="Runaan's Hurricane" type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/RunaansHurricane.png' alt="Runaan's Hurricane")
+                  .characters-item.builder-portrait.active(type='Item' teamitem='59')
+                    .character-wrapper(name='Shroud of Stillness' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/ShroudofStillness.png' alt='Shroud of Stillness')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='14')
+                    .character-wrapper(name='Spear of Shojin' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/SpearofShojin.png' alt='Spear of Shojin')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='48')
+                    .character-wrapper(name="Star Guardian's Charm" type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/StarGuardiansCharm.png' alt="Star Guardian's Charm")
+                  .characters-item.builder-portrait.active(type='Item' teamitem='24')
+                    .character-wrapper(name='Statikk Shiv' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/StatikkShiv.png' alt='Statikk Shiv')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='56')
+                    .character-wrapper(name='Sword Breaker' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/SwordBreaker.png' alt='Sword Breaker')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='99')
+                    .character-wrapper(name="Thief's Gloves" type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/ThiefsGloves.png' alt="Thief's Gloves")
+                  .characters-item.builder-portrait.active(type='Item' teamitem='25')
+                    .character-wrapper(name="Titan's Resolve" type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/TitansResolve.png' alt="Titan's Resolve")
+                  .characters-item.builder-portrait.active(type='Item' teamitem='79')
+                    .character-wrapper(name='Trap Claw' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/TrapClaw.png' alt='Trap Claw')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='77')
+                    .character-wrapper(name="Warmog's Armor" type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/WarmogsArmor.png' alt="Warmog's Armor")
+                  .characters-item.builder-portrait.active(type='Item' teamitem='17')
+                    .character-wrapper(name="Zeke's Herald" type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/ZekesHerald.png' alt="Zeke's Herald")
+                  .characters-item.builder-portrait.active(type='Item' teamitem='67')
+                    .character-wrapper(name='Zephyr' type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/Zephyr.png' alt='Zephyr')
+                  .characters-item.builder-portrait.active(type='Item' teamitem='27')
+                    .character-wrapper(name="Zz'Rot Portal" type='Combined')
+                      img.character-icon(src='https://rerollcdn.com/items/ZzRotPortal.png' alt="Zz'Rot Portal")
+script(src="./js/main.js")
