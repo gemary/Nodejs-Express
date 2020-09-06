@@ -4,24 +4,14 @@ const MongoClient = require('mongodb').MongoClient;
 const uri = "mongodb+srv://test:test@cluster0.rdbb5.mongodb.net/demoDB?retryWrites=true&w=majority";
 const DB_NAME ="demoDB";
 const colectionChampion ="origins";
-const client = new MongoClient(uri,  {
-    keepAlive: 300000, 
-    connectTimeoutMS: 30000,
-    useUnifiedTopology: true
-  });
+const colectionUser='tftusers';
+const client = new MongoClient(uri, { useNewUrlParser: true });
 const connects =(actionCallback)=>{
-   
     client.connect(err => {
     const db = client.db(DB_NAME);
-  
     actionCallback(db,()=>{
-
-
-        if (client.isConnected()) {
-            client.close();
-        }
        
-       
+        client.close();
     })
   
 });
@@ -35,9 +25,49 @@ const findItemById=(db,callback)=>{
          callback(docs);
       });
 }
+const registerAction =(db,data,callback)=>{
+    const colection = db.collection(colectionUser);
+    colection.insertOne(data,(err,result)=>{
+        if (err) {
+            throw err
+        }
+        callback(result);
+      })
+}   
 
+const getAllTeamAction =(db,email,callback)=>{
+    const colection = db.collection(colectionUser);
+   colection.find({email}).toArray().then((result)=>{
+    callback(result);
+});
+   
+}
+const LoginAction =(db,data,callback)=>{
+    const colection = db.collection(colectionUser);
+    const {email,pass} = data;
+    const  counts =  colection.find({email,pass}).count();
+    counts.then((result)=>{
+        if (result > 0) {
+            callback(1)
+        }
+        else{
+            callback(2)
+        }
+    })
+    
+}
+const updateDataAction=(db,data,callback)=>{
+    const colection = db.collection(colectionUser);
+    const {email,list}= data;
+    colection.update({email},{$push:{list:list}},(result)=>{
+        callback (result)
+    });
+}
 module.exports ={
     connects,
     findItemById,
-    insertItem
+    registerAction,
+    getAllTeamAction,
+    LoginAction,
+    updateDataAction
 }

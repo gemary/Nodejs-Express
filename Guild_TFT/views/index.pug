@@ -326,59 +326,24 @@ head
                 .hex(position='12')
                   .hexTop
                   .hexBottom
-                .hex(position='13')
-                  .hexTop
-                  .hexBottom
-                .hex(position='14')
-                  .hexTop
-                  .hexBottom
-                .hex(position='15')
-                  .hexTop
-                  .hexBottom
-                .hex(position='16')
-                  .hexTop
-                  .hexBottom
-                .hex(position='17')
-                  .hexTop
-                  .hexBottom
-                .hex(position='18')
-                  .hexTop
-                  .hexBottom
-                .hex(position='19')
-                  .hexTop
-                  .hexBottom
-                .hex(position='20')
-                  .hexTop
-                  .hexBottom
-                .hex(position='21')
-                  .hexTop
-                  .hexBottom
-                .hex(position='22')
-                  .hexTop
-                  .hexBottom
-                .hex(position='23')
-                  .hexTop
-                  .hexBottom
-                .hex(position='24')
-                  .hexTop
-                  .hexBottom
-                .hex(position='25')
-                  .hexTop
-                  .hexBottom
-                .hex(position='26')
-                  .hexTop
-                  .hexBottom
-                .hex(position='27')
-                  .hexTop
-                  .hexBottom
-                .hex(position='28')
-                  .hexTop
-                  .hexBottom
             .builder-bonus.items
               .builder-bonus-group
                 .empty-list
                   img.info-icon(src='https://rerollcdn.com/ui/icon-info.svg' alt='info')
-                  | No equipped items
+                  form(action="/team", method="post" ,id='saveform')
+                    input(type="hidden", name="position1" )
+                    input(type="hidden", name="position2" )
+                    input(type="hidden", name="position3" )
+                    input(type="hidden", name="position4" )
+                    input(type="hidden", name="position5")
+                    input(type="hidden", name="position6" )
+                    input(type="hidden", name="position7" )
+                    input(type="hidden", name="position8" )
+                    input(type="hidden", name="position9" )
+                    input(type="hidden", name="position10" )
+                    input(type="hidden", name="position11" )
+                    input(type="hidden", name="position12" )
+                    input.empty-list#submitbtn(type='button', value='Save') 
             .drag-zone
               .characters-list.champions
                 .list-tools
@@ -401,140 +366,5 @@ head
                     img.searchbar-icon(src='https://rerollcdn.com/search-icon.svg' alt='search icon')
                     input.searchbar-input(type='text' placeholder='Search by name...' value='')
                     img.searchbar-close(src='https://rerollcdn.com/close-icon.svg' alt='close icon')
-                .characters-list-wrapper
-                  .characters-item.builder-portrait.active(type='Item' teamitem='38')
-                    .character-wrapper(name='Battlecast Plating' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/BattlecastPlating.png' alt='Battlecast Plating')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='18')
-                    .character-wrapper(name='Blade of the Ruined King' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/BladeoftheRuinedKing.png' alt='Blade of the Ruined King')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='16')
-                    .character-wrapper(name='Bloodthirster' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/Bloodthirster.png' alt='Bloodthirster')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='44')
-                    .character-wrapper(name='Blue Buff' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/BlueBuff.png' alt='Blue Buff')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='55')
-                    .character-wrapper(name='Bramble Vest' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/BrambleVest.png' alt='Bramble Vest')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='68')
-                    .character-wrapper(name='Celestial Orb' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/CelestialOrb.png' alt='Celestial Orb')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='46')
-                    .character-wrapper(name='Chalice of Power' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/ChaliceofPower.png' alt='Chalice of Power')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='89')
-                    .character-wrapper(name="Dark Star's Heart" type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/DarkStarsHeart.png' alt="Dark Star's Heart")
-                  .characters-item.builder-portrait.active(type='Item' teamitem='11')
-                    .character-wrapper(name='Deathblade' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/Deathblade.png' alt='Deathblade')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='66')
-                    .character-wrapper(name="Dragon's Claw" type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/DragonsClaw.png' alt="Dragon's Claw")
-                  .characters-item.builder-portrait.active(type='Item' teamitem='88')
-                    .character-wrapper(name='Force of Nature' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/ForceofNature.png' alt='Force of Nature')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='45')
-                    .character-wrapper(name='Frozen Heart' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/FrozenHeart.png' alt='Frozen Heart')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='12')
-                    .character-wrapper(name='Giant Slayer' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/GiantSlayer.png' alt='Giant Slayer')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='15')
-                    .character-wrapper(name='Guardian Angel' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/GuardianAngel.png' alt='Guardian Angel')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='23')
-                    .character-wrapper(name="Guinsoo's Rageblade" type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/GuinsoosRageblade.png' alt="Guinsoo's Rageblade")
-                  .characters-item.builder-portrait.active(type='Item' teamitem='49')
-                    .character-wrapper(name='Hand of Justice' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/HandofJustice.png' alt='Hand of Justice')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='13')
-                    .character-wrapper(name='Hextech Gunblade' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/HextechGunblade.png' alt='Hextech Gunblade')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='28')
-                    .character-wrapper(name="Infiltrator's Talons" type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/InfiltratorsTalons.png' alt="Infiltrator's Talons")
-                  .characters-item.builder-portrait.active(type='Item' teamitem='19')
-                    .character-wrapper(name='Infinity Edge' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/InfinityEdge.png' alt='Infinity Edge')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='36')
-                    .character-wrapper(name='Ionic Spark' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/IonicSpark.png' alt='Ionic Spark')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='39')
-                    .character-wrapper(name='Jeweled Gauntlet' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/JeweledGauntlet.png' alt='Jeweled Gauntlet')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='29')
-                    .character-wrapper(name='Last Whisper' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/LastWhisper.png' alt='Last Whisper')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='35')
-                    .character-wrapper(name='Locket of the Iron Solari' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/LocketoftheIronSolari.png' alt='Locket of the Iron Solari')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='34')
-                    .character-wrapper(name="Luden's Echo" type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/LudensEcho.png' alt="Luden's Echo")
-                  .characters-item.builder-portrait.active(type='Item' teamitem='37')
-                    .character-wrapper(name='Morellonomicon' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/Morellonomicon.png' alt='Morellonomicon')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='78')
-                    .character-wrapper(name="Protector's Chestguard" type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/ProtectorsChestguard.png' alt="Protector's Chestguard")
-                  .characters-item.builder-portrait.active(type='Item' teamitem='69')
-                    .character-wrapper(name='Quicksilver' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/Quicksilver.png' alt='Quicksilver')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='33')
-                    .character-wrapper(name="Rabadon's Deathcap" type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/RabadonsDeathcap.png' alt="Rabadon's Deathcap")
-                  .characters-item.builder-portrait.active(type='Item' teamitem='22')
-                    .character-wrapper(name='Rapid Firecannon' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/RapidFirecannon.png' alt='Rapid Firecannon')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='58')
-                    .character-wrapper(name='Rebel Medal' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/RebelMedal.png' alt='Rebel Medal')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='57')
-                    .character-wrapper(name='Red Buff' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/RedBuff.png' alt='Red Buff')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='47')
-                    .character-wrapper(name='Redemption' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/Redemption.png' alt='Redemption')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='26')
-                    .character-wrapper(name="Runaan's Hurricane" type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/RunaansHurricane.png' alt="Runaan's Hurricane")
-                  .characters-item.builder-portrait.active(type='Item' teamitem='59')
-                    .character-wrapper(name='Shroud of Stillness' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/ShroudofStillness.png' alt='Shroud of Stillness')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='14')
-                    .character-wrapper(name='Spear of Shojin' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/SpearofShojin.png' alt='Spear of Shojin')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='48')
-                    .character-wrapper(name="Star Guardian's Charm" type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/StarGuardiansCharm.png' alt="Star Guardian's Charm")
-                  .characters-item.builder-portrait.active(type='Item' teamitem='24')
-                    .character-wrapper(name='Statikk Shiv' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/StatikkShiv.png' alt='Statikk Shiv')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='56')
-                    .character-wrapper(name='Sword Breaker' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/SwordBreaker.png' alt='Sword Breaker')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='99')
-                    .character-wrapper(name="Thief's Gloves" type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/ThiefsGloves.png' alt="Thief's Gloves")
-                  .characters-item.builder-portrait.active(type='Item' teamitem='25')
-                    .character-wrapper(name="Titan's Resolve" type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/TitansResolve.png' alt="Titan's Resolve")
-                  .characters-item.builder-portrait.active(type='Item' teamitem='79')
-                    .character-wrapper(name='Trap Claw' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/TrapClaw.png' alt='Trap Claw')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='77')
-                    .character-wrapper(name="Warmog's Armor" type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/WarmogsArmor.png' alt="Warmog's Armor")
-                  .characters-item.builder-portrait.active(type='Item' teamitem='17')
-                    .character-wrapper(name="Zeke's Herald" type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/ZekesHerald.png' alt="Zeke's Herald")
-                  .characters-item.builder-portrait.active(type='Item' teamitem='67')
-                    .character-wrapper(name='Zephyr' type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/Zephyr.png' alt='Zephyr')
-                  .characters-item.builder-portrait.active(type='Item' teamitem='27')
-                    .character-wrapper(name="Zz'Rot Portal" type='Combined')
-                      img.character-icon(src='https://rerollcdn.com/items/ZzRotPortal.png' alt="Zz'Rot Portal")
+               
 script(src="./js/main.js")

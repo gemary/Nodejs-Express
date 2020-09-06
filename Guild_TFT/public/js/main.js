@@ -1,15 +1,16 @@
-let i =0
+let i =0;
 
 const builderGroup = document.getElementsByClassName('builder-bonus-group');
 
 const tempArr  =[]
 const hexList = document.querySelectorAll('.hex');
 
-const searchElement =document.getElementById('searchHero')
+const searchElement =document.getElementById('searchHero');
 
-const listHero = document.querySelectorAll('.characters-item')
+const listHero = document.querySelectorAll('.characters-item');
 
 const miles = document.querySelectorAll('.builder-bonus-item');
+
 
 
 
@@ -159,3 +160,12 @@ hexList.forEach(e=>{
 
 
 
+
+document.getElementById('submitbtn').addEventListener('click',(evt)=>{
+    const saveForm = document.getElementById('saveform');
+    const listHext = document.querySelectorAll('.hex');
+    listHext.forEach((e,i)=>{
+        saveForm.childNodes[i].value =e.getAttribute('data');
+    })
+    saveForm.submit();
+})
