@@ -19,7 +19,7 @@ app.use(bodyParser.json());
 app.get('/team', (req, res) => {
   const email = req.session.email
   if (!email) {
-    res.redirect('/');
+    res.redirect('/login');
   }else{
     connects((db)=>{
       findItemById(db,(results)=>{
@@ -30,10 +30,10 @@ app.get('/team', (req, res) => {
   }
   
   })
-app.get('/',(req,res)=>{
+app.get('/login',(req,res)=>{
   res.render('login');
 })
-app.post('/',(req,res)=>{
+app.post('/login',(req,res)=>{
   const {email,pass} =req.body;
   const sessData = req.session;
   sessData.email = email;
@@ -65,32 +65,43 @@ app.post('/register',(req,res)=>{
 
 app.post('/team',(req,res)=>{
   const email = req.session.email
-  const {position1,position2,position3,position4,position5,position6,position7,position8,position9,position10,position11,position12}=req.body
-  console.log(position1);
-  connects((db)=>{
-      updateDataAction(db,{email,list:[position1,position2,position3,position4,position5,position6,position7,position8,position9,position10,position11,position12]},
+  const {position1,position2,position3,position4,position5,position6,position7,
+    position8,position9,position10,position11,position12}=req.body
+  if (position1 == "" &&
+   position2 == ""&& 
+   position3 == "" &&
+   position4 == "" &&position5 == "" &&position6 == "" &&position7 == "" &&
+   position8 == "" &&position9 == "" &&position10== "" &&position11== "" &&position12== "" ) {
+    res.redirect('/team');
+  }
+  else{
+    connects((db)=>{
+      updateDataAction(db,{email,list:[position1,position2,position3,position4,
+        position5,position6,position7,position8,position9,position10,position11,position12]},
         (result)=>{
           console.log(result);
           res.redirect('/team');
       })
   })
+  }
+ 
 })
 
-app.get('/list',(req,res)=>{
+app.get('/',(req,res)=>{
   const email = req.session.email
-  const temp =[]
   const temp2 =[]
   connects((db)=>{
     getAllTeamAction(db,email,(result)=>{
        
         result[0].list.forEach(element => {
-          element.forEach((e)=>{
+          let temp =[]
+          element.forEach((e,i)=>{
               if (e !== "") {
                 const jsonstring =JSON.parse(e);
                 temp.push(jsonstring);
               }
               
-          })
+          });
           temp2.push(temp);
         });
         res.render('listteam',{result:temp2})

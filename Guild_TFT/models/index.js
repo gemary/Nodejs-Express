@@ -37,7 +37,7 @@ const registerAction =(db,data,callback)=>{
 
 const getAllTeamAction =(db,email,callback)=>{
     const colection = db.collection(colectionUser);
-   colection.find({email}).toArray().then((result)=>{
+   colection.find({}).toArray().then((result)=>{
     callback(result);
 });
    

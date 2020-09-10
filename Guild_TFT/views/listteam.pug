@@ -9,6 +9,8 @@ head
 .limiter
   .container-login100
     .wrap-login100
+      div.builder-bonus.items
+        a.empty-list(href="/team") Build Team
       table
         thead
         tbody
@@ -17,4 +19,5 @@ head
              each item in items
                 td
                   div.character-wrapper
-                    img(src=item.avatar, alt="asd")
+                    img(src=item.avatar,  alt="asd", width="64")
+  
