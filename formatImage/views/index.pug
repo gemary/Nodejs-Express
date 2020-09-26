@@ -1,0 +1,20 @@
+doctype html
+head
+  meta(charset='UTF-8')
+  meta(name='viewport' content='width=device-width, initial-scale=1.0')
+  title Upload
+  link(rel='stylesheet' href='style.css')
+
+form.frame(action='/' method='POST' enctype='multipart/form-data')
+  p.textAlert #{errorString}
+  .center
+    .title
+      h1 Drop file to upload
+    .dropzone
+      img.upload-icon(src='http://100dayscss.com/codepen/upload.svg')
+      input.upload-input(type='file' name="uploadImage" required )
+    button.btn(type='submit' ) Upload file
+
+form(action="/listitem", method="post")
+    input(type="text" name='email' required)
+    button.btn(type="submit") submit

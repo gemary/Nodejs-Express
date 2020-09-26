@@ -1,0 +1,19 @@
+doctype html
+head
+  title Contact form
+  link(rel='stylesheet' href='https://use.fontawesome.com/releases/v5.4.1/css/all.css' integrity='sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz' crossorigin='anonymous')
+  link(href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700' rel='stylesheet')
+  link(rel='stylesheet' href='result.css')
+.main-block
+  .left-part
+    i.fas.fa-envelope
+    i.fas.fa-at
+    i.fas.fa-mail-bulk
+  form(action='/register' method='POST')
+    h1 Contact Us
+    .info
+      input.fname(type='text' name='name' placeholder='Full name')
+      input(type='text' name='email' placeholder='Email')
+      input(type="hidden", name="resultPath" value=resultPath)
+      input(type="hidden", name="typeiamge" value=typeImg)
+    button(type='submit' ) Submit

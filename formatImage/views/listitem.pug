@@ -1,0 +1,28 @@
+doctype html
+head
+  title List Image
+  meta(charset='UTF-8')
+  meta(name='viewport' content='width=device-width, initial-scale=1')
+  link(rel='stylesheet' type='text/css' href='util.css')
+  link(rel='stylesheet' type='text/css' href='main.css')
+.limiter
+  .container-table100
+    .wrap-table100
+      .table100
+        table
+          thead
+            tr.table100-head
+              th.column1 ID
+              th.column2 Email
+              th.column3 Name
+              th.column3 Image
+          tbody
+           each item in list
+             tr
+                td.column1= _id
+                td.column2=email
+                td.column3=name
+                td.column3  
+                    img(src='/'+item, alt=item ,width='120')
+          
+script(src='js/main.js')

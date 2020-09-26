@@ -1,0 +1,61 @@
+doctype html
+head
+  title  Application Form
+  link(href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700' rel='stylesheet')
+  link(rel='stylesheet' href='https://use.fontawesome.com/releases/v5.5.0/css/all.css' integrity='sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU' crossorigin='anonymous')
+  link(rel='stylesheet' href='form.css')
+.testbox
+  form(action='/result' method='POST')
+    .banner
+      h1 Application Form
+      //- img(src=path  alt='image banner')
+    .item
+      p Name
+      .name-item
+        p  #{originalname}
+    .question
+      p Type
+      .question-answer
+          div
+            input#radio_1(type='radio' value='png'  name='typeImg')
+            label.radio(for='radio_1')
+              span png
+          div
+            input#radio_2(type='radio' value='jpg' name='typeImg')
+            label.radio(for='radio_2')
+              span jpg
+          div
+            input#radio_3(type='radio' value='webp' name='typeImg' )
+            label.radio(for='radio_3')
+              span webp
+    .item
+      p Resize
+      .name-item
+        input(type="hidden", name="innerPath" value=path)
+        input(type='text' name='width' placeholder='Width :  px') 
+        input(type='text' name='height' placeholder='Height :  px')
+    .question
+      p đổi màu 
+      .question-answer
+        div
+          input#default(type='radio' name='colorua' value='1' )
+          label.radio(for='default')
+                span default
+        div
+          input#black(type='radio' name='colorua' value='2')
+          label.radio(for='black')
+                span black white
+    .items 
+      p Quality
+        .item
+          input(type="text" id='rangeValue' placeholder='%' name='quality')
+        input(type="range" min="0" max="100"  class="slider" id="myRange")
+    .btn-block
+      button(type='submit') Send Application
+script.
+  var slider = document.getElementById("myRange");
+  var output = document.getElementById("rangeValue");
+  output.value = slider.value;
+  slider.oninput = function() {
+  output.value = this.value;
+  }

@@ -1,0 +1,415 @@
+doctype html
+head
+  title Get Otp
+  // Required meta tags
+  meta(charset='utf-8')
+  meta(name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no')
+  // Bootstrap CSS
+  link(rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' integrity='sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T' crossorigin='anonymous')
+  script.
+    function coppyPhone() {
+    var copyText = document.getElementById("phone");
+    copyText.select();
+    copyText.setSelectionRange(0, 99999)
+    document.execCommand("copy");
+    }
+    function coppyOtp() {
+    var copyText = document.getElementById("otpcode");
+    copyText.select();
+    copyText.setSelectionRange(0, 99999)
+    document.execCommand("copy");
+  
+    }
+
+.container.form-group
+  h4 Code Sim
+  form.form-group(method='POST' action='/codesim')
+    .form-inline
+        .form-group.row
+            label(for='') Api Key
+            input#apikey.form-control(type='text' name='apikey' placeholder='' value=codesim_Apikey  aria-describedby='helpId')
+            label(for='') Sdt
+            input#phone.form-control(type='text' name='phone' placeholder='' value=codesim_Number aria-describedby='helpId')
+            input.form-control(type='hidden' name='id' placeholder='' value=codesim_requestID aria-describedby='helpId')
+            label(for='') Otp
+            input#otpcode.form-control(type='text'  placeholder='' value=codesim_Otp aria-describedby='helpId')
+            button#create.btn.btn-primary( type='submit') create
+  form(method='POST' action='/otp')
+    input#apikey.form-control(type='hidden' name='apikey' placeholder='' value=codesim_Apikey  aria-describedby='helpId')
+    input#phone.form-control(type='hidden' name='phone' placeholder='' value=codesim_Number aria-describedby='helpId')
+    input.form-control(type='hidden' name='id' placeholder='' value=codesim_requestID aria-describedby='helpId')
+    button#create.btn.btn-primary( type='submit') GetOtp
+  br
+  button#phone.btn.btn-primary( onclick='coppyPhone()' ) copysdt
+  br
+  br   	
+  button#copy.btn.btn-primary(onclick='coppyOtp()') copyOtp
+  p
+  | {
+  | &quot;stt&quot;: 1,
+  | &quot;msg&quot;: &quot;OK&quot;,
+  | &quot;data&quot;: {
+  | &quot;lst&quot;: [
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Facebook&quot;,
+  | &quot;id&quot;: 1
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;eBay&quot;,
+  | &quot;id&quot;: 2
+  | },
+  | {
+  | &quot;gia&quot;: 1200,
+  | &quot;ten&quot;: &quot;Instagram&quot;,
+  | &quot;id&quot;: 3
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;V&iacute; Vi&#x1EC7;t&quot;,
+  | &quot;id&quot;: 4
+  | },
+  | {
+  | &quot;gia&quot;: 2000,
+  | &quot;ten&quot;: &quot;Grab&quot;,
+  | &quot;id&quot;: 5
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;Out look&quot;,
+  | &quot;id&quot;: 6
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Telegram&quot;,
+  | &quot;id&quot;: 7
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Lazada&quot;,
+  | &quot;id&quot;: 8
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;Amazon&quot;,
+  | &quot;id&quot;: 9
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Sen Do&quot;,
+  | &quot;id&quot;: 10
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Momo&quot;,
+  | &quot;id&quot;: 11
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;AirPay&quot;,
+  | &quot;id&quot;: 12
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;TiKi.Vn&quot;,
+  | &quot;id&quot;: 13
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;VN Ng&agrave;y Nay&quot;,
+  | &quot;id&quot;: 14
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;Airbnb&quot;,
+  | &quot;id&quot;: 15
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Hotmail + Yahoo&quot;,
+  | &quot;id&quot;: 16
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;YOLO&quot;,
+  | &quot;id&quot;: 17
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;ZALO + Zalo Pay&quot;,
+  | &quot;id&quot;: 18
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;LIXI88&quot;,
+  | &quot;id&quot;: 19
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;PAYPAL&quot;,
+  | &quot;id&quot;: 20
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Gmail&quot;,
+  | &quot;id&quot;: 22
+  | },
+  | {
+  | &quot;gia&quot;: 2000,
+  | &quot;ten&quot;: &quot;1&quot;,
+  | &quot;id&quot;: 23
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;A &dstrok;&acirc;y r&#x1ED3;i&quot;,
+  | &quot;id&quot;: 24
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;Be&quot;,
+  | &quot;id&quot;: 25
+  | },
+  | {
+  | &quot;gia&quot;: 700,
+  | &quot;ten&quot;: &quot;a&quot;,
+  | &quot;id&quot;: 26
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;TPBank&quot;,
+  | &quot;id&quot;: 27
+  | },
+  | {
+  | &quot;gia&quot;: 2000,
+  | &quot;ten&quot;: &quot;VpBank&quot;,
+  | &quot;id&quot;: 28
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;Go Vi&#x1EC7;t&quot;,
+  | &quot;id&quot;: 29
+  | },
+  | {
+  | &quot;gia&quot;: 2500,
+  | &quot;ten&quot;: &quot;&Dstrok;a d&#x1ECB;ch v&#x1EE5;&quot;,
+  | &quot;id&quot;: 30
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Twiter&quot;,
+  | &quot;id&quot;: 31
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;WhatApp&quot;,
+  | &quot;id&quot;: 32
+  | },
+  | {
+  | &quot;gia&quot;: 1400,
+  | &quot;ten&quot;: &quot;Fan Vip&quot;,
+  | &quot;id&quot;: 33
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Vpay&quot;,
+  | &quot;id&quot;: 34
+  | },
+  | {
+  | &quot;gia&quot;: 2000,
+  | &quot;ten&quot;: &quot;LIAN&quot;,
+  | &quot;id&quot;: 35
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;BigClub&quot;,
+  | &quot;id&quot;: 38
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Net&quot;,
+  | &quot;id&quot;: 39
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;MB BANK&quot;,
+  | &quot;id&quot;: 40
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;Sacombank&quot;,
+  | &quot;id&quot;: 41
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;Vodi&quot;,
+  | &quot;id&quot;: 42
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;Lixi&quot;,
+  | &quot;id&quot;: 43
+  | },
+  | {
+  | &quot;gia&quot;: 2000,
+  | &quot;ten&quot;: &quot;Shopee&quot;,
+  | &quot;id&quot;: 44
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;Alivar&quot;,
+  | &quot;id&quot;: 45
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;BigCoin&quot;,
+  | &quot;id&quot;: 46
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;BAEMIN&quot;,
+  | &quot;id&quot;: 47
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;Trang Nhat VN&quot;,
+  | &quot;id&quot;: 48
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Bao hay 24h&quot;,
+  | &quot;id&quot;: 49
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;NetSale&quot;,
+  | &quot;id&quot;: 50
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;Go2Joy&quot;,
+  | &quot;id&quot;: 51
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;Yippi&quot;,
+  | &quot;id&quot;: 52
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;VIETTELPAY&quot;,
+  | &quot;id&quot;: 54
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;SACOMBANK Pay&quot;,
+  | &quot;id&quot;: 55
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;Appota&quot;,
+  | &quot;id&quot;: 57
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;NganLuong.Vn&quot;,
+  | &quot;id&quot;: 59
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;Viettel + +&quot;,
+  | &quot;id&quot;: 60
+  | },
+  | {
+  | &quot;gia&quot;: 1500,
+  | &quot;ten&quot;: &quot;Bithum&quot;,
+  | &quot;id&quot;: 61
+  | },
+  | {
+  | &quot;gia&quot;: 800,
+  | &quot;ten&quot;: &quot;Go 88&quot;,
+  | &quot;id&quot;: 63
+  | },
+  | {
+  | &quot;gia&quot;: 500,
+  | &quot;ten&quot;: &quot;SunGame&quot;,
+  | &quot;id&quot;: 64
+  | },
+  | {
+  | &quot;gia&quot;: 700,
+  | &quot;ten&quot;: &quot;V88&quot;,
+  | &quot;id&quot;: 65
+  | },
+  | {
+  | &quot;gia&quot;: 700,
+  | &quot;ten&quot;: &quot;Telesafe&quot;,
+  | &quot;id&quot;: 66
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Bigbuy24&quot;,
+  | &quot;id&quot;: 67
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;WeSing&quot;,
+  | &quot;id&quot;: 68
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Tinder&quot;,
+  | &quot;id&quot;: 69
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;CashWagon &quot;,
+  | &quot;id&quot;: 70
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Foody&quot;,
+  | &quot;id&quot;: 71
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;nagavip&quot;,
+  | &quot;id&quot;: 72
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Uvay&quot;,
+  | &quot;id&quot;: 73
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Gas24&quot;,
+  | &quot;id&quot;: 74
+  | },
+  | {
+  | &quot;gia&quot;: 700,
+  | &quot;ten&quot;: &quot;Nohu365&quot;,
+  | &quot;id&quot;: 75
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Tranphu&quot;,
+  | &quot;id&quot;: 76
+  | },
+  | {
+  | &quot;gia&quot;: 700,
+  | &quot;ten&quot;: &quot;BIGO&quot;,
+  | &quot;id&quot;: 77
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;Cho Tot&quot;,
+  | &quot;id&quot;: 78
+  | },
+  | {
+  | &quot;gia&quot;: 1000,
+  | &quot;ten&quot;: &quot;BHX.TGD&Dstrok;&quot;,
+  | &quot;id&quot;: 79
+  | }
+  | ]
+  | }
+  | }

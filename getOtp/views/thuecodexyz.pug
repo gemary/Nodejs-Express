@@ -1,0 +1,582 @@
+doctype html
+head
+  title Get Otp
+  // Required meta tags
+  meta(charset='utf-8')
+  meta(name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no')
+  // Bootstrap CSS
+  link(rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' integrity='sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T' crossorigin='anonymous')
+ 
+  script.
+    function coppyPhone() {
+    var copyText = document.getElementById("phone");
+    copyText.select();
+    copyText.setSelectionRange(0, 99999)
+    document.execCommand("copy");
+    }
+    function coppyOtp() {
+    var copyText = document.getElementById("otpcode");
+    copyText.select();
+    copyText.setSelectionRange(0, 99999)
+    document.execCommand("copy");
+  
+    }
+
+.container.form-group
+  h4 Thue code xyz
+  form.form-group(method='POST',action='/thuecode')
+    .form-inline
+        .form-group.row
+            label(for='') Api Key
+            input#apikey.form-control(type='text' name='apikey' placeholder='' value=thuecodexyz_Apikey  aria-describedby='helpId')
+            label(for='') Sdt
+            input#phone.form-control(type='text'  placeholder='' name='phone' value=thuecodexyz_Number aria-describedby='helpId')
+            input.form-control(type='hidden' name='id'  placeholder='' value=thuecodexyz_requestId aria-describedby='helpId')
+            label(for='') Otp
+            input#otpcode.form-control(type='text'  placeholder=''  value=thuecodexyz_Otp aria-describedby='helpId')
+            button#create.btn.btn-primary(type='submit') create
+  form(method='POST' action='/optthuecodexyz')
+    input#apikey.form-control(type='hidden' name='apikey' placeholder='' value=thuecodexyz_Apikey  aria-describedby='helpId')
+    input#phone.form-control(type='hidden' name='phone' placeholder='' value=thuecodexyz_Number aria-describedby='helpId')
+    input.form-control(type='hidden' name='id' placeholder='' value=thuecodexyz_requestId aria-describedby='helpId')
+    button#create.btn.btn-primary( type='submit') GetOtp
+  br
+  button#phone.btn.btn-primary( onclick='coppyPhone()' ) copysdt
+  br
+  br   	
+  button#copy.btn.btn-primary(onclick='coppyOtp()') copyOtp
+  p
+  | {
+  | &quot;status_code&quot;: 0,
+  | &quot;message&quot;: &quot;Success&quot;,
+  | &quot;data&quot;: [
+  | {
+  | &quot;id&quot;: 7,
+  | &quot;name&quot;: &quot;bunglua.net&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 9,
+  | &quot;name&quot;: &quot;Cube TV&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 13,
+  | &quot;name&quot;: &quot;FACEBOOK&quot;,
+  | &quot;price&quot;: 800,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 15,
+  | &quot;name&quot;: &quot;Foody&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 19,
+  | &quot;name&quot;: &quot;GRAB&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 28,
+  | &quot;name&quot;: &quot;Lazada&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 36,
+  | &quot;name&quot;: &quot;Shopee&quot;,
+  | &quot;price&quot;: 2000,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 44,
+  | &quot;name&quot;: &quot;Tiki&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 52,
+  | &quot;name&quot;: &quot;Yahoo&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 55,
+  | &quot;name&quot;: &quot;12fun&quot;,
+  | &quot;price&quot;: 2000,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 58,
+  | &quot;name&quot;: &quot;VNPT PAY&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 59,
+  | &quot;name&quot;: &quot;DENT&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 60,
+  | &quot;name&quot;: &quot;Vinaphone plus&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 61,
+  | &quot;name&quot;: &quot;TeleSafe&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 62,
+  | &quot;name&quot;: &quot;MSB&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 63,
+  | &quot;name&quot;: &quot;big79&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 65,
+  | &quot;name&quot;: &quot;Telegram&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 66,
+  | &quot;name&quot;: &quot;YOLO&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 67,
+  | &quot;name&quot;: &quot;bigcoin&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 68,
+  | &quot;name&quot;: &quot;MOMO&quot;,
+  | &quot;price&quot;: 1200,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 69,
+  | &quot;name&quot;: &quot;yovip&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 71,
+  | &quot;name&quot;: &quot;locwin&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 72,
+  | &quot;name&quot;: &quot;QCAONLINE&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 73,
+  | &quot;name&quot;: &quot;BigC&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 74,
+  | &quot;name&quot;: &quot;hayzo&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 75,
+  | &quot;name&quot;: &quot;kingfun&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 800
+  | },
+  | {
+  | &quot;id&quot;: 76,
+  | &quot;name&quot;: &quot;VN NG&Agrave;Y NAY&quot;,
+  | &quot;price&quot;: 1200,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 77,
+  | &quot;name&quot;: &quot;Gmail&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 78,
+  | &quot;name&quot;: &quot;AirPay&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 79,
+  | &quot;name&quot;: &quot;My Viettel&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 80,
+  | &quot;name&quot;: &quot;baohay24h&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 81,
+  | &quot;name&quot;: &quot;mconect&quot;,
+  | &quot;price&quot;: 1200,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 82,
+  | &quot;name&quot;: &quot;Xiaomi&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 83,
+  | &quot;name&quot;: &quot;lozi&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 600
+  | },
+  | {
+  | &quot;id&quot;: 84,
+  | &quot;name&quot;: &quot;VATO&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 85,
+  | &quot;name&quot;: &quot;XWallet&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 86,
+  | &quot;name&quot;: &quot;DORE&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 87,
+  | &quot;name&quot;: &quot;vi viet&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 88,
+  | &quot;name&quot;: &quot;Go2Joy&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 89,
+  | &quot;name&quot;: &quot;zalo&quot;,
+  | &quot;price&quot;: 1200,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 90,
+  | &quot;name&quot;: &quot;ban ca v99&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 180
+  | },
+  | {
+  | &quot;id&quot;: 91,
+  | &quot;name&quot;: &quot;VTPay&quot;,
+  | &quot;price&quot;: 1200,
+  | &quot;duration&quot;: 540
+  | },
+  | {
+  | &quot;id&quot;: 92,
+  | &quot;name&quot;: &quot;Yumi&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 93,
+  | &quot;name&quot;: &quot;SENDO&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 94,
+  | &quot;name&quot;: &quot;BAEMIN&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 95,
+  | &quot;name&quot;: &quot;Keeng&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 96,
+  | &quot;name&quot;: &quot;Viettelpost&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 97,
+  | &quot;name&quot;: &quot;appota&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 98,
+  | &quot;name&quot;: &quot;Go88&quot;,
+  | &quot;price&quot;: 800,
+  | &quot;duration&quot;: 201
+  | },
+  | {
+  | &quot;id&quot;: 99,
+  | &quot;name&quot;: &quot;TPBank&quot;,
+  | &quot;price&quot;: 1200,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 100,
+  | &quot;name&quot;: &quot;M88&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 101,
+  | &quot;name&quot;: &quot;VINID&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 102,
+  | &quot;name&quot;: &quot;ZALO RESET&quot;,
+  | &quot;price&quot;: 2000,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 106,
+  | &quot;name&quot;: &quot;Moca&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 107,
+  | &quot;name&quot;: &quot;bigbuy24h&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 108,
+  | &quot;name&quot;: &quot;Loship&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 109,
+  | &quot;name&quot;: &quot;nagavip&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 110,
+  | &quot;name&quot;: &quot;Kubet&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 112,
+  | &quot;name&quot;: &quot;Tinder&quot;,
+  | &quot;price&quot;: 1200,
+  | &quot;duration&quot;: 600
+  | },
+  | {
+  | &quot;id&quot;: 113,
+  | &quot;name&quot;: &quot;AVAY&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 115,
+  | &quot;name&quot;: &quot;Cashwagon&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 116,
+  | &quot;name&quot;: &quot;hotmail&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 117,
+  | &quot;name&quot;: &quot;v8&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 118,
+  | &quot;name&quot;: &quot;blockstact&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 119,
+  | &quot;name&quot;: &quot;Bali&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 120,
+  | &quot;name&quot;: &quot;Kingtip&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 180
+  | },
+  | {
+  | &quot;id&quot;: 121,
+  | &quot;name&quot;: &quot;Vimo&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 122,
+  | &quot;name&quot;: &quot;Livin PMH&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 123,
+  | &quot;name&quot;: &quot;UTOP.VN&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 124,
+  | &quot;name&quot;: &quot;fimplus&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 125,
+  | &quot;name&quot;: &quot;OYO&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 127,
+  | &quot;name&quot;: &quot;vn88&quot;,
+  | &quot;price&quot;: 5000,
+  | &quot;duration&quot;: 200
+  | },
+  | {
+  | &quot;id&quot;: 128,
+  | &quot;name&quot;: &quot;ONME&quot;,
+  | &quot;price&quot;: 100,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 130,
+  | &quot;name&quot;: &quot;singsong&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 180
+  | },
+  | {
+  | &quot;id&quot;: 131,
+  | &quot;name&quot;: &quot;zowin&quot;,
+  | &quot;price&quot;: 800,
+  | &quot;duration&quot;: 220
+  | },
+  | {
+  | &quot;id&quot;: 132,
+  | &quot;name&quot;: &quot;Twitter&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 133,
+  | &quot;name&quot;: &quot;Veryfe&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 134,
+  | &quot;name&quot;: &quot;GoSwak&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 136,
+  | &quot;name&quot;: &quot;Winhu&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 137,
+  | &quot;name&quot;: &quot;phongvu&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 138,
+  | &quot;name&quot;: &quot;VIETTELPAY&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 139,
+  | &quot;name&quot;: &quot;NET79&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 141,
+  | &quot;name&quot;: &quot;B&#x1EA5;t &dstrok;&#x1ED9;ng s&#x1EA3;n&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 142,
+  | &quot;name&quot;: &quot;M86&quot;,
+  | &quot;price&quot;: 1000,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 143,
+  | &quot;name&quot;: &quot;muaban.net&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 144,
+  | &quot;name&quot;: &quot;BDS123.VN&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 300
+  | },
+  | {
+  | &quot;id&quot;: 145,
+  | &quot;name&quot;: &quot;GETIT&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 240
+  | },
+  | {
+  | &quot;id&quot;: 146,
+  | &quot;name&quot;: &quot;DOCTORDONG&quot;,
+  | &quot;price&quot;: 1500,
+  | &quot;duration&quot;: 300
+  | }
+  | ]
+  | }

@@ -1,0 +1,414 @@
+doctype html
+head
+  title Get Otp
+  // Required meta tags
+  meta(charset='utf-8')
+  meta(name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no')
+  // Bootstrap CSS
+  link(rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' integrity='sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T' crossorigin='anonymous')
+  script.
+    function coppyPhone() {
+    var copyText = document.getElementById("phone");
+    copyText.select();
+    copyText.setSelectionRange(0, 99999)
+    document.execCommand("copy");
+    }
+    function coppyOtp() {
+    var copyText = document.getElementById("otpcode");
+    copyText.select();
+    copyText.setSelectionRange(0, 99999)
+    document.execCommand("copy");
+  
+    }
+
+
+.container.form-group
+  h4 Otpsim
+  form.form-group(method='POST' action='/otpsim')
+    .form-inline
+      .form-group.row
+        label(for='') Api Key
+        input#apikey.form-control(type='text' name='apikey' placeholder='' value=Otpsim_Apikey  aria-describedby='helpId')
+        label(for='') Sdt
+        input#phone.form-control(type='text'  placeholder='' value=Otpsim_Number aria-describedby='helpId')
+        label(for='') Otp
+        input#otpcode.form-control(type='text'  placeholder=''  value=Otpsim_Otp aria-describedby='helpId')
+        button#create.btn.btn-primary(type='submit') create
+  form(method='POST' action='/Otpotpsim')
+    input#apikey.form-control(type='hidden' name='apikey' placeholder='' value=Otpsim_Apikey  aria-describedby='helpId')
+    input#phone.form-control(type='hidden' name='phone' placeholder='' value=Otpsim_Number aria-describedby='helpId')
+    input.form-control(type='hidden' name='id' placeholder='' value=Otpsim_requestId aria-describedby='helpId')
+    button#create.btn.btn-primary( type='submit') GetOtp
+  br
+  button#phone.btn.btn-primary( onclick='coppyPhone()' ) copysdt
+  br
+  br   	
+  button#copy.btn.btn-primary(onclick='coppyOtp()') copyOtp
+  p
+  | {
+  | &quot;success&quot;: true,
+  | &quot;message&quot;: &quot;Get data success&quot;,
+  | &quot;data&quot;: [
+  | {
+  | &quot;id&quot;: 1,
+  | &quot;name&quot;: &quot;Gmail&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 2,
+  | &quot;name&quot;: &quot;Yahoo&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 3,
+  | &quot;name&quot;: &quot;Outlook&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 4,
+  | &quot;name&quot;: &quot;Facebook&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 5,
+  | &quot;name&quot;: &quot;Bigo&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 6,
+  | &quot;name&quot;: &quot;Shopee&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 7,
+  | &quot;name&quot;: &quot;App 1H&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 8,
+  | &quot;name&quot;: &quot;App 10p&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 9,
+  | &quot;name&quot;: &quot;Bee&quot;,
+  | &quot;max_keep_count&quot;: 3
+  | },
+  | {
+  | &quot;id&quot;: 10,
+  | &quot;name&quot;: &quot;Zalo+Zalopay&quot;,
+  | &quot;max_keep_count&quot;: 2
+  | },
+  | {
+  | &quot;id&quot;: 11,
+  | &quot;name&quot;: &quot;LPB-VIVIET&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 12,
+  | &quot;name&quot;: &quot;grap&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 15,
+  | &quot;name&quot;: &quot;Go2joy&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 16,
+  | &quot;name&quot;: &quot;Appota&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 17,
+  | &quot;name&quot;: &quot;Momo&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 20,
+  | &quot;name&quot;: &quot;OYO&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 21,
+  | &quot;name&quot;: &quot;Twitter&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 22,
+  | &quot;name&quot;: &quot;Baemin&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 23,
+  | &quot;name&quot;: &quot;Lozi&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 24,
+  | &quot;name&quot;: &quot;VN Ngay Nay&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 25,
+  | &quot;name&quot;: &quot;TrangNhatVN&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 26,
+  | &quot;name&quot;: &quot;azure&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 27,
+  | &quot;name&quot;: &quot;Go88&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 28,
+  | &quot;name&quot;: &quot;Netflix&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 29,
+  | &quot;name&quot;: &quot;yippi&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 33,
+  | &quot;name&quot;: &quot;ZALO&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 34,
+  | &quot;name&quot;: &quot;Sunwin&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 36,
+  | &quot;name&quot;: &quot;VNPTPAY&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 37,
+  | &quot;name&quot;: &quot;Vinid&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 38,
+  | &quot;name&quot;: &quot;Btaskee&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 39,
+  | &quot;name&quot;: &quot;TS-TeleSafe&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 41,
+  | &quot;name&quot;: &quot;AirPay&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 42,
+  | &quot;name&quot;: &quot;WestCoast&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 44,
+  | &quot;name&quot;: &quot;bigbuy24h.&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 45,
+  | &quot;name&quot;: &quot;luckylive&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 46,
+  | &quot;name&quot;: &quot;DINOGO&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 47,
+  | &quot;name&quot;: &quot;G-Pay&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 49,
+  | &quot;name&quot;: &quot;Tinder&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 50,
+  | &quot;name&quot;: &quot;Boyaa&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 51,
+  | &quot;name&quot;: &quot;SenDo&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 52,
+  | &quot;name&quot;: &quot;win68&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 53,
+  | &quot;name&quot;: &quot;TG-Telegram&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 54,
+  | &quot;name&quot;: &quot;V88club&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 55,
+  | &quot;name&quot;: &quot;blockstack&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 56,
+  | &quot;name&quot;: &quot;blockchain&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 57,
+  | &quot;name&quot;: &quot;TRIPI&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 58,
+  | &quot;name&quot;: &quot;Lazada&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 60,
+  | &quot;name&quot;: &quot;VIETTELPAY&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 62,
+  | &quot;name&quot;: &quot;Livin PMH&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 63,
+  | &quot;name&quot;: &quot;VNAY.COM.VN&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 64,
+  | &quot;name&quot;: &quot;BachhoaXanh&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 65,
+  | &quot;name&quot;: &quot;FimPlus&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 66,
+  | &quot;name&quot;: &quot;UTOP&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 67,
+  | &quot;name&quot;: &quot;King fun&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 68,
+  | &quot;name&quot;: &quot;OMG&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 69,
+  | &quot;name&quot;: &quot;Youtube&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 73,
+  | &quot;name&quot;: &quot;Tiniworld&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 74,
+  | &quot;name&quot;: &quot;WESING&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 75,
+  | &quot;name&quot;: &quot;Okiela&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 76,
+  | &quot;name&quot;: &quot;Lotus&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 77,
+  | &quot;name&quot;: &quot;Cashwagon&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 78,
+  | &quot;name&quot;: &quot;GoSwak&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 79,
+  | &quot;name&quot;: &quot;NoHu&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 80,
+  | &quot;name&quot;: &quot;RoBo&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 81,
+  | &quot;name&quot;: &quot;DR&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 82,
+  | &quot;name&quot;: &quot;VD&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 83,
+  | &quot;name&quot;: &quot;Tikvip&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 84,
+  | &quot;name&quot;: &quot;Hotmail&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 85,
+  | &quot;name&quot;: &quot;MyAladdinz&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 86,
+  | &quot;name&quot;: &quot;clipclaps&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 87,
+  | &quot;name&quot;: &quot;3King&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | },
+  | {
+  | &quot;id&quot;: 88,
+  | &quot;name&quot;: &quot;Muaban&quot;,
+  | &quot;max_keep_count&quot;: 0
+  | }
+  | ]
+  | }
+
