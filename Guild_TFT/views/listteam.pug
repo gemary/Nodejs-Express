@@ -1,0 +1,23 @@
+doctype html
+head
+  meta(charset='UTF-8')
+  meta(name='viewport' content='width=device-width, initial-scale=1.0')
+  title Document
+  link(rel='stylesheet' href='css/base.css')
+  link(rel='stylesheet' type='text/css' href='css/util.css')
+  link(rel='stylesheet' type='text/css' href='css/main.css')
+.limiter
+  .container-login100
+    .wrap-login100
+      div.builder-bonus.items
+        a.empty-list(href="/team") Build Team
+      table
+        thead
+        tbody
+          each items in result
+            tr
+             each item in items
+                td
+                  div.character-wrapper
+                    img(src=item.avatar,  alt="asd", width="64")
+  
